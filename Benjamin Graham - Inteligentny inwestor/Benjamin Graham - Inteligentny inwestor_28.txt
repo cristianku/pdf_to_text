@@ -1,0 +1,298 @@
+widać	(Tabela	7.2.)	w	przeciętnych	rezultatach	dla	kolejnych	okresów	pięcioletnich.
+Punktem	odniesienia	są	tu	zarówno	średnie	wyniki	DJIA,	jak	i	10	akcji
+o	najwyższych	wskaźnikach	cena/zysk.
+Obliczenia	firmy	Drexel	pokazują	także,	że	pierwotna	inwestycja	na	sumę	10	000
+dolarów	dokonana	w	roku	1936,	w	akcje	o	najniższym	wskaźniku	cena/zysk,	która
+co	roku	byłaby	zamieniana	na	akcje	aktualnie	„najtańsze”,	do	1962	roku
+osiągnęłaby	wartość	66	900	dolarów.	Takie	same	operacje	na	akcjach
+o	najwyższym	wskaźniku	cena/zysk,	przyniosłyby	w	sumie	jedynie	25	300	dolarów,
+podczas	gdy	inwestycja	we	wszystkie	30	akcji	z	DJIA,	powiększyłaby
+zainwestowane	pierwotnie	środki	do	44	000	dolarów
+140
+.
+Tabela	7.2.	Średni	roczny	zysk	lub	strata	wybranych	akcji	w	latach	1937-1969
+Okres
+10	akcji	z	niskim
+mnożnikiem
+10	akcji	z	wysokim
+mnożnikiem
+30	akcji
+z	DJIA
+1937-1942
+–	2,2
+–	10,0
+–	6,3
+1943-1947
+17,3
+8,3
+14,9
+1948-1952
+16,4
+4,6
+9,9
+1953-1957
+20,9
+10,0
+13,7
+1958-1962
+10,2
+–	3,3
+3,6
+1963-1969	(8
+lat)
+8,0
+4,6
+4,0
+Tabela	7.3.	Ceny	i	zyski	akcji	Chrysler,	1952-1970
+Rok
+Zyski	na	akcje
+Minimum	lub	maksimum
+Wskaźnik	c/z
+1952
+9,04
+maks.	98
+10,8
+1954
+2,13
+min.	56
+26,2
+1955
+11,49
+maks.	101
+1
+/
+2
+8,8
+1956
+2,29
+min.	52	(w	1957)
+22,9
+1957
+13,75
+maks.	82
+6,7
+1958
+(def.)	3,88
+min.	44a
+-
+1968
+24,92b
+maks.	294b
+11,8
+1970
+def.
+min.	65b
+-
+a	W	1962	minimum	wyniosło	37
+1
+/
+2
+.
+b	Po	podziale	akcji.
+def	=	strata	netto.
+Koncepcja	zakupu	„niepopularnych	wielkich	firm”	jest	dość	prosta,	podobnie	jak
+jej	zastosowanie	na	grupie	akcji,	które	zostały	opisane	wyżej.	Jednak	podczas
+rozważania	zakupu	danej	firmy,	trzeba	wziąć	pod	uwagę	jeden	niesprzyjający
+czynnik.	Spółki,	których	akcje	ze	względu	na	silne	wahania	cen,	należy	zaliczyć	do
+spekulacyjnych,	w	dobrych	latach	sprzedają	się	po	stosunkowo	wysokich	cenach
+zestawionych	z	niskim	wskaźnikiem	cena/zysk,	odwrotnie	w	złych	latach,	gdy	cenysą	niskie,	a	wskaźnik	cena/zysk	wysoki.	Relacje	te	ilustruje	Tabela	7.3.,
+przedstawiająca	wahania	cen	i	wskaźników	akcji	Chrysler	Corp.	W	takich
+przypadkach,	rynek	wystarczająco	sceptycznie	podchodzi	do	szans	utrzymania
+nadzwyczaj	wysokich	zysków	spółki,	aby	wyceniać	je	w	tradycyjny	sposób	–
+podobnie	zachowuje	się	w	okresach,	gdy	zyski	są	niskie	lub	nie	ma	ich	wcale
+(zwróćmy	uwagę,	że	gdy	spółka	zarabia	„tyle	co	nic”,	to	z	arytmetyki	wynika,	że	jej
+akcje	muszą	być	sprzedawane	z	wysokim	wskaźnikiem	ceny	do	marnych	zysków).
+Tak	się	składa,	że	firma	Chrysler	była	dość	wyjątkowa	na	liście	czołowych
+przedsiębiorstw	z	indeksu	DJIA,	dlatego	nie	wywarła	większego	wpływu	na	ogólne
+wyniki	obliczeń	dla	spółek	o	niskim	wskaźniku	ceny	do	zysku.	Łatwo	uniknąć
+takich	nietypowych	akcji	na	liście	spółek	z	niskim	wskaźnikiem	cena/zysk,	jeśli
+postawimy	warunek,	że	cena	musi	być	niska	również	w	stosunku	do
+dotychczasowych	średnich	zysków	albo	jeśli	zastosujemy	inne	podobne	kryterium.
+Pisząc	uaktualnienie	do	tego	wydania,	zastosowaliśmy	metodę	niskiego	wskaźnika
+cena/zysk	i	porównaliśmy	wyniki	grupy	spółek,	które	można	było	kupić	pod	koniec
+1968	roku,	z	ich	cenami	z	30	czerwca	1971	roku.	Tym	razem,	wyniki	nas
+rozczarowały	i	pokazały	wyraźną	stratę	dla	sześciu	lub	10	spółek	o	najniższym
+wskaźniku	cena/zysk	oraz	wysoką	rentowność	w	grupie	akcji	o	najwyższym
+wskaźniku.	Jeden	niepomyślny	wynik	nie	podważa	wniosku,	który	został	oparty	na
+ponad	30	doświadczeniach,	ale	fakt,	że	pojawił	się	właśnie	teraz,	ma	pewne
+znaczenie	szczególne.	Być	może,	agresywny	inwestor	dobierający	portfel	akcji,
+powinien	zaczynać	od	koncepcji	„niskiego	wskaźnika”,	ale	musi	też	uwzględniać
+inne	kryteria	jakościowe	i	ilościowe.
+Okazyjny	zakup	papierów	wartościowych
+Za	instrumenty	kupione	okazyjnie	uznajemy	te,	których	wartość	ustalona	przez
+analizę	faktów,	wydaje	się	znacznie	wyższa	od	ceny,	po	której	zostały	sprzedane.
+Można	do	nich	zaliczyć	obligacje,	akcje	uprzywilejowane	sprzedawane	znacznie
+powyżej	wartości	nominalnej	oraz	niektóre	akcje	zwykłe.	Konkretnie,
+proponujemy,	aby	zakupu	papierów	nie	uznawać	za	okazyjny,	jeśli	ich	wartość	nie
+jest	co	najmniej	50%	wyższa	od	ceny.	Co	może	nam	zagwarantować,	że	istnieje	tak
+duża	rozbieżność?	Skąd	się	biorą	takie	papiery	wartościowe	i	jak	inwestor	może	je
+wykorzystać?
+Istnieją	dwa	testy	na	wykrycie	okazyjnych	akcji.	Pierwszy	z	nich,	to	metoda
+wyceny.	Zasadniczo,	polega	ona	na	oszacowaniu	przyszłych	zysków,	a	następnie
+pomnożeniu	ich	przez	współczynnik	odpowiedni	dla	danych	akcji.	Jeśli	wynikająca
+z	tych	obliczeń	wartość,	wystarczająco	przewyższa	cenę	rynkową	–	i	jeśli	inwestor
+ma	zaufanie	do	zastosowanej	techniki	–	może	uznać	akcje	za	okazyjne.	Drugi	test
+polega	na	ocenie	wartości,	jaką	firma	przedstawiłaby	prywatnemu	właścicielowi.
+Wartość	ta	również	jest	często	ustalana	przede	wszystkim	na	podstawiespodziewanych	zysków	–	wtedy	wynik	może	być	identyczny,	jak	przy	pierwszej
+technice.	Jednak	większe	znaczenie	przywiązuje	się	tutaj	do	faktycznej	wartości
+aktywów	spółki,	ze	szczególnym	uwzględnieniem	aktywów	bieżących	netto	czyli
+kapitału	obrotowego.
+Kiedy	ceny	akcji	ogólnie	plasują	się	na	niskim	poziomie,	to	według	powyższych
+norm,	zakup	znacznej	części	akcji	można	uznać	za	okazyjny	(typowym	przykładem
+jest	General	Motors:	w	1941	roku	jej	akcje	sprzedawano	poniżej	30,	czyli	tylko	po	5
+w	przeliczeniu	na	akcje	z	roku	1971.	Zyski	w	tym	czasie	wynosiły	ponad	4	dolary,
+a	wypłacana	dywidenda	–	3,50	dolara	lub	więcej).	To	prawda,	że	bieżące	zyski
+i	najbliższe	prognozy	mogą	być	słabe,	ale	mądra	ocena	przyszłych	warunków
+ogólnych,	pozwala	na	wnikliwszą	ocenę	wartości,	nie	tylko	na	podstawie	aktualnych
+cen.	A	zatem,	za	mądrą	odwagą	w	czasie	spadków	rynkowych,	powinno	stać	nie
+tylko	doświadczenie,	ale	także	rzetelne	techniki	analizy	wartości.
+Te	same	kaprysy	rynku,	które	co	jakiś	czas	tworzą	ogólne	szanse	na	okazyjne
+zakupy,	stwarzają	pojedyncze	okazje	przy	niemal	każdym	poziomie	cen
+giełdowych.	Giełda	ma	skłonność,	aby	robić	z	igły	widły	i	w	drobnych
+wahnięciach	widzieć	przesadne	spadki.
+141
+	Nawet	zwykły	brak	zainteresowania	lub
+entuzjazmu,	może	wywołać	spadek	cen	do	absurdalnie	niskich	poziomów.	A	zatem,
+istnieją	dwie	najważniejsze	przyczyny	zaniżonych	cen	akcji:	niezadowalające
+bieżące	wyniki	spółki	oraz	przedłużający	się	brak	popularności.
+Jednak	żadnej	z	nich,	samej	w	sobie,	nie	można	uznać	za	miarodajną	wskazówkę
+udanej	inwestycji	w	akcje.	Skąd	mieć	więc	pewność,	że	spółka	osiąga
+niezadowalające	wyniki	tylko	przejściowo?	Owszem,	możemy	powołać	się	na
+wspaniałe	przykłady	takich	właśnie	sytuacji.	Choćby	akcje	zakładów	przemysłu
+stalowego,	które	słyną	ze	swojej	cykliczności	i	sprytny	nabywca	może	kupić	je
+tanio,	gdy	zyski	spadają,	a	sprzedać	drogo	w	okresie	boomu	wywołanego	poprawą
+zysków.	Spektakularny	przykład	stanowi	też	Chrysler	Corporation,	co	pokazują
+dane	z	Tabeli	7.3.
+Gdyby	tak	wyglądało	typowe	zachowanie	akcji	spółek,	których	zyski	podlegają
+wahaniom,	zarabianie	na	giełdzie	byłoby	proste.	Niestety,	jest	wiele	przykładów
+spadku	zysków	i	cen,	po	których	wcale	nie	nastąpił	automatyczny,	pokaźny	wzrost.
+Należy	do	nich	spółka	Anaconda	Wire	and	Cable,	która	osiągała	wielkie	zyski	aż	do
+roku	1956,	kiedy	to	cena	jej	akcji	wyniosła	85	dolarów.	Następnie,	przez	sześć	lat
+zyski	nieregularnie	malały,	a	w	1962	roku	cena	spadła	do	23
+1
+/
+2
+	dolara.	Rok	później,
+spółkę	przejęła	macierzysta	firma	(Anaconda	Corporation),	po	cenie	tylko	33
+dolary	za	akcję.
+Wiele	tego	typu	doświadczeń	sugeruje,	że	aby	inwestor	miał	solidny	powód	do
+zakupu	akcji,	musi	widzieć	coś	więcej	niż	tylko	spadek	zysków	i	cen.	Potrzebuje
+dowodów,	że	przez	co	najmniej	10	ostatnich	lat,	spółka	osiągała	w	miarę	stabilne
+zyski	–	to	znaczy	w	żadnym	roku	nie	miała	deficytu	–	i	miała	na	tyle	silną	kondycjęfinansową,	że	w	przyszłości	poradzi	sobie	z	ewentualnymi	trudnościami.	Idealną
+kombinacją	byłaby	tu	szacowna	i	wielka	firma,	której	akcje	sprzedają	się	po	cenie
+znacznie	poniżej	przeciętnej	oraz	przy	wyraźnie	niższym	niż	dotąd	wskaźniku
+cena/zysk.	Bez	wątpienia,	zlikwidowałoby	to	większość	dochodowych	okazji
+związanych	z	takimi	spółkami	jak	Chrysler,	której	przez	lata	niskich	cen
+towarzyszył	wysoki	wskaźnik	cena/zysk.	Zapewniamy	jednak	czytelnika	–	i	to	nie
+po	raz	ostatni	–	że	istnieje	ogromna	przepaść	między	„zyskami	przewidywanymi”
+a	„zyskami	realnymi”.	Mamy	poważne	wątpliwości,	czy	tak	niebezpieczny
+instrument	jak	Chrysler,	byłby	odpowiedni	dla	naszego	przedsiębiorczego
+inwestora.
+Za	następną	przyczynę	spadku	cen	akcji	do	zbyt	niskich	poziomów,	uznaliśmy
+przedłużającą	się	niepopularność.	Obecnie,	za	tego	typu	przykład,	może	nam
+posłużyć	National	Presto	Industries.	W	czasie	hossy	z	roku	1968,	jej	akcje
+sprzedawano	po	maksymalnej	cenie	45	dolarów,	czyli	zaledwie	8	razy	więcej,	niż
+w	tamtym	roku	wyniosły	zyski	na	akcję	(5,61	dolara).	Zyski	na	akcję	rosły	zarówno
+w	roku	1969,	jak	i	w	roku	1970,	ale	cena	spadała,	osiągając	w	1970	roku,	poziom
+zaledwie	21	dolarów.	To	mniej	niż	czterokrotność	zysków	(rekordowych)
+w	tamtym	roku	i	mniej	niż	wartość	aktywów	bieżących	netto.	W	marcu	1972	roku,
+akcje	sprzedawały	się	po	34	dolary,	co	nadal	dawało	wskaźnik	ceny	do	ostatnio
+wykazanych	zysków	na	poziomie	5
+1
+/
+2
+	i	mniej	więcej	odpowiadało	rosnącej	wartości
+aktywów	bieżących	netto.
+Inny	przykład,	to	spółka	Standard	Oil	of	California,	czyli	bardzo	ważny	koncern.
+Na	początku	1972	roku,	jego	akcje	sprzedawano	po	mniej	więcej	takiej	samej	cenie
+jak	13	lat	wcześniej,	czyli,	powiedzmy,	po	56	dolarów.	Zyski	spółki	wykazywały
+znaczną	stabilność	–	rosły	stosunkowo	wolno,	ale	przez	cały	okres	odnotowały
+tylko	jeden	niewielki	spadek.	Wartość	księgowa	spółki	równała	się,	mniej	więcej,
+jej	cenie	rynkowej.	Przy	tych	korzystnych	–	z	konserwatywnego	punktu	widzenia	–
+wynikach	w	latach	1958-1971,	średnia	roczna	nigdy	nie	przewyższała	bieżących
+zysków	więcej	niż	15	razy.	Na	początku	1972	roku,	wskaźnik	cena/zysk	wynosił
+tylko	około	10.
+Zbyt	niskie	ceny	mogą	także	wynikać	z	niedoinformowania	giełdy	w	kwestii
+zysków.	Sztandarowy	przykład	to	przedsiębiorstwo	kolejowe	Northern	Pacific
+Railway,	którego	akcje	w	latach	1946-1947	spadły	z	36	do	13
+1
+/
+2
+.	A	rzeczywiste	zyski
+w	1947	roku,	zbliżały	się	do	10	dolarów	na	akcję.	Cenę	akcji	ciągnęła	w	dół	przede
+wszystkim	niska	dywidenda	na	poziomie	1	dolara.	Niedoinformowanie	brało	się
+również	z	ukrywania	kondycji	finansowej	za	pomocą	metod	księgowych,	typowych
+dla	przedsiębiorstwa	kolejowego.
+Najłatwiejszym	do	zidentyfikowania	rodzajem	papieru	okazyjnego,	są	akcje
+sprzedawane	taniej	niż	wartość	kapitału	obrotowego	netto,	po	potrąceniu	wszelkich
+zobowiązań.
+142
+	W	takiej	sytuacji,	nabywca	akcji	nie	płaci	ani	grosza	za	środki	trwałe–	budynki,	maszyny	itd.	–	oraz	za	dobrą	reputację	firmy,	jeśli	takowa	istnieje.
+Realna	wartość	spółki	bardzo	rzadko	bywa	niższa	od	kapitału	obrotowego,	chociaż
+da	się	znaleźć	nieliczne	przykłady.	Dziwi	raczej	to,	że	na	giełdzie	można	kupić	tak
+wiele	spółek	wycenionych	bardzo	okazyjnie.	Zestawienie	sporządzone	w	roku	1957,
+kiedy	poziom	rynku	bynajmniej	nie	był	niski,	zawiera	około	150	takich	akcji.
+W	tabeli	7.4.	podsumowaliśmy	wyniki	inwestycji,	dokonanej	1	grudnia	1957	roku.
+Zakupiono,	a	potem	utrzymywano	przez	dwa	lata,	po	jednej	akcji	każdej	z	85	spółek
+z	listy,	którą	przedstawił	miesięcznik	Standard	&	Poor's,	
+Monthly	Stock	Guide.
+Tabela	7.4.	Zyski	spółek	niedowartościowanych	1957-1959
+Giełda
+Liczba
+spółek
+Łączne	aktywa
+bieżące	netto	na
+akcję
+Łączna	cena
+w	grudniu
+1957
+Łączna	cena
+w	grudniu
+1959
+w	dol.
+New	York
+S.E.
+35
+748
+419
+838
+American	S.E.
+25
+495
+289
+492
+Midwest	S.E.
+5
+163
+87
+141
+Obrót
+pozagiełdowy
+20
+425
+288
+433
+Razem
+85
+1831
+1083
+1904
+Jakimś	zbiegiem	okoliczności,	przez	dwa	lata	każda	z	grup	zdrożała	do	poziomu,
+mniej	więcej,	wartości	aktywów	bieżących	netto.	W	okresie	tym,	zysk	z	całego
+„portfela”	wyniósł	75%	–	dla	porównania	w	przypadku	425	przedsiębiorstw
+przemysłowych	z	indeksu	Standard	&	Poor's	wynik	ten	wyniósł	50%.	Najbardziej
+zadziwiające	jest	to,	że	żaden	z	tych	papierów	nie	odnotował	poważniejszej	straty,
+siedem	z	nich	utrzymało	prawie	taką	samą	wartość,	a	78	wykazało	znaczne	zyski.
+Przed	rokiem	1957,	przez	wiele	lat,	nasze	doświadczenia	z	tego	typu	doborem
+akcji	–	na	zasadzie	dywersyfikacji	–	zawsze	były	dobre.	Prawdopodobnie,	metodę
+wykorzystywania	niedowartościowania	akcji,	można	uznać	za	bezsprzecznie
+bezpieczną	i	dochodową.	Jednak	pod	wpływem	ogólnego	wzrostu	giełdowego	po
+1957	roku,	liczba	takich	okazji	uległa	znacznemu	ograniczeniu,	a	spośród	tych,
+które	się	pojawiały,	wiele	przynosiło	niewielkie	zyski,	a	nawet	straty.	Spadek	na
+rynku	w	latach	1969-1970,	spowodował	pojawienie	się	nowych	akcji	„tańszych	od
+kapitału	obrotowego”.	Omawiamy	tę	grupę	w	Rozdziale	15…	–	poświęconym
+doborowi	akcji	inwestora	przedsiębiorczego.
+Schematy	zachowań	okazyjnych	akcji	spółek	drugorzędnych.	Przez	spółkę
+drugorzędną	rozumiemy	taką,	która	nie	jest	liderem	w	jakiejś	ważnej	branży.
+A	zatem	do	kategorii	tej,	zaliczają	się	mniejsze	przedsiębiorstwa	z	ważnych	branż,
+a	także	wiodące	firmy	z	mniej	znaczących	sektorów.	Wyjątek	stanowią	spółki,

@@ -1,0 +1,277 @@
+zakładamy,	że	rabat	na	jednostki	funduszy	zamkniętych,	zmieni	się,	to	skąd
+wiadomo,	że	wyjdziesz	na	nich	gorzej,	niż	gdybyś	dokonał	zakupu	jednostek
+funduszu	otwartego?
+Przyda	się	odrobina	arytmetyki.	Załóżmy,	że	Inwestor	A,	kupuje	jednostki
+funduszu	otwartego	po	109%	wartości	aktywów,	a	Inwestor	B,	kupuje	jednostki
+funduszu	zamkniętego	po	85%	plus	1
+1
+/
+2
+%	prowizji.	Oba	pakiety	jednostek	przez
+cztery	lata	uzyskują	i	wypłacają	30%	wartości	aktywów,	a	na	koniec	tego	okresu
+wynosi	ona	tyle	samo,	co	na	początku.	Inwestor	A	odsprzedaje	swoje	udziały	po
+100%	wartości,	tracąc	przy	tym	9%	zapłaconej	nadwyżki.	Jego	ogólny	zysk	w	tym
+okresie	wynosi	30%	minus	9%,	czyli	21%	wartości	aktywów.	Co	z	kolej	daje	19%
+z	zainwestowanej	sumy.	Ile	Inwestor	B	musiałby	uzyskać	z	jednostek	funduszu
+zamkniętego,	aby	osiągnąć	taką	samą	rentowność	swojej	inwestycji,	jak	Inwestor
+A?	Odpowiedź	brzmi:	73%,	czyli	27%	rabatu	od	wartości	aktywów.	Innymi	słowy,
+posiadacz	jednostek	funduszu	zamkniętego,	mógłby	ścierpieć	zmianę	wysokości
+rabatu	od	wartości	12	punktów	(czyli	prawie	dwukrotną),	zanim	jego	zyski
+spadłyby	do	poziomu	tego,	kto	zainwestował	w	fundusz	otwarty.	Zmiana
+w	odwrotną	stronę,	w	dziejach	zamkniętych	funduszy,	zdarzała	się	rzadko.	Dlatego,
+istnieje	bardzo	małe	prawdopodobieństwo,	że	osiągniesz	mniejszą	rentowność
+z	funduszu	zamkniętego,	którego	jednostkę	kupiłeś	z	rabatem,	jeśli	wyniki	będą
+mniej	więcej	takie	same,	jak	w	reprezentatywnym	funduszu	wzajemnym.	Jeśli
+fundusz	obciążony	zwyczajową	prowizją	8
+1
+/
+2
+%,	zamienia	się	na	fundusz	z	małą
+prowizją	(albo	bez	niej),	to	oczywiście	inwestycja	w	fundusz	zamknięty	jest
+mniejsza,	ale	nadal	pozostaje	bardziej	korzystna.
+Tabela	9.5.	Porównanie	dwóch	wiodących	firm	prowadzących	fundusze	zamknięte”
+Pięć	lat
+Nadwyżka	lub	rabat
+grudzień	1970
+1970
+1966-
+1970
+1961-
+1970
+General	Am.
+Investors	Co.
+–	0,3
++	34,0
++	165,6
+7,6	rabat
+Lehman	Corp.
+–	7,2
++20,6
++	108,0
+13,9	nadwyżka
+a	Dane	z	Wiesenberger	Financial	Services.
+Fakt,	że	nowe	fundusze	zamknięte,	sprzedają	jednostki	z	marżą	wyższą	niż	9%
+narzutu	większości	funduszy	wzajemnych,	to	dla	inwestora	zupełnie	inny	problem.
+Czy	tego	typu	fundusze	zapewniają	lepsze	zarządzanie,	które	jest	warte	zapłacenia
+podwyższonej	ceny?	Jeśli	szukać	odpowiedzi	w	porównaniu	danych	z	ostatnich
+pięciu	lub	10	lat,	to	odpowiedź	brzmi	„nie”.	Trzy,	z	sześciu	funduszy	sprzedających
+jednostki	z	marżą,	inwestowały	przede	wszystkim	w	papiery	zagraniczne.	Ich	cechą
+charakterystyczną	jest	duża	zmienność	cen	w	ostatnich	kilku	latach.	Pod	koniec	1970
+roku,	jeden	sprzedawał	po	zaledwie	jednej	czwartej	ceny,	drugi	po	jednej	trzeciej,
+a	trzeci	za	niecałą	połowę.	Jeśli	weźmiemy	pod	uwagę	trzy	krajoweprzedsiębiorstwa,	sprzedające	udziały	powyżej	wartości	księgowej,	to	zauważymy,
+że	ich	średnia	rentowność	z	10	lat	była	nieco	wyższa	niż	tych	10	funduszy
+oferujących	rabaty.	Ale	w	ostatnich	pięciu	latach	było	odwrotnie.	Porównanie
+danych	Lehman	Corp.	i	General	American	Investors,	dwóch	najstarszych
+i	największych	funduszy	zamkniętych	w	latach	1961-1970,	znajduje	się	w	Tabeli	9.5.
+W	1970	roku,	jeden	z	nich	sprzedawał	po	cenie	14%	powyżej	wartości	księgowej
+netto,	a	drugi	7,6%	poniżej	tej	wartości.	Wydaje	się,	że	liczby	te	nie	gwarantują
+różnicy	w	relacjach	między	ceną	a	wartością	księgową.
+Inwestycje	w	fundusze	zrównoważone
+Sprawozdanie	Wiesenbergera	wymienia	23	fundusze	zrównoważone,	które	mają	od
+25%	do	59%	swoich	aktywów	w	preferowanych	akcjach	i	obligacjach.	Równowagę
+utrzymują	akcje	zwykłe.	Wydawałoby	się,	że	dla	typowego	inwestora,	korzystniej
+byłoby	dokonać	inwestycji	bezpośredniej	niż	w	formie	wzajemnych	funduszy.
+W	1970	roku,	średnia	rentowność	funduszy	zrównoważonych,	wynosiła	tylko	3,9%
+wartości	księgowej,	czyli	jakieś	3,6%	ceny	oferowanej.	Do	części	portfela
+przeznaczonej	na	obligacje,	lepiej	byłoby	kupić	obligacje	oszczędnościowe	USA,
+obligacje	spółek	z	wyceną	A	lub	wyższą	lub	obligacje	nie	podlegające	podatkowi.KOMENTARZ	DO	ROZDZIAŁU	9
+–	Gdybyś	miał	12	owiec	–	zapytał	nauczyciel	Billy'ego	Boba	–	i	jedna	przeskoczyłaby	przez	płot,	to	ile
+owiec	by	zostało?
+–	Żadna	–	odpowiedział	Billy	Bob.
+–	Widzę	–	rzekł	nauczyciel	–	że	nie	znasz	się	na	odejmowaniu.
+–	Może	i	nie	–	odparł	Billy	Bob	–	ale	na	swoich	owcach	znam	się	bardzo	dobrze.
+Stary	teksański	dowcip
+Prawie	doskonałe
+Fundusz	wzajemny	to	twór	czysto	amerykański	i	został	wprowadzony	w	1924	roku,
+przez	Edwarda	G.	Lefflera,	byłego	sprzedawcę	aluminiowych	garnków	i	patelni.
+Fundusze	wzajemne	są	dość	tanie,	bardzo	wygodne,	na	ogół	zdywersyfikowane,
+profesjonalnie	zarządzane	i	podlegają	najostrzejszym	przepisom	federalnej	ustawy
+o	papierach	wartościowych.	Ponieważ	są	łatwe	do	inwestowania	i	stać	na	nie	prawie
+każdego,	dzięki	nim	około	54	mln	amerykańskich	rodzin	(i	kolejne	miliony	na
+całym	świecie),	mogły	zająć	się	inwestowaniem,	co	stanowi	chyba	największy
+postęp	w	demokratyzacji	finansów,	jaki	kiedykolwiek	udało	się	osiągnąć.
+Ale	fundusze	wzajemne	nie	są	doskonałe.	Są	
+prawie
+	doskonałe,	a	to	duża	różnica.
+Na	skutek	swoich	niedoskonałości,	większość	funduszy	osiąga	słabsze	wyniki	niż
+średnia	rynkowa,	nadmiernie	obciążają	swoich	inwestorów,	wywołują	ból	głowy
+z	powodu	opodatkowania,	a	ich	wyniki	podlegają	kaprysom.	Inteligentny	inwestor
+musi	więc	dobierać	fundusze	z	wielką	ostrożnością,	aby	nie	skończyło	się	na	tym,
+że	ma	jedno	wielkie	nic.
+Na	górze	wykresu
+Większość	inwestorów	kupuje	po	prostu	jednostki	funduszy,	które	do	tej	pory
+szybko	nabierały	wartości,	zakładając,	że	tak	będzie	nadal.	Czemuż	by	nie?
+Psychologowie	wykazali,	że	istoty	ludzkie	mają	wrodzoną	tendencję	do	wiary	w	to,
+że	na	podstawie	nawet	krótkiej	serii	wyników,	można	przewidywać	następne,	także
+w	dalekiej	perspektywie.	Ponadto,	z	własnego	doświadczenia	wiemy,	że	jednihydraulicy	są	lepsi	od	innych,	że	istnieje	znaczniej	większe	prawdopodobieństwo,
+że	jedni	baseballiści	zdobędą	więcej	punktów	od	innych,	że	nasza	ulubiona
+restauracja	serwuje	dania	smaczniejsze	niż	gdzie	indziej,	i	że	zdolne	dzieciaki
+otrzymują	dobre	oceny.	Że	umiejętności,	intelekt	i	ciężka	praca	są	doceniane
+i	wynagradzane.	Dlatego,	jeśli	jakiś	fundusz	wybija	się	ponad	przeciętną,	to	intuicja
+podpowiada,	że	nadal	będzie	osiągać	wyniki	lepsze	niż	średnie.
+Ilustracja	9.1.	The	Crash-and-Burn	Club
+Fundusz
+Suma	zysków
+Wartość
+w	31.12.2002	10	000
+dol.
+zainwestowanych
+01.01.1999
+1999
+2000
+2001
+2002
+Van	Wagoner	Emerging
+Growth
+291,2
+–
+	20,9
+–
+	59,7
+–
+	64,6
+4419
+Monument	Internet
+273,1
+–
+	56,9
+–
+	52,2
+–
+	51,2
+3756
+Amerindo	Technology
+248,9
+–
+	64,8
+–
+	50,8
+–
+	31,0
+4175
+PBHG	Technology
+&	Communications
+243,9
+–
+	43,7
+–
+	52,4
+–
+	54,5
+4198
+Van	Wagoner	Post-
+Venture
+237,2
+–
+	30,3
+–
+	62,1
+–
+	67,3
+2907
+ProFunds	Ultra	OTC
+233,2
+–
+	73,7
+–
+	69,1
+–
+	69,4
+829
+Van	 Wagoner
+Technology
+223,8
+–
+	28,1
+–
+	61,9
+–
+	65,8
+3029
+Thurlow	Growth
+213,2
+–
+	56,0
+–
+	26,1
+–
+	31,0
+7015
+Firsthand	Technology
+Innovators
+212,3
+–
+	37,9
+–
+	29,1
+–
+	54,8
+6217
+Janus	 Global
+Technology
+211,6
+–
+	33,7
+–
+	40,0
+–
+	40,9
+7327
+Indeks	Wilshire	5000
+(wszystkie	akcje
+giełdowe)
+23,8
+–
+	10,9
+–
+	11,0
+–
+	20,8
+7780
+Źródło:	Lipper.
+Uwaga:	Monument	Internet	został	przemianowany	na	Orbitex	Emerging	Technology.
+Te	dziesięć	funduszy	osiągnęło	najlepsze	wyniki	w	1999	roku	i	należały	do	najlepszych	wyników	wszechczasów.
+Jednak	trzy	kolejne	lata	wyeliminowały	całe	gigantyczne	zyski	z	poprzednich	lat.
+Niestety,	na	rynkach	finansowych	od	umiejętności	ważniejsze	jest	szczęście.	Jeśli
+menedżerowi	uda	się	znaleźć	na	giełdzie	w	odpowiednim	miejscu	i	w	odpowiednim
+czasie,	to	będzie	postrzegany	jako	człowiek	błyskotliwy.	Ale	często,	to	co	piękne,
+okazuje	się	brzydkie	i	raptem	iloraz	inteligencji	menedżera	zdaje	się	spadać	o	50punktów.	Tabela	9.1.	prezentuje,	co	działo	się	z	„najgorętszymi”	funduszami	1999
+roku.
+Ten	przykład,	po	raz	kolejny	pokazuje	nam,	że	często	najgorętszy	sektor	giełdy	–
+w	1999	roku	były	to	spółki	technologiczne	–	w	mgnieniu	oka	i	bez	ostrzeżenia	staje
+się	zimny	jak	płynny	azot.
+200
+	Niesie	także	informację,	że	kupowanie	funduszy	tylko
+na	podstawie	wyników	z	przeszłości,	to	jedna	z	najgłupszych	rzeczy,	na	jakie	może
+się	porwać	inwestor.	Naukowcy	z	uczelni	finansowych,	analizowali	wyniki	funduszy
+wzajemnych	przez	najmniej	pół	wieku	i	w	kilku	sprawach	są	zgodni:
+•	przeciętny	fundusz	nie	wybiera	akcji	na	tyle	dobrze,	aby	zwróciły	się	koszty
+analizy	i	obrotu,
+•	im	wyższe	koszty	funduszu,	tym	niższe	zyski,
+•	im	częściej	fundusz	obraca	swoimi	akcjami,	tym	mniej	zarabia,
+•	fundusze	chwiejne,	które	skaczą	w	górę	i	w	dół	bardziej	niż	przeciętnie,
+najprawdopodobniej	pozostaną	chwiejne,
+•	mało	prawdopodobne,	aby	fundusze,	które	w	przeszłości	osiągały	największe
+zyski,	długo	pozostały	w	gronie	zwycięzców.
+201
+Szanse	na	to,	że	na	podstawie	wyników	z	przeszłości,	uda	ci	się	wybrać	najlepsze
+fundusze	w	przyszłości,	są	tak	samo	wysokie,	jak	to,	że	Bigfoot	i	Abominable
+Snowman,	pokażą	się	w	różowych	baletkach	na	twoim	najbliższym	przyjęciu.
+Innymi	słowy,	szanse	nie	wynoszą	zero…	Ale	są	bardzo	blisko	zera	(patrz	ramka	na
+str.	235).
+Jest	jednak	też	dobra	wiadomość.	Po	pierwsze,	już	samo	zrozumienie,	dlaczego
+tak	trudno	znaleźć	dobry	fundusz,	pomaga	stać	się	inwestorem	bardziej
+inteligentnym.	Po	drugie,	wyniki	z	przeszłości	są	słabym	wskaźnikiem	przyszłych
+osiągnięć,	ale	istnieją	inne	dane,	pozwalające	poprawić	swoje	szanse	na	wybór
+dobrego	funduszu.	I	w	końcu,	fundusz	może	oferować	znaczną	wartość	nawet,	gdy
+nie	wybija	się	ponad	przeciętną	rynkową,	jeśli	stanowi	oszczędny	sposób	na
+dywersyfikację	swojej	inwestycji	i	daje	ci	wolny	czas,	który	w	innym	razie
+musiałbyś	poświęcić	na	samodzielne	dobieranie	akcji.
+Pierwsi	będą	ostatnimi
+Dlaczego	fundusze	tracą	swoją	czołową	pozycję?
+Bo	im	lepsze	osiągają	wyniki,	tym	na	więcej	przeszkód	natykają	się:
+Migracje	menedżerów
+.	Gdy	osoba	odpowiedzialna	za	dobór	akcji	sprawia,	że
+wszystko,	czego	się	dotknie,	zamienia	w	złoto,	każdy	chce	ją	zatrudnić,	nawet
+konkurencyjne	towarzystwo	funduszy.	Jeśli	kupiłeś	Transamerica	Premier	Equity
+Fund,	aby	zarobić	dzięki	umiejętnościom	Glena	Bickerstaffa,	który	w	1997	roku

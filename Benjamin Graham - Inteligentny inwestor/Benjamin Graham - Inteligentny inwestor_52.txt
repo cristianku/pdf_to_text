@@ -1,0 +1,362 @@
+się	także	porównać	przypisy	do	oświadczenia	finansowego,	z	co	najmniej	jedną
+firmą	konkurencyjną,	aby	sprawdzić,	na	ile	„kreatywne”	jest	księgowanie.
+Czytaj	więcej
+.	Jeśli	jesteś	inwestorem	przedsiębiorczym	i	zamierzasz	poświęcać
+swojemu	portfelowi	wiele	czasu	i	energii,	do	ciebie	należy	poszerzenie	wiedzy	na
+temat	sporządzania	raportów	finansowych.	To	jedyny	sposób,	aby	zminimalizować
+ryzyko,	że	zostaniesz	wyprowadzony	w	pole.	Oto	trzy	rzetelne,	pełne	konkretnych
+przykładów	książki	godne	polecenia:	Martin	Fridson	i	Fernando	Alvarez,	
+Financial
+Statement	Analysis
+,	Charles	Mulford	i	Eugene	Comiskey,	
+The	Financial	Numbers
+Game
+	oraz	Howard	Schilit	
+Financial	Shenanigans
+.
+274ROZDZIAŁ	
+13
+Porównanie	czterech	spółek	giełdowych
+W	tym	rozdziale	chcemy	przedstawić	praktyczną	próbkę	analizy	papierów
+wartościowych.	Wybraliśmy	mniej	lub	bardziej	losowo	cztery	spółki	notowane	na
+New	York	Stock	Exchange.	Są	to	ELTRA	Corp.	(powstała	z	fuzji	Electric	Autolite
+i	Mergenthaler	Linotype),	Emerson	Electric	Co.	(producent	artykułów
+elektrycznych	i	elektronicznych),	Emery	Air	Freight	(krajowy	przewoźnik	lotniczy)
+i	Emhart	Corp.	(dawniej	tylko	twórca	maszyn	butelkujących,	a	obecnie	także
+producent	sprzętu	budowlanego).
+275
+	Między	tymi	przedsiębiorstwami	produkcyjnymi
+jest	wiele	podobieństw,	ale	różnice	okażą	się	bardziej	znaczące.	Aby	przeprowadzić
+stosowną	analizę,	należy	zgromadzić	odpowiednią	ilość	danych.
+W	tabeli	13.1.	przedstawiamy	zestawienie,	z	czym	te	cztery	spółki	były
+sprzedawane	pod	koniec	1970	roku	oraz	kilka	danych	na	temat	działalności	w	1970
+roku.	Dalej,	prezentujemy	ważne	wskaźniki	związane,	z	jednej	strony	z	wynikami
+działalności,	a	z	drugiej	–	z	ceną.	Relacje	między	zmianami	wyników,	a	zmianami
+cen	wymagają	komentarza.	Na	koniec	przedstawiamy	podsumowanie	każdej	ze
+spółek	i	podsuwamy	pewne	porównania,	relacje	i	oceny,	pod	kątem	wymogów
+konserwatywnego	inwestora.
+Porównanie	czterech	spółek	giełdowych
+ELTRA
+Emerson
+Electric
+Emery	Air
+Freight
+Emhart
+Corp.
+A.	Kapitalizacja
+Cena	 akcji
+zwykłych	31
+grudnia	1970
+27
+66
+57
+3
+/
+4
+32
+3
+/
+4
+Liczba	akcji
+zwykłych
+7	714	000
+24	884	000a
+3	807	000
+4	932	000
+w	dolarach
+Wartość	rynkowa
+akcji	zwykłych
+208	300	000
+1	640	000	000
+220	000	000
+160	000	000
+Obligacje	i	akcje
+uprzywilejowane
+8	000	000
+42	000	000
+9	200	000
+Kapitalizacja	razem
+216	300	000
+1	682	000	000
+220	000	000
+169	200	000B.	Dochody
+Sprzedaż	1970
+454	000	000
+657	000	000
+108	000	000
+227	000	000
+Dochód	netto	1970
+20	773	000
+54	600	000
+5	679	000
+13	551	000
+Zysk	na	akcję	1970
+2,70
+2,30
+1,49
+2,75b
+Średni	zysk	na	akcję
+1968-1970
+2,78
+2,10
+1,28
+2,81
+Średni	zysk	na	akcję
+1963-1965
+1,54
+1,06
+0,54
+2,46
+Średni	zysk	na	akcję
+1958-1960
+0,54
+0,57
+0,17
+1,21
+Dywidenda	bieżąca
+1,20
+1,16
+1,00
+1,20
+C.	Bilans	1970
+Aktywa	bieżące
+205	000	000
+307	000	000
+20	400	000
+121	000	000
+Pasywa	bieżące
+71	000	000
+72	000	000
+11	800	000
+34	800	000
+Aktywa	netto	na
+akcję	zwykłą
+207	000	000
+257	000	000
+15	200	000
+133	000	000
+Wartość	księgowa
+na	akcję
+27,05
+10,34
+3,96
+27,02
+a	Przy	założeniu	wymiany	akcji	uprzywilejowanych.
+b	Po	obciążeniu	specjalną	opłatą	13	centów	od	akcji.
+c	Rok	kończący	się	we	wrześniu.
+Tabela	13.2.	Porównanie	czterech	notowanych	spółek	(ciąg	dalszy)
+ELTRA
+Emerson
+Electric
+Emery	Air
+Freight
+Emhart
+Corp.
+B.	Wskaźniki
+Cena/zysk	1970
+10,0x
+30,00x
+38,5x
+11,90x
+Cena/zysk	1968-1970
+9,7x
+33,00x
+45,0x
+11,70x
+Cena/wartość	księgowa
+1,0x
+6,37x
+14,3x
+1,22x
+Dochód	netto/sprzedaż	1970
+4,6%
+8,50%
+5,40%
+5,70%
+Dochód	netto	na	akcję/wartość
+księgowa
+10,00%
+22,20%
+34,50%
+10,20%
+Dywidenda
+4,45%
+1,78%
+1,76%
+3,65%
+Aktywa	bieżące	do	pasywów
+bieżących
+2,9x
+4,3x
+1,7x
+3,4x
+Kapitał	obrotowy/zadłużenie
+bardzo
+duży
+5,6x
+brak
+zadłużenia
+3,4x
+Wzrost	zysku	na	akcję:
+1968-1970	a	1963-1965
++81%
++87%
++	135%
++	14%
+1968-1970	a	1958-1970
++400%
++250%
+bardzo	duże
++	132%
+C.	Ceny
+1936-1968	min.
+3
+/
+4
+1
+1
+/
+8
+3
+5
+/
+8maks.
+50
+3
+/
+4
+61
+1
+/
+2
+66
+58
+1
+/
+4
+1970	min.
+18
+5
+/
+8
+42
+1
+/
+8
+41
+23
+1
+/
+2
+1971	maks.
+29
+3
+/
+8
+78
+3
+/
+4
+72
+44
+3
+/
+8
+Najbardziej	uderza	fakt,	że	cztery	wskaźniki	cena/zysk,	różnią	się	od	siebie
+znacznie	bardziej	niż	wyniki	działalności	i	kondycja	finansowa	spółek.	Dwie	z	nich
+–	ELTRA	Corp.	i	Emhart	Corp.	–	miały	ceny	umiarkowane,	odpowiednio	9,7	i	12
+razy	wyższe	od	średnich	zysków	w	latach	1968-1970,	a	dla	porównania	ten	sam
+wskaźnik	dla	spółek	z	DJIA	wynosił	15,5.	Pozostałe	dwa	przedsiębiorstwa	–
+Emerson	i	Emery	–	wykazały	się	wysokimi	mnożnikami	zysków	–	33	i	45.
+Wyjaśnienia	tych	różnic	należy	szukać	w	wyższym	wzroście	zysków	z	ostatnich	lat,
+zwłaszcza	w	przypadku	przewoźnika	lotniczego	(mimo	to,	o	wzroście	zysków
+pozostałych	dwóch	spółek,	nie	można	powiedzieć,	żeby	nie	był	satysfakcjonujący).
+Aby	przyjrzeć	się	temu	dokładniej,	pozwolimy	sobie	przedstawić	w	skrócie
+najważniejsze	elementy	działalności,	które	wyłaniają	się	z	naszych	danych.
+1.	
+Dochodowość
+.	Wszystkie	cztery	spółki	prezentują	zadowalające	zyski
+w	zestawieniu	z	wartością	księgową,	ale	dane	Emerson	i	Emery	są	znacznie	wyższe
+niż	pozostałych.	Wysoka	stopa	zwrotu	z	zainwestowanego	kapitału,	często	idzie
+w	parze	z	wysoką	roczną	stopą	wzrostu	zysków	na	akcję.
+276
+	Wszystkie	firmy,
+z	wyjątkiem	Emery,	wykazują	lepsze	zyski	w	stosunku	do	wartości	księgowej
+w	roku	1969	niż	w	roku	1961.	Ale	wynik	Emery	był	w	obydwu	tych	latach
+nadzwyczaj	wysoki.	W	przypadku	przedsiębiorstw	produkcyjnych,	zysk	na	jednego
+dolara	obrotów,	to	zazwyczaj	wskaźnik	relatywnej	słabości	albo	siły.	Tutaj
+zastosowaliśmy	wskaźnik	dochodów	operacyjnych	do	sprzedaży,	taki	sam,	jak	ten
+podawany	w	
+Listed	Stock	Reports,	
+wydawanym	przez	Standard	&	Poor's.	Tutaj	także
+wyniki	wszystkich	firm	są	zadowalające,	a	w	przypadku	Emerson	–	wręcz
+imponujące.	Zmiany	między	1961	rokiem,	a	1969	rokiem	różnią	się	w	zależności
+od	spółki.
+2.	
+Stabilność
+.	Mierzymy	ją	maksymalnym	procentowym	spadkiem	zysków	na
+akcję,	w	każdym	roku	z	minionych	10	lat,	w	zestawieniu	ze	średnią	z	trzech
+ostatnich	lat.	Brak	spadku	przekłada	się	na	100%	stabilności.	Właśnie	taki	wyniki
+osiągnęły	dwa	koncerny.	Ale	spadki	ELTRA	i	Emhart	były	łagodne	w	słabym	roku
+1970	i	wyniosły	8%,	a	dla	porównania	DJIA	–	7%.
+3.	
+Wzrost
+.	Dwie	spółki	z	niskim	mnożnikiem,	wykazują	zadowalającą	stopę
+wzrostu,	w	obydwu	przypadkach	wyższą	niż	spółki	z	Dow	Jones.	Dane	ELTRY
+wypadają	szczególnie	imponująco,	jeśli	zestawimy	je	z	niskim	wskaźnikiem
+cena/zysk.	Oczywiście,	u	dwóch	spółek	z	wysokim	mnożnikiem,	wzrost	jest	jeszcze
+bardziej	imponujący.
+4.	
+Pozycja	finansowa
+.	Trzy	przedsiębiorstwa	produkcyjne,	mają	stabilną	pozycję
+finansową	i	wyższy	od	normalnego	stosunek	aktywów	bieżących	2:1	–	(2	dolary)	dopasywów	bieżących	(1	dolar).	Emery	Air	Freight	ma	ten	wskaźnik	niższy,	ale	należy
+on	do	innej	kategorii,	i	przy	swoich	znakomitych	notowaniach	nie	ma	problemów
+z	gromadzeniem	potrzebnej	gotówki.	Wszystkie	przedsiębiorstwa	mają	relatywnie
+niskie	zadłużenie	długoterminowe.	Kwestia	„rozcieńczenia”:	na	koniec	1970	roku,
+Emerson	Electric	miało	wymienne	uprzywilejowane	akcje	z	niską	dywidendą,
+o	wartości	rynkowej	163	mln	dolarów.	W	naszych	analizach,	wyliczyliśmy	czynnik
+rozcieńczenia	normalnym	sposobem,	czyli	potraktowaliśmy	akcje	uprzywilejowane
+jak	zwykłe.	W	ten	sposób	zyski	spadły	o	10	centów	na	akcję,	czyli	o	około	4%.
+5.	
+Dywidendy
+.	Tutaj	najbardziej	liczy	się	nieprzerwana	systematyczność	wypłat.
+Najlepsze	wyniki	ma	Emhart,	które	nie	zawieszało	wypłaty	dywidend	ani	razu	od
+1902	roku.	Wynik	ELTRY	również	wypada	dobrze,	Emerson	–	satysfakcjonująco,
+a	Emery	Freight	to	nowicjusz.	Zróżnicowanie	w	procentach	wypłat	nie	wydaje	się
+znaczące.	Procentowo,	dywidendy	„taniej	dwójki”,	są	dwa	razy	wyższe	niż	„drogiej
+dwójki”,	co	koresponduje	ze	wskaźnikami	cena/zysk.
+6.	
+Historia	ceny
+.	Procentowy	wzrost	cen	akcji	wszystkich	spółek,	od	minimum	do
+maksimum,	na	przestrzeni	34	lat,	powinien	zrobić	wrażenie	na	czytelniku	(w
+każdym	przypadku,	niska	cena	została	skorygowana	późniejszymi	podziałami
+akcji).	Proszę	zwrócić	uwagę,	że	dla	DJIA,	rozpiętość	między	wysokimi	a	niskimi
+cenami	wynosiła	11	do	1,	a	w	przypadku	naszych	spółek	od	„zaledwie”	17	do
+1	u	Emhart,	aż	do	528	do	1	u	Emery	Air	Freight.
+277
+	Tak	znaczne	różnice	cen,	są
+charakterystyczne	dla	wszystkich	starszych	spółek	giełdowych.	Pokazują	one,	że
+w	przeszłości	stanowiły	znakomitą	okazję	do	osiągnięcia	zysku	(ale	mogą	także
+pokazywać,	jak	zawyżone	były	ich	ceny	podczas	bessy	sprzed	1950	roku,	gdy
+doszło	do	spadków).	W	latach	1969-1970,	gdy	załamywały	się	ceny,	ELTRA
+i	Emhart	staniały	o	ponad	50%,	Emerson	i	Emery	poniosły	poważne,	choć	mniej
+dotkliwe	straty.	Pierwsza	z	nich	odzyskała	poziom	i	pobiła	nowy	rekord	przed
+końcem	1970	roku,	a	druga	na	początku	1971	roku.
+Spostrzeżenia	ogólne
+Emerson	Electric
+	ma	ogromną	wartość	rynkową,	przy	której	trzy	pozostałe	spółki
+wyglądają	jak	karły.
+278
+	Naszego	„olbrzyma	o	gołębim	sercu”	omówimy	później.
+Analiza	finansowa	pobłogosławiona	(albo	obciążona)	dobrą	pamięcią,	skłania	do
+porównań	Emerson	Electric	z	Zenith	Radio,	co	nie	dodaje	otuchy.	Zenith	przez
+wiele	lat	miało	znakomity	wzrost.	W	1966	roku	jego	wartość	rynkowa	również
+wynosiła	1,7	mld	dolarów.	Ale	zyski	spadły	z	43	mln	w	1968	roku,	do	zaledwie
+połowy	tej	sumy	w	1970	roku,	a	wyprzedaż	zanotowana	w	tym	roku,	obniżyła	cenę
+do	22
+1
+/
+2
+	z	poprzedniego	maksimum	89.	Wysoka	wycena	to	wysokie	ryzyko.
+Emery	Air	Freight
+,	wśród	naszych	czterech	spółek	byłaby	najbardziej	obiecującą

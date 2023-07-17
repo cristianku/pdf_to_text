@@ -1,0 +1,446 @@
+górniczym	miasteczku	w	Montanie,	zainteresowalibyśmy	się,	jaka	jest	jakość	wody
+w	tamtym	regionie,	czym	zajmowali	się	chorzy	itp.	Wiadomo	przecież,	że	nie	jest
+czystym	zbiegiem	okoliczności,	iż	400	przypadków	pochodzi	z	tak	małego	obszaru.
+Niekoniecznie	więc	znalibyśmy	przyczynę	zachorowań,	ale	wiedzielibyśmy,	gdzie
+jej	szukać.
+Są	też	oczywiście	inne	sposoby	identyfikacji	pochodzenia	niż	geografia.
+Dodatkiem	do	pochodzenia	geograficznego	może	być	coś,	co	ja	nazywam
+pochodzeniem	
+intelektualnym
+.	Odkryjemy,	że	pewna	liczba	graczy	„rzucających
+monetą”	o	poważne	stawki	w	świecie	inwestycji,	pochodzi	z	małej	intelektualnej
+wioski,	która	nazywa	się	Graham-and-Doddsville.	I	to	nie	jest	przypadek.
+Ale	może	być	i	tak,	że	setka	ludzi,	po	prostu	naśladowała	rzuty	monetą,
+wykonywane	przez	jakąś	znakomitość.	Jeśli	ten	ktoś	obstawiał	orła,	100
+naśladowców	automatycznie	robiło	to	samo.	Gdyby	ich	lider	należał	do	grupy	215
+zwycięzców,	fakt,	że	100	pozostałych	pochodzi	z	tej	samej	intelektualnej	wioski
+byłby	bez	znaczenia.	Załóżmy,	że	żyjemy	w	silnie	patriarchalnym	społeczeństwie,
+a	każda	rodzina	w	Stanach	Zjednoczonych	składa	się	z	10	członków.	Załóżmy	też,
+że	kultura	patriarchalna	jest	tak	silna,	że	kiedy	225	mln	ludzi,	przystąpiło
+pierwszego	dnia	do	gry,	każdy	członek	rodziny	obstawił	to	samo,	co	ojciec.	Teraz,
+pod	koniec	dwudziestodniowego	okresu,	mamy	już	215	zwycięzców	i	widać,	że
+pochodzą	oni	z	21,5	rodziny.	Naiwnie	można	by	stwierdzić,	że	wskazuje	to	na
+bardzo	mocny	czynnik	dziedziczenia,	tłumaczący	serię	trafnych	rzutów	monetą.	Ale
+oczywiście	jest	to	całkowicie	bez	sensu,	bo	wynikałoby	z	tego,	że	nie	ma	215
+indywidualnych	zwycięzców,	ale	21,5	losowo	wybranych	rodzin,	które	wygrały.
+W	grupie	skutecznych	inwestorów,	którą	mam	zamiar	przedstawić,	wspólnym
+intelektualnym	patriarchą	był	Ben	Graham.	Jednakże	dzieci,	które	opuściły	jego
+dom,	obstawiały	swoje	„rzuty	monetą”	na	wiele	sposobów.	Udawały	się	w	różne
+miejsca,	kupowały	i	sprzedawały	różne	akcje,	ale	przecież	ich	wspólnych	osiągnięć
+nie	można	wytłumaczyć	czystym	przypadkiem.	Nie	da	się	też	wyjaśnić	faktem,	że
+obstawiają	oni	rzuty	identycznie,	pod	dyktando	swego	lidera.	Patriarcha	przedstawił
+wprawdzie	intelektualną	teorię	podejmowania	decyzji	związanych	z	obstawianiem
+rzutów,	ale	każdy	z	jego	uczniów	wybrał	swoją	własną	metodę	stosowania	teorii.
+Wspólne	dla	inwestorów	z	Graham-and-Doddsville	jest	to,	że	szukają	oni
+rozbieżności	między	
+wartością
+	przedsiębiorstwa	a	
+ceną
+	małych	cząstek	tego
+przedsiębiorstwa,	dostępnych	na	rynku.	W	pierwszym	rzędzie,	wykorzystują	te
+rozbieżności,	nie	martwiąc	się,	jak	wielu	innych	zdolnych	teoretyków	rynku,	czy
+akcje	były	kupione	w	poniedziałek,	czy	w	piątek,	czy	jest	styczeń,	czy	lipiec.	Dla
+inwestorów	ze	szkoły	Grahama	i	Dodda,	przy	podejmowaniu	decyzji,	nie	ma
+znaczenia	dzień	tygodnia	lub	miesiąc,	w	którym	transakcja	ma	nastąpić.	Zdumiewa
+mnie	więc,	dlaczego	akademicy	inwestują	tak	wiele	czasu	i	wysiłku,	po	to	tylko	by
+przekonać	się,	czy	istnieje	jakaś	różnica,	kiedy	kupujemy	małe	części	tego	samegoprzedsiębiorstwa.	Nie	trzeba	mówić,	że	nasi	inwestorzy	ze	szkoły	Grahama	i	Dodda
+nie	rozważają	współczynnika	beta,	dotyczącego	wpływu	środków	trwałych	na	cenę
+akcji,	czy	zmienności	dochodów	wśród	papierów	wartościowych.	To	ich	nie
+interesuje.	Tak	naprawdę	większość	z	nich,	miałaby	nawet	trudności	ze
+zdefiniowaniem	tych	pojęć.	Inwestorzy	skupiają	się	po	prostu	na	dwóch	zmiennych
+–	cenie	i	wartości.
+Zawsze	uważałem	za	niezwykłe,	że	tak	wiele	badań	poświęcono	cenie
+i	wolumenowi,	co	tak	naprawdę	powinno	stanowić	podstawę	zainteresowań
+związków	zawodowych.	Czy	możecie	sobie	wyobrazić	zakup	całego
+przedsiębiorstwa	tylko	z	tego	powodu,	że	jego	cena	znacząco	
+wzrosła
+	przed
+tygodniem,	czy	dwoma?	Przyczyną,	dla	której	poświęcono	mnóstwo	studiów	cenom
+i	wahaniom	ilościowym,	jest	to,	że	obecnie,	w	erze	komputerów,	dostępna	jest
+prawie	nieskończona	ilość	danych.	A	skoro	istnieją	dane,	akademicy	ciężko
+pracowali	nad	odkryciem	matematycznych	metod,	pozwalających	nimi
+manipulować.	Kiedy	powstały	metody,	wydawało	się	grzechem	z	nich	nie
+skorzystać.	Nawet,	jeśli	były	bezużyteczne	albo	wręcz	szkodliwe.	Jak	mawiał
+pewien	mój	przyjaciel,	„dla	człowieka	z	młotkiem	wszystko	wygląda	jak	gwóźdź”.
+Myślę,	że	grupa,	którą	określiłem,	jako	„wspólny	intelektualny	dom”	warta	jest
+uwagi.	Akademickie	badania	skupiają	się	na	cenie,	wielkości,	zależności	od	sezonu,
+zakresie	kapitalizacji,	wydajności	akcji,	ale	nie	poświęcają	uwagi	metodom,
+którymi	posługują	się	wartościowi	i	dobrze	zorientowani	zwycięzcy.
+Powracam	teraz	pamięcią	do	naszej	czteroosobowej	grupy,	pracującej
+w	Graham-Newman	Corporation	od	roku	1954	do	roku	1956.	Zaproponowałem,	że
+będę	pracował	w	Graham-Newman	za	darmo,	po	tym,	jak	zacząłem	uczęszczać	na
+zajęcia	prowadzone	przez	Bena	Grahama,	ale	ten	odprawił	mnie	jako
+przewartościowanego.	Kwestię	wartości	traktował	bardzo	poważnie!	Po	długich
+naleganiach	wreszcie	mnie	zatrudnił.	Wszyscy	czterej	działaliśmy	na	poziomie
+„wyrobników”.	Cała	czwórka	odeszła	w	latach	1955-1957,	kiedy	to	firma	uległa
+rozwiązaniu.	Odtąd	mogłem	śledzić	dokonania	moich	trzech	współpracowników.
+W	pierwszym	przykładzie	(Tabela	1.,	str.	495)	pojawia	się	Walter	Schloss.	Walter
+nigdy	nie	uczęszczał	na	studia,	ale	ukończył	wieczorowy	kurs	prowadzony	przez
+Bena	Grahama	w	New	York	Institute	of	Finance.	Z	firmy	Graham-Newman	odszedł
+w	1955	roku	i	w	ciągu	28	lat	osiągnął	wyniki	ukazane	w	tabeli.
+Oto	co	„Adam	Smith”	–	po	tym,	jak	przedstawiłem	mu	Waltera	–	napisał	o	nim
+w	
+Supermoney
+	(1972).
+Nie	ma	koneksji	ani	dostępu	do	użytecznych	informacji.	Na	Wall	Street	praktycznie	nikt	go	nie	zna	i	nie
+wyznaje	on	żadnych	idei.	Wyszukuje	numery	w	podręcznikach,	przekazuje	je	do	sprawozdań	rocznych,	no
+i	tyle.
+Przedstawiając	mnie	Schlossowi,	Warren,	moim	zdaniem,	opisał	również	siebie.	„Nigdy	nie	zapomina,
+że	obraca	cudzymi	pieniędzmi	i	to	jeszcze	wzmacnia	jego	niechęć	do	przegrywania”.	Jest	uczciwy
+i	realistycznie	ocenia	na	swoje	możliwości.	Liczą	się	dla	niego	pieniądze	i	liczą	się	akcje	–	i	stąd	wynika
+jego	zamiłowanie	do	zasady	„marginesu	bezpieczeństwa”.Walter	dokonywał	znacznego	różnicowania	papierów	wartościowych,	będąc
+ciągle	w	posiadaniu	akcji	ponad	100	spółek.	Wiedział,	jak	rozpoznać	akcje,	które
+można	sprzedać	po	znacznie	niższej	cenie,	niż	wartość,	jaką	przedstawiają	dla
+prywatnego	właściciela.	Nie	martwił	się,	że	to	akurat	styczeń,	nie	martwił	się,	że	to
+poniedziałek,	nie	martwił	się,	czy	w	danym	roku	odbywają	się	wybory.	Mówił	po
+prostu,	że	jeśli	akcje	są	warte	dolara,	a	można	je	kupić	po	40	centów,	to	może	z	tego
+wyjść	coś	dobrego.	I	właśnie	tak	ciągle	postępuje.	Ma	więcej	akcji	niż	ja	i	jest
+znacznie	mniej	zainteresowany	podstawową	naturą	spółki	–	nie	wydaje	mi	się,	bym
+miał	na	Waltera	znaczący	wpływ.	To	jeden	z	jego	atutów	–	nikt	nie	ma	na	niego
+większego	wpływu.
+Drugi	jest	Tom	Knapp,	który	również	pracował	ze	mną	w	firmie	Graham-
+Newman.	Przed	wojną	Tom	studiował	chemię	w	Princeton,	a	kiedy	wrócił	z	wojny,
+bezczynnie	wylegiwał	się	na	plaży.	Pewnego	dnia	przeczytał,	że	Dave	Dodd
+prowadzi	w	Columbia	University	kursy	wieczorowe	z	dziedziny	inwestycji.	Tom
+wziął	w	nich	udział	jako	wolny	słuchacz	i	temat	tak	go	zainteresował,	że	zapisał	się
+do	Columbia	Business	School,	którą	ukończył	z	tytułem	magistra	zarządzania
+biznesem.	Ponownie	zaczął	uczęszczać	na	kurs	prowadzony	przez	Dodda,	a	także	na
+kurs	Grahama	(nawiasem	mówiąc,	35	lat	później	zadzwoniłem	do	Toma,	by
+upewnić	się	co	do	niektórych	faktów,	które	tutaj	omawiam,	i	okazało	się,	że	znów
+leży	na	plaży.	Tylko	że	teraz	to	jego	własna	plaża!).
+Tabela	1.	Walter	J.	Schloss
+Rok
+Ogólny	zysk
+S&P,	włącznie
+z	dywidendami
+(%)
+Ogólny
+zysk
+WJS	Ltd
+Partners,
+rocznie
+(%)
+Ogólny
+zysk	WJS
+Partnership,
+rocznie	(%)
+1956
+7,5
+5,1
+6,8
+Łączny
+zysk
+Standard
+&	Poor's
+za	okres
+28
+1
+/
+4
+	lat
+887,2%
+1957
+–	10,5
+–	4,7
+–	4,7
+1958
+42,1
+42,1
+54,6
+Łączny
+zysk	WJS
+Limited
+Partners	za
+okres	28
+1
+/
+4
+lat
+6	678,8%
+1959
+12,7
+17,5
+23,3
+1960
+–	1,6
+7,0
+9,3
+Łączny
+zysk	WJS
+Partnership
+23	104,7%za	okres
+28
+1
+/
+4
+	lat
+1961
+26,4
+21,6
+28,8
+1962
+–	10,2
+8,3
+11,1
+Łączna
+roczna
+stawka
+Standard
+&	Poor's
+za	okres
+28
+1
+/
+4
+	lat
+8,4%
+1963
+23,3
+15,1
+20,1
+1964
+16,5
+17,1
+22,8
+Łączna
+roczna
+stawka
+WJS
+Limited
+Partners	za
+okres	28
+1
+/
+4
+lat
+16,1%
+1965
+13,1
+26,8
+35,7
+1966
+–	10,4
+0,5
+0,7
+Łączna
+roczna
+stawka
+WJS
+Partnership
+za	okres
+28
+1
+/
+4
+	lat
+21,3%
+1967
+26,8
+25,8
+34,4
+1968
+10,6
+26,6
+35,5
+W	swej	historii	WJS
+Partnership	posiadał	ponad
+800	akcji	i	w	większości
+przypadków	przynajmniej	100
+pozycji.	Zarządzany	bieżący
+kapitał	w	przybliżeniu	45	mln
+dolarów.	Różnica	między
+zyskami	Partnership	a	zyskami
+Limited	Partners	zależna	jest
+od	przydzielonych	lokat	do
+zarządzania.
+1969
+–	7,5
+–	9,0
+–	9,0
+1970
+2,4
+–	8,2
+–	8,2
+1971
+14,9
+25,5
+28,3
+1972
+19,8
+11,6
+15,5
+1973
+–	14,8
+–	8,0
+–	8,0
+1974
+–	26,6
+–	6,2
+–	6,2
+1975
+36,9
+42,7
+52,2
+1976
+22,4
+29,4
+39,21977
+–	8,6
+25,8
+34,4
+1978
+7,0
+36,6
+48,8
+1979
+17,6
+29,8
+39,7
+1980
+32,1
+23,3
+31,1
+1981
+6,7
+18,4
+24,5
+1982
+20,2
+24,1
+32,1
+1983
+22,8
+38,4
+51,2
+1984
+pierwszy
+kwartał
+2,3
+0,8
+1,1
+Tabela	2.	Tweedy,	Brown	Inc.
+Koniec	okresu	(30
+września)
+Dow
+Jonesa
+(%)
+S&P
+500
+(%)
+TBK
+Overall
+(%)
+TBK	Limited
+Partners	(%)
+1968	(9	m-cy)
+6,0
+8,8
+27,6
+22,0
+1969
+–	9,5
+–	6,2
+12,7
+10,0
+1970
+–	2,5
+–	6,1
+–	1,3
+–	1,9
+1971
+20,7
+20,4
+20,9
+16,1
+1972
+11,0
+15,5
+14,6
+11,8
+1973
+2,9
+1,0
+8,3
+7,5
+1974
+–	31,8
+–	38,1
+1,5
+1,5
+1975
+36,9
+37,8
+28,8
+22,0
+1976
+29,6
+30,1
+40,2
+32,8
+1977
+–	9,9
+–	4,0
+23,4
+18,7
+1978
+8,3
+11,9
+41,0
+32,1
+1979
+7,9
+12,7
+25,5
+20,5
+1980
+13,0
+21,1
+21,4
+17,3
+1981
+–	3,3
+2,7
+14,4
+11,6
+1982
+12,5
+10,1
+10,2
+8,2
+1983
+44,5
+44,3
+35,0
+28,2
+Suma	dochodu
+15
+3
+/
+4
+	roku
+191,8%
+238,5%
+1661,2%
+936,4%
+Łączna	roczna	stawka	Standard	&	Poor's	za	okres	15
+3
+/
+4
+	roku
+7,0%
+Łączna	roczna	stawka	TBK	Limited	Partners	za	okres	15
+3
+/
+4
+	roku
+16,0%
+Łączna	roczna	stawka	TBK	Overall	za	okres	15
+3
+/
+4
+	roku
+20,0%
+a	Wypłacone	dywidendy	ze	spółek	wchodzących	do	Standard	&	Poor's	500	Composite	Index	i	Dow	Jones
+Industrial	Average.
+W	1968	roku,	Tom	Knapp	i	Ed	Andersen,	również	uczeń	Grahama,	wraz
+z	kolegami,	założyli	Tweedy,	Browne	Partners.	Wyniki	ich	inwestycji	przedstawia

@@ -1,0 +1,205 @@
+Sharon	to	60	dolarów	na	akcję.	Różnica,	między	wartością	księgową	a	wartością
+rynkową	akcji	Sharon,	zamknęła	się	w	kwocie	około	21	mln	dolarów,
+przypadającej	na	1	415	000	zakupionych	akcji.
+2.	Sposób	rozliczenia	był	tak	zaplanowany,	by	osiągnąć	trzy	cele:	potraktować
+emisję	obligacji	jako	odpowiednik	ich	„sprzedaży”	w	cenie	43	dolarów,	dając
+spółce	możliwość	odjęcia	tej	kwoty	od	dochodu	w	skali	roku,	dla	zamortyzowania
+ogromnej	obniżki	cen	obligacji	w	kwocie	54	mln	dolarów	(tak	naprawdę
+kosztowałoby	to	15%	rocznego	zysku	z	„obrotu”	emisją	skryptów	dłużnych
+wartych	99	mln	dolarów);	równoważyć	koszt	obniżki	cen	obligacji	przez	mniej
+więcej	taki	sam	„zysk”,	wchodzący	w	skład	dochodu	z	jednej	dziesiątej	różnicy
+między,	wynoszącą	45	dolarów	ceną	sprzedaży	akcji	Sharon,	a	ich	wartością
+księgową	równą	60	dolarów	(na	zasadzie	odwrotności	mogłoby	to	odpowiadać
+wymaganej	procedurze,	polegającej	na	corocznym	
+obciążaniu
+	dochodu	częścią
+kosztu	zakupu,	wykraczającą	ponad	wartość	księgową	nabytego	kapitału);	zaleta
+tego	układu	jest	taka,	że	na	początek	spółka	mogłaby	zaoszczędzić	900	000	rocznie,
+czyli	1	dolara	w	przeliczeniu	na	akcję,	na	podatku	dochodowym	od	tych	dwóch
+pozycji	księgowych,	ponieważ	amortyzacja	obniżki	cen	obligacji	mogłaby	zostać
+odjęta	od	dochodu	podlegającemu	opodatkowaniu,	jednak	amortyzacja	„nadwyżki
+akcji	zwykłych	nad	kosztami”	nie	mogła	być	zaliczona	do	opodatkowanego
+dochodu.
+3.	Metoda	ta	ma	zastosowanie	zarówno	w	rozliczaniu	łącznego	dochodu,	jak
+i	w	łącznym	zestawieniu	bilansowym	spółki	NVF	za	rok	1969,	oraz	w	zestawieniu
+formalnym	za	rok	1968,	ponieważ	znaczna	część	kosztów	akcji	Sharon	mogła	być
+potraktowana	jako	zapłacona	w	formie	warrantów,	stanowiących	element	kapitału
+akcji	zwykłych.	Dlatego	w	tym	przypadku,	jak	w	żadnym	innym,	który	znam,
+warrantom	przypisano	konkretną	wartość	w	zestawieniu	bilansowym	–	22	mln
+dolarów	(ale	jedynie	w	formie	przypisu	objaśniającego).
+7.	Spółki	z	branży	technologicznej	jako	inwestycje
+W	połowie	1971	roku,	w	notowaniach	Standard	&	Poor's,	pojawiło	się	około	200
+spółek,	których	nazwy	zaczynały	się	od	Compu-,	Data-,	Elektro-,	Scien-	i	Techno-.
+Około	połowa	należała	do	branży	komputerowej.	Wszystkie	sprzedawały	swoje
+akcje	na	giełdzie,	albo	składały	wnioski	o	publiczną	sprzedaż	swoich	udziałów.
+Grupa	złożona	z	46	takich	spółek	pojawiła	się	w	
+Stock	Guide
+,	wydanym	we
+wrześniu	1971	roku.	Spośród	nich	26	zgłaszało	deficyt,	tylko	sześć	osiągało	zysk
+przekraczający	1	dolara	na	akcję,	a	zaledwie	pięć	wypłacało	dywidendy.
+W	
+Stock	Guide
+	z	grudnia	1968	roku,	pojawiło	się	45	spółek	o	podobnych
+technicznych	nazwach.	Śledząc	ciąg	dalszy	tej	listy,	dostępny	w	
+Stock	
+z	września1971	roku,	natrafić	można	na	następujące	ustępy:
+Liczba
+spółek
+ogółem
+Ceny
+wzrosły
+Ceny	spadły
+mniej	niż
+połowę
+Ceny	spadły
+więcej	niż
+połowę
+Spadek
+z	przewodnika
+giełdowego
+45
+2
+8
+23
+12
+Komentarz:	Jest	właściwie	pewne,	że	wiele	spółek	z	branży	technologicznej	nie
+uwzględnionych	w	
+Stock	Guide
+	z	1968	roku,	miało	potem	gorsze	osiągnięcia	od
+tych,	które	tam	przedstawiono.	Również	12	spółek,	które	odpadły	z	listy,
+funkcjonowało	gorzej,	niż	te,	które	się	na	niej	utrzymały.	Opłakane	wyniki
+widoczne	w	przykładach,	w	znacznym	stopniu	odnoszą	się	do	jakości	i	historii	cen,
+całej	grupy	akcji	„technologicznych”.	Było	pewne,	że	fenomenalny	sukces	IBM
+i	kilku	innych	spółek,	wywoła	natłok	nowych	ofert	publicznych	z	różnych
+sektorów,	w	których	poważne	straty	były	w	zasadzie	przesądzone.Przypisy	końcowe
+Wprowadzenie
+1.	„Lester	stock”	to	akcje	nie	zarejestrowane	sprzedaży	przez	U.S.	Securities	and
+Exchange	Commission.	Kupujący	musi	przedstawić	pismo,	w	którym	stwierdza,	że
+kupuje	je	w	celach	inwestycyjnych.
+2.	Dane	Moody's	na	temat	obligacji	AAA	i	akcji	spółek	przemysłowych.
+Rozdział	1
+1.	Benjamin	Graham,	David	L.	Dodd,	Sidney	Cottle	i	Charles	Tatham,	McGraw-
+Hill,	wyd.	IV,	1962.	Wydanie	
+Security	Analysis
+	z	1934	roku	zostało	wznowione
+w	1966	roku	(McGraw-Hill).
+2.	Cytat	z:	
+Investment	and	Speculation
+,	Lawrence	Chamberlain,	1931.
+3.	Ankieta	przeprowadzona	przez	Radę	Rezerwy	Federalnej.
+4.	Str.	8,	wyd.	z	1965	roku.
+5.	Zakładamy,	że	dla	typowego	inwestora,	górny	próg	podatkowy	w	przypadku
+dywidend	wynosi	40%,	a	20%	w	przypadku	zysków	kapitałowych.
+Rozdział	2
+1.	Zostało	to	napisane	zanim,	w	1971	roku,	prezydent	Nixon	ogłosił	zamrożenie
+płac	i	płac	zgodnie	z	„II	fazą”	swojego	systemu	kontroli.	Te	wydarzenia
+potwierdzają	wyrażone	wyżej	poglądy.
+2.	Stopa	zysku	425	spółek	przemysłowych	z	indeksu	Standard	&	Poor's	wynosiła
+około	11
+1
+/
+2
+%	wartości	aktywów,	częściowo	dlatego,	że	został	uwzględniony	duży
+i	dochodowy	IBM,	który	nie	należy	do	spółek	DJIA.
+3.	Wykres	przedstawiony	przez	American	Telephone	&	Telegrach	w	1971	roku
+pokazuje,	że	rentowność	usług	telefonii	stacjonarnej	w	1970	roku,	była	nieco	niższa
+niż	w	1960	roku.
+4.	
+Wall	Street	Journal
+,	październik	1970.
+Rozdział	3
+1.	Zarówno	Standard	&	Poor's,	jak	i	Dow	Jones	mają	oddzielną	średnią	dla
+przedsiębiorstw	użyteczności	publicznej	i	firm	transportowych	(przede	wszystkim
+kolejowych).	Od	1965	roku,	New	York	Stock	Exchange	wylicza	indeksreprezentujący	ruchy	wszystkich	notowanych	akcji.
+2.	Przeprowadzone	przez	Center	for	Research	in	Security	Prices	z	University	of
+Chicago,	dzięki	grantowi	od	Charles	E.	Merrill	Foundation.
+3.	Pisano	to	na	początku	1971	roku,	przy	DJIA	940.	Przeciwny	pogląd,	panujący
+na	Wall	Street,	był	potwierdzony	szczegółowymi	analizami,	które	w	1975	roku
+wyceniły	DJIA	na	1520.	To	korespondowałoby	z	wartością	dyskontową,
+powiedzmy,	1200	w	1971	roku.	W	marcu	1972	roku,	DJIA	znów	osiągnął	940,	po
+interwencyjnym	spadku	do	798.	Ponownie	Graham	miał	rację.	Wspomina,	że
+„szczegółowe	analizy”,	przez	całe	10	lat,	były	zbyt	optymistyczne.	DJIA	zbliżył	się
+do	1520	dopiero	13	grudnia	1985	roku!
+Rozdział	4
+1.	Wyższe	nie	opodatkowane	zyski,	można	osiągnąć	z	pewnych	
+obligacji	zysków
+przemysłowych	-
+	stosunkowo	nowego	wynalazku	inwestycyjnego.	Szczególnie
+powinni	zainteresować	się	nim	inwestorzy	przedsiębiorczy.
+Rozdział	5
+1.	
+Practical	Formulas	for	Successful	Investing
+,	Wilfred	Funk	Inc.,	1953.
+2.	Obecnie,	matematyczne	podejście	do	decyzji	inwestycyjnej,	standardowo
+uwzględnia	„ryzyko”	określane	za	pomocą	średnich	wahań	ceny.	Patrz	przykład:
+Richard	A.	Brealey,	
+An	Introduction	to	Risk	and	Return
+,	The	M.I.T.	Press,	1969.
+Naszym	zdaniem,	użycie	słowa	„ryzyko”,	przynosi	tu	więcej	szkód	niż	pożytku	dla
+korzystnej	decyzji	inwestycyjnej,	ponieważ	zbyt	silny	nacisk	kładzie	na	wahania
+giełdowe.
+3.	W	1971	roku,	wszystkie	spółki	z	DJIA	spełniały	te	standardy.
+Rozdział	6
+1.	W	1970	roku,	drogownictwo	Milwaukee	ogłosiło	spory	deficyt.	Zawieszono
+wypłaty	odsetek	z	obligacji	od	dochodu	i	cena	obligacji	na	5%	spadła	do	10.
+2.	Na	przykład:	Cities	Service	z	papierami	uprzywilejowanymi	po	5	dolarów,	nie
+płacącymi	dywidend,	w	1937	roku	były	sprzedawane	po	zaledwie	15,	a	w	1943	roku
+po	27,	gdy	kumulacja	sięgnęła	60	dolarów	na	akcję.	W	1947	roku	zostały
+zastąpione	obligacjami	po	196,50	z	odsetkami	3%	i	sprzedawane	aż	po	186.
+3.	Skomplikowane	badania	statystyczne,	prowadzone	pod	kierunkiem	National
+Bureau	of	Economic	Research	pokazują,	że	tak	się	działo	rzeczywiście.	Graham
+nawiązuje	do	W.	Braddocka	Hickmana,	
+Corporate	Bond	Quality	and	Investor
+Experience
+	(Princeton	University	Press,	1958).	Książka	Hickmana	zainspirowała
+później	Michaela	Milkena	i	Burnhama	Lamberta	do	przedstawienie	propozycji
+finansowania	firm,	posiadających	solidną	pozycję	kredytową,	co	przyczyniło	się	do
+szaleństwa	przejęć	i	fuzji	w	latach	80.
+4.	Reprezentatywna	próbka	41	akcji	ze	Standard	&	Poor's	
+Stock	Guide
+	pokazuje,że	pięć	straciło	co	najmniej	90%	w	stosunku	do	swojego	maksimum,	30	–	ponad
+połowę,	a	wszystkie	około	dwóch	trzecich.	Wiele	nie	notowanych	w	
+Stock	Guide
+akcji	poniosło	jeszcze	większe	spadki.
+Rozdział	7
+1.	Patrz	na	przykład:	Lucile	Tomlinson,	
+Practical	Formulas	for	Successful
+Investing
+	oraz	Sidney	Cottle	i	W.	T.	Whitman,	
+Investment	Timing:	The	Formula
+Approach
+,	obie	wydane	w	1953	roku.
+2.	Przedsiębiorstwa,	osiągającego	przeciętne	wyniki,	nie	można	nazwać	„spółką
+wzrostową”	tylko	dlatego,	że	jej	przedstawiciele	spodziewają	się,	że	w	przyszłości
+będzie	osiągać	wyniki	ponadprzeciętne.	Graham	wprowadza	subtelne,	lecz	bardzo
+ważne	rozróżnienie	–	jeśli	definicja	głosi,	że	spółka	wzrostowa	będzie	miała	się
+dobrze	w	przyszłości,	to	nie	jest	żadna	definicja,	tylko	pobożne	życzenie.	Tak	jakby
+drużynie	sportowej	przyznać	tytuł	mistrzowski	jeszcze	przed	rozpoczęciem	sezonu
+rozgrywek.	Obecnie,	pobożne	życzenia	pojawiają	się	często	–	na	przykład	fundusze
+nazywają	portfelami	„wzrostu”	pakiety	akcji	spółek,	które	„mają	większy	niż	średni
+potencjał	wzrostu”	albo	„sprzyjające	perspektywy	wzrostu	zysków”.	Lepsza	jest
+taka	definicja,	w	której	zyski	netto	na	jedną	akcję	wynosiły	średnio	15%	rocznie
+przez	ostatnich	pięć	lat	(jednak	spełnianie	tej	definicji	w	przeszłości	nie	oznacza,	że
+spółka	będzie	ją	spełniać	w	przyszłości).
+3.	Patrz	Tabela	7.1.
+4.	Oto	dwa	stare	przysłowia	z	Wall	Street,	które	potwierdzają	tę	opinię:	„Żadne
+drzewo	nie	rośnie	aż	do	nieba”	oraz	„Pieniądze	zarabia	byk,	pieniądze	zarabia
+niedźwiedź,	a	świnia	nigdy	nic	nie	zarobi”.
+5.	Dostępne	są	dwie	analizy.	Pierwsza,	sporządzona	przez	H.	G.	Schneidera,
+jednego	z	naszych	uczniów,	obejmująca	lata	1917-1950,	opublikowana	w	czerwcu
+1951	roku	w	
+Journal	of	Finance
+.	Druga	powstała	w	Drexel	Firestone	z	New	York
+Stock	Exchange	i	obejmuje	lata	1933-1969.	Dane	są	tutaj	publikowane	za	ich	zgodą.
+6.	Patrz:	strony	356-359,	gdzie	znajdują	się	trzy	przykłady	sytuacji	z	1971	roku.
+Rozdział	8
+1.	Chyba	z	wyjątkiem	sytuacji,	w	której	plan	uśrednianych	kosztów	nabycia
+zaczyna	się	na	poziomie	rozsądnych	cen.
+2.	Jednak	według	Roberta	M.	Rossa,	autorytetu	w	kwestii	teorii	Dowa,	dwa
+ostatnie	sygnały	w	grudniu	1966	roku	i	grudniu	1970	roku,	były	znacznie	poniżej
+poziomu	sprzedaży.
+3.	Trzy	stosowane	przez	Moody's	najwyższe	oceny	obligacji	i	akcji
+uprzywilejowanych	to	Aaa,	Aa	i	A,	natomiast	przez	Standard	&	Poor's	–	AAA,	AA,
+A.	Trzy	następne	schodzą	do	D.
+4.	Pomysł	został	zrealizowany	w	kilku	przypadkach	w	Europie,	na	przykład
+przez	włoski	państwowy	koncern	elektryczno-energetyczny.	Zastosował	on

@@ -1,0 +1,195 @@
+gdybyś	był	posiadaczem	100%	swojego	biznesu?”.	Ponieważ	zyski	właścicielskie
+zależą	od	takich	wartości	księgowych,	jak	amortyzacja	i	deprecjacja,	które	nie	są
+uwzględniane	w	bilansie	gotówkowym	spółki,	powinny	stanowić	lepszy	wskaźnik
+niż	dochód	netto.	Aby	sprecyzować	zyski	właścicielskie,	od	przedstawionego
+dochodu	netto	należy	odjąć	jeszcze:
+•	koszty	przyznania	opcji	udziałów,	przez	które	część	zysków	trafi	z	rąk
+obecnych	udziałowców	do	rąk	nowych	akcjonariuszy	pracujących	w	spółce,
+•	wszystkie	„nadzwyczajne”,	„jednorazowe”	i	„niestałe”	obciążenia,
+•	wszystkie	dochody,	które	przynosi	spółce	fundusz	emerytalny.
+Jeśli	przez	ostatnie	10	lat,	zyski	właścicielskie	rosły	w	stałym	tempie	przynajmniej
+6%-7%	rocznie,	to	spółka	jest	stabilnym	generatorem	gotówki	i	ma	dobre
+perspektywy	wzrostu.
+Następnie	przyjrzyj	się	strukturze	kapitałowej	spółki.	Zajrzyj	do	zestawienia
+bilansowego	i	sprawdź,	jak	wysokie	zadłużenie	(wliczając	akcje	uprzywilejowane),
+ma	spółka.	Generalnie,	wysokość	długoterminowego	zadłużenia,	nie	powinna
+przekraczać	50%	sumy	kapitału.	W	przypisach	do	oświadczenia	finansowego
+zobacz,	czy	długoterminowe	zadłużenie	jest	oprocentowane	według	stałej	stopy	(są
+spłacane	stałe	odsetki),	czy	według	zmiennej	(płatności	zmienne,	co	może	być
+kosztowne,	gdy	stopy	procentowe	pójdą	w	górę).
+Poszukaj	w	sprawozdaniu	rocznym	danych,	które	pokazują	„wskaźnik	zysków	do
+stałych	obciążeń”.	Takie	dane,	w	rocznym	sprawozdaniu	
+Amazon.com
+	z	2002	roku
+pokazywały,	że	zyski	nie	pokryły	145	mln	dolarów	kosztów	spłaty	odsetek.
+W	przyszłości,	Amazon	będzie	musiał	zarabiać	na	swej	działalności	więcej	albo
+znaleźć	sposoby	pożyczania	na	niższe	odsetki.	W	przeciwnym	razie,	skończy	się
+tym,	że	będzie	należeć	nie	do	udziałowców,	tylko	do	posiadaczy	obligacji,	którzy
+mogą	wnosić	roszczenia	o	aktywa	Amazon,	jeśli	w	inny	sposób	nie	będą	w	stanie
+zabezpieczyć	sobie	spłaty	należnych	im	wypłat	odsetek	(szczerze	mówiąc,	wskaźnik
+zysku	do	stałego	obciążenia,	był	w	Amazon	w	2002	roku	znacznie	lepszy	niż	dwa
+lata	wcześniej,	kiedy	to	zyski	nie	pokrywały	1,1	mld	dolarów	płatności	związanych
+z	zadłużeniem).
+A	teraz	kilka	słów	na	temat	polityki	wypłacania	dywidendy	i	polityki	wobec	akcji
+(więcej	szczegółów	w	Rozdziale	19.).
+•	Udowodnienie,	że	lepiej	wyjdziesz	na	tym,	jeśli	dywidenda	nie	zostanie
+wypłacona,	należy	do	obowiązków	spółki.	Jeżeli	niezależnie	od	sytuacji	na
+giełdzie,	firma	radzi	sobie	lepiej	od	konkurencji,	to	menedżerowie	umiejętnie
+wykorzystują	gotówkę.	Ale	gdy	biznes	chwieje	się	lub	akcje	stoją	gorzej	niż
+u	rywali,	to	dyrekcja	źle	posługuje	się	gotówką	z	nie	wypłaconych	dywidend.
+•	Przedsiębiorstwa	dokonujące	ciągłych	podziałów	akcji	–	i	czyniące	wokół	tegowiele	szumu	medialnego	–	traktują	inwestorów	jak	idiotów.	Akcjonariusze,	którzy
+lubią	podziały	akcji,	postępują	jak	Miś	Jogi,	który	chce,	aby	pizzę	podzielić	na
+cztery	kawałki	„bo	nie	da	rady	zjeść	ośmiu”.	Dwie	akcje	po	50	dolarów,	nie	są
+warte	więcej	niż	jedna	za	100	dolarów.	Menedżerowie	wykorzystujący	poddziały	do
+promocji	akcji,	grają	na	najgorszych	instynktach	inwestorów.	Inteligentny	inwestor
+musi	zastanowić	się	dwa	razy,	zanim	powierzy	pieniądze	takim	manipulatorom?
+254
+•	Przedsiębiorstwa	powinny	skupować	swoje	akcje,	kiedy	są	tanie,	a	nie	wtedy,
+gdy	zbliżają	się	do	rekordowej	ceny.	Niestety,	ostatnio	powszechne	stało	się
+odkupywanie	akcji	w	momencie,	gdy	ich	ceny	są	zawyżone.	Nie	ma	bardziej
+cynicznego	sposobu	marnowania	gotówki	spółki,	ponieważ	faktyczny	cel	tego
+manewru	polega	na	tym,	aby	wierchuszka	dyrekcji	zgarnęła	wielomilionowe
+wypłaty,	sprzedając	swoje	opcje	udziału	w	imię	„poprawy	wartości	udziałowców”.
+Wiele	opowieści	z	życia	wziętych	pokazuje,	że	menedżerom,	którzy	opowiadają
+o	„poprawie	wartości	udziałowców”,	rzadko	na	tym	zależy.	W	inwestycjach,	jak
+w	życiu,	ostateczne	zwycięstwo	odnoszą	ci,	którzy	dużo	robią,	a	nie	ci,	którzy	dużo
+mówią.ROZDZIAŁ	
+12
+Co	brać	pod	uwagę	przy	zyskach	na	jedną	akcję?
+Rozdział	ten	zaczyna	się	od	dwóch	rad	dla	inwestora,	których	implikacje,	siłą
+rzeczy,	stoją	ze	sobą	w	sprzeczności.	Pierwsza:	nie	traktuj	poważnie	zysków	tylko
+z	jednego	roku.	Druga:	jeśli	zwracasz	uwagę	na	krótkoterminowe	zyski,	uważaj	na
+pułapkę	danych	opisujących	zysk	na	akcję.	Gdybyśmy	ściśle	przestrzegali
+pierwszego	ostrzeżenia,	drugie	byłoby	niepotrzebne.	Ale	oczekiwanie,	że
+większość	inwestorów	będzie	opierać	swoje	decyzje	tylko	na	danych	z	wielu	lat
+i	długofalowych	perspektywach,	jest	nieco	nierealne.	W	kręgach	finansjery,	dane
+kwartalne,	a	zwłaszcza	dane	roczne,	mają	ogromne	znaczenie,	i	trudno	liczyć,	że
+nie	będzie	to	miało	wpływu	na	myślenie	inwestora.	Warto	więc	poszerzyć	wiedzę	na
+temat	tej	problematyki,	która	obfituje	w	pułapki	i	błędy.
+W	chwili	pisania	tego	rozdziału,	w	
+Wall	Street	Journal
+	ukazał	się	raport
+o	zyskach	Aluminum	Company	of	America	(ALCOA)	za	1970	rok.	Pierwsze	dane
+wyglądają	następująco:
+1970	1969
+Zysk	na	akcję
+a
+5,20	$	5,58	$
+a	„Zyski	brutto”,	czyli	przed	odliczeniem	specjalnych	obciążeń.	Przypisy	są	znacznie	dłuższe	i,	de	facto,	zajmują
+dwa	razy	więcej	miejsca	niż	same	dane.
+W	kwartale	kończącym	się	w	grudniu,	„zysk	na	akcję”	wyniósł	1,58	dolara,	a	dla
+porównania	rok	wcześniej	1,56	dolara.
+Inwestor	albo	spekulant	zainteresowany	akcjami	ALCOA,	czytając	te	dane,	mógł
+pomyśleć:	„Nie	jest	tak	źle.	W	1970	roku,	w	branży	aluminiowej	panowała	recesja.
+Ale	czwarty	kwartał	wypadł	lepiej	niż	w	1969	roku,	dając	zyski	w	skali	rocznej	6,32
+dolara.	Sprawdźmy.	Cena	akcji	wynosi	62.	Dlaczego	mniej	niż	dziesięciokrotność
+zysków?	Wydaje	się,	że	to	bardzo	tanio,	bo	na	przykład	ceny	International	Nickel	są
+16	razy	wyższe	od	zysków	itd.”.
+Gdyby	jednak	nasz	kolega	inwestor-spekulant,	pofatygował	się	i	przeczytał	cały
+tekst	przypisu,	to	zauważyłby,	że	w	1970	roku,	zysk	na	akcje	opisany	jest	nie	jedną
+liczbą,	ale	czterema:
+1970
+1969Zyski	podstawowe
+5,20
+5,58
+Dochód	netto	(po	odliczeniu	obciążeń	specjalnych)
+4,32
+5,58
+Zysk	rozwodniony,	przed	odliczeniem	obciążeń	specjalnych
+5,01
+5,35
+Zysk	rozwodniony,	po	odliczeniu	obciążeń	specjalnych
+4,19
+5,35
+Za	czwarty	kwartał	podano	tylko	dwie	liczby:
+Zyski	podstawowe
+1,58
+1,56
+Dochód	netto	(po	odliczeniu	obciążeń	specjalnych)
+0,70
+1,56
+Co	oznaczają	te	wszystkie	dodatkowe	wartości?	Który	zysk,	to	prawdziwy	zysk	za
+rok	i	za	kwartał?	Gdyby	ten	drugi	wyniósł	70	centów	to	w	skali	roku	byłoby	to	2,80
+dolara,	a	nie	6,32,	a	cena	62	to	„22	razy	zysk”,	a	nie	10	razy,	jak	myśleliśmy	na
+początku.
+Po	części,	na	pytanie	o	„prawdziwy	zysk”	ALCOA,	można	odpowiedzieć	bardzo
+łatwo.	Chodzi	tu,	o	zredukowaną	z	5,20	do	5,01	liczbę,	uwzględniającą	efekt
+rozwodnienia.	ALCOA	wyemitowała	sporo	obligacji	wymiennych	na	akcje.
+Kalkulując	„potencjał	zysku”	akcji	zwykłej	na	podstawie	wyników	z	1970	roku,
+trzeba	brać	pod	uwagę,	że	jeśli	posiadacze	obligacji	uznają,	że	im	się	opłaca,
+skorzystają	z	przywileju	wymiany.	W	przypadku	ALCOA,	te	liczby	są	stosunkowo
+niewielkie.	Jednak	w	innych	przypadkach,	uwzględnienie	prawa	wymiany	–
+i	istnienia	upoważnień	do	zakupu	akcji	–	może	zredukować	zyski	o	połowę,	a	nawet
+więcej.	Dalej	(na	str.	374),	przedstawimy	przykład	naprawdę	dużego	czynnika
+rozcieńczenia	(serwisy	finansowe	w	swoich	analizach	i	sprawozdaniach	bywają
+niekonsekwentne	w	uwzględnianiu	czynnika	rozcieńczenia).
+255
+A	teraz	zajmijmy	się	tymi	„specjalnymi	obciążeniami”.	Liczba	18	800	000
+dolarów,	czyli	88	centów	na	akcję,	wyliczona	w	czwartym	kwartale,	jest	nieważna.
+Należy	ją	całkiem	zignorować	czy	uznać?	A	może	częściowo	uznać	albo
+zignorować?	Czujny	inwestor	zada	sobie	pytanie,	jak	to	się	dzieje,	że	w	1970	roku,
+wystąpiła	taka	epidemia	obciążeń	specjalnych,	a	w	1969	roku	wcale	nie	dawała
+o	sobie	znać?	Czyżby	do	pracy	z	księgowym,	zasiadł	jakiś	zręczny	włoski
+fachowiec
+256
+	–	oczywiście	bez	łamania	przepisów?	Jeśli	przyjrzymy	się	bliżej,	to	być
+może	zauważymy,	że	takie	straty,	odliczone	zanim	zostały	poniesione,	mogą	ujść	na
+sucho	i	nie	mieć	niekorzystnego	wpływu	na	bieżące	ani	przyszłe	„zyski
+podstawowe”.	W	skrajnych	przypadkach	mogą	sprawiać,	że	zyski	wydają	się	dwa
+razy	wyższe	niż	w	rzeczywistości	–	jedynie	dzięki	mniej	lub	bardziej	magicznym
+sztuczkom	z	podatkami.
+Jeśli	chodzi	o	obciążenia	specjalne	ALCOA,	to	po	pierwsze,	trzeba	ustalić,	w	jaki
+sposób	powstały.	Przypisy	są	dość	precyzyjne.	Odliczenia	wzięły	się
+z	następujących	źródeł:
+1.	Szacunków	zarządu	w	kwestii	przewidywanych	kosztów	zamknięcia	działu
+produkcji	przemysłowej.2.	To	samo	w	odniesieniu	do	zamknięcia	zakładów	ALCOA	Casting	Plants	Co.
+3.	To	samo	w	odniesieniu	do	wstrzymania	ALCOA	Credit	Co.
+4.	Szacunkowe	koszty	w	wysokości	5,3	miliona	dolarów,	związane
+z	dokończeniem	realizacji	kontraktu	na	„ścianę	przegradzającą”.
+Wszystkie	te	kwestie,	mają	związek	z	przyszłymi	kosztami	i	stratami.	Łatwo
+powiedzieć,	że	nie	należą	do	„regularnych	wyników	operacyjnych”	w	1970	roku…
+Ale	w	takim	razie	do	czego	należą?	Są	„nadzwyczajne	i	jednorazowe”?	Tak
+rozległe	przedsiębiorstwo	jak	ALCOA,	musi	mieć	wiele	działów,	departamentów,
+przedstawicielstw	itp.	Czy	to	coś	normalnego,	czy	też	„nadzwyczajnego”,	że	kilka
+jednostek	okazuje	się	niedochodowych	i	trzeba	je	zamknąć?	To	samo	z	kontraktem
+na	budowę	ściany.	Przypuśćmy,	że	gdy	tylko	któreś	przedsięwzięcie	okazuje	się
+niedochodowe,	firma	wpada	na	genialny	pomysł,	aby	zaklasyfikować	ja	jako
+„pozycja	specjalna”,	w	rezultacie,	w	zyskach	podstawowych	zostają	uwzględnione
+tylko	kontrakty	i	przedsięwzięcia	dochodowe.	Zupełnie	jak	zegar	słoneczny	króla
+Edwarda	VII,	pokazujący	tylko	„słoneczne	godziny”.
+257
+Czytelnik	powinien	zwrócić	uwagę,	na	dwa	genialne	aspekty	omawianego	tutaj
+procederu	ALCOA.	Po	pierwsze,	dzięki	
+przewidywaniu	przyszłych	strat
+,	firma
+ucieka	przed	koniecznością	przypisania	strat	do	konkretnego	roku.	Nie	dotyczą	one
+1970	roku,	bo	nie	wtedy	zostały	poniesione.	Nie	zostaną	też	
+wykazane
+	w	roku,
+w	którym	do	nich	dojdzie,	bo	już	wcześniej	zostały	uwzględnione.	Znakomite
+posunięcie.	Ale	czy	nie	wprowadza	w	błąd?
+Przypis	ALCOA	nic	nie	wspomina	o	przyszłych	oszczędnościach	podatkowych,
+uzyskanych	dzięki	tym	stratom	(większość	innych	tego	rodzaju	sprawozdań,
+pokazuje	konkretnie,	że	odpisana	została	tylko	suma	po	uwzględnieniu	podatku).
+Skoro	dane	ALCOA	przedstawiają	przyszłe	straty	przed	odliczeniem	związanej
+z	nimi	ulgi	podatkowej,	to	przyszłe	zyski	nie	tylko	będą	uwolnione	od	obciążeń
+(gdy	do	nich	rzeczywiście	dojdzie),	ale	także	
+wzrosną
+	o	odpis	podatkowy
+w	wysokości	około	50%.	Trudno	uwierzyć,	żeby	księgowość	była	prowadzona
+w	ten	sposób.	Faktem	jest	jednak,	że	niektóre	firmy	ponoszące	duże	straty
+w	przeszłości,	mogą	przedstawiać	przyszłe	zyski	bez	normalnego	obciążenia
+podatkowego,	osiągając	w	ten	sposób	pozornie	znakomite	zyski	–	osiągnięte
+paradoksalnie	dzięki	porażkom	z	przeszłości	(obecnie,	odliczenia	podatkowe
+przyznawane	dzięki	stratom	z	
+przeszłych	lat
+,	są	wykazywane	jako	„pozycja
+specjalne”,	ale	w	przyszłych	statystykach,	figurują	jako	część	ostatecznych
+„przychodów	netto”.	Niemniej	jednak,	zarezerwowanie	sobie	teraz	
+przyszłych
+	strat
+i	spodziewanego	odpisu	podatkowego,	nie	powinno	wpływać	na	tego	typu
+powiększenie	przychodów	netto	w	latach	przyszłych).
+Kolejne	genialne	cechy	takiego	podejścia	ALCOA,	i	wielu	innych	firm,	to
+wykorzystanie	na	doliczenie	tych	specjalnych	obciążeń	akurat	końca	1970	roku.
+W	pierwszej	połowie	tego	roku,	giełda	przeszła	coś,	co	można	porównać	do

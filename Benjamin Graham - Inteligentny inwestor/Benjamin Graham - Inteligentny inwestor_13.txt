@@ -1,0 +1,307 @@
+Na	szczęście,	przed	inflacją	można	bronić	się	nie	tylko	przy	pomocy	akcji.	Od
+czasów,	kiedy	Benjamin	Graham	po	raz	ostatni	uzupełniał	swój	tekst,	wśród
+inwestorów	popularnością	zaczęły	cieszyć	się	dwa	sposoby	obrony	przed	inflacją:
+REIT,	Real	Estate	Investment	Trusts,	czyli	powiernictwo	nieruchomości.	To
+przedsiębiorstwa,	które	posiadają	na	własność	lokale	użytkowe	i	mieszkalne,
+z	których	pobierają	czynsz.
+60
+	Zgromadzone	w	funduszach	nieruchomości,
+znakomicie	radzą	sobie	z	przeciwdziałaniem	inflacji.	Najlepszy	jest	REIT	Fund
+Index.	Do	innych,	niezbyt	kosztownych,	należą:	Cohen	&	Steers	Realty	Shares,
+Columbia	Real	Estate	Equity	Fund	i	Fidelity	Real	Estate	Investment	Fund.
+61
+	Chociaż
+REIT	nie	są	idealnym	sposobem	na	inflację,	w	dłuższej	perspektywie	powinny
+chronić	przed	kurczeniem	siły	nabywczej,	bez	znacznego	uszczuplania	ogólnych
+zysków.
+TIPS,	Treasury	Inflation-Protected	Securities,	czyli	papiery	wartościowe
+chronione	przed	inflacją	przez	Skarb	Państwa.	Są	to	amerykańskie	obligacje
+rządowe,	po	raz	pierwszy	wyemitowane	w	1997	roku.	Ich	wartość	rośnie
+automatycznie	wraz	z	inflacją.	Zakup	obligacji	skarbowych	też	nie	wiąże	się
+z	ryzykiem	nie	wypłacenia	należności,	ponieważ	stoi	za	nimi	zaufanie	do	rządu
+USA.	Ale	TIPS	gwarantują,	że	inflacja	nie	naruszy	poczynionej	inwestycji.	Jeden
+pakiet	zapewnia	ochronę	przed	stratą	finansową	i	ochronę	przed	stratą	siły
+nabywczej.
+62
+Jest	tu	jednak	pewien	haczyk.	Gdy	wartość	obligacji	TIPS	rośnie	wraz	z	inflacją,
+urząd	skarbowy	uznaje	wzrost	wartości	za	dochód	podlegający	opodatkowaniu,
+choć	przecież	jest	to	wyłącznie	zysk	na	papierze	(o	ile	inwestor	nie	sprzedał
+obligacji	po	nowej,	wyższej	cenie).	Dlaczego	fiskus	tak	postępuje?	Inteligentny
+inwestor	powinien	zapamiętać	mądre	słowa	analityka	finansowego	Marka
+Schwebera:	„Nigdy	nie	zadawaj	biurokratom	pytania:	–	Dlaczego?”	Z	powodu	tych
+komplikacji	podatkowych,	TIPS	najbardziej	nadają	się	dla	indywidualnych	kont
+emerytalnych	z	opóźnionym	terminem	płatności	podatku,	na	przykład	IRA,	Keogh
+lub	401(k),	które	nie	zawyżają	dochodu	podlegającego	opodatkowaniu.
+TIPS	można	kupić	bezpośrednio	od	rządu	USA	na	stronie
+www.publicdebt.treas.gov/of/ofinflin.htm
+	lub	za	pośrednictwem	funduszu
+powierniczego,	na	przykład	Vanguard	Inflation-Protected	Securities,	lub	Fidelity
+Inflation-Protected	Bond	Fund.
+63
+	Obojętnie,	czy	TIPS	kupuje	się	bezpośrednio,	czy
+za	pośrednictwem	funduszy,	są	idealnym	substytutem	części	funduszu	emerytalnego,
+który	w	innym	razie	trzymany	byłby	w	gotówce.	Nie	warto	nimi	obracać.	Na	krótką
+metę	ich	wartość	może	ulegać	wahaniom,	dlatego	najlepiej	sprawdzają	się	jako
+inwestycje	długoterminowe.	Dla	większości	inwestorów,	mądrym	wyjściem	będzie
+ulokowanie	przynajmniej	10%	kapitału	emerytalnego	w	TIPS,	część	pieniędzy
+będzie	w	ten	sposób	całkowicie	bezpieczna	i	kompletnie	poza	zasięgiem
+niewidzialnych	szponów	inflacji.ROZDZIAŁ	
+3
+Sto	lat	dziejów	giełdy.	Poziom	cen	akcji	na	początku	1972
+roku
+Wypełniony	akcjami	portfel	inwestora	to	zaledwie	drobny	wycinek	olbrzymiej
+i	niezwykłej	instytucji,	znanej	pod	nazwą	giełda.	Rozsądek	podpowiada,	że	trzeba
+zdobyć	pewne	pojęcie	na	temat	jej	dziejów,	zwłaszcza	dotyczące	historii	wahań
+poziomów	cen	i	różnych	relacji	między	cenami	a	zyskami	i	dywidendami.	Wiedza
+ta,	umożliwia	sformułowanie	przydatnych	ocen	atrakcyjności	rynku,	na	różnych
+historycznych	poziomach,	i	związanych	z	nimi	niebezpieczeństw.	Tak	się	składa,	że
+dokładne	dane	statystyczne	na	temat	cen,	zysków	i	dywidend	dotyczą	okresu
+sięgającego	dokładnie	100	lat	wstecz,	do	roku	1871	(materiał	z	pierwszej	połowy
+tego	okresu,	choć	nie	tak	wyczerpujący	ani	wiarygodny,	jak	dane	z	drugiego
+półwiecza,	także	jest	przydatny).	W	tym	rozdziale	przedstawimy	dane	w	sposób
+bardzo	skondensowany,	koncentrując	się	na	dwóch	sprawach.	Po	pierwsze,	chcemy
+pokazać	ogólnie,	jak	zmieniały	się	ceny	na	przestrzeni	wielu	cyklów	minionego
+stulecia.	Po	drugie,	chcemy	to	zaprezentować	na	podstawie	średnich	z	kolejnych
+dziesięcioleci	–	nie	tylko	pod	kątem	cen	akcji,	ale	również	zysków	i	dywidend	–	aby
+uwidocznić	zmieniające	się	relacje	między	tymi	trzema,	jakże	istotnymi,
+czynnikami.	Dysponując	takim	bogactwem	danych,	będziemy	mogli	rozważać
+poziom	cen	z	początku	roku	1972.
+Długoletnie	dzieje	giełdy	zostały	podsumowane	w	dwóch	tabelach	i	na	wykresie.
+Tabela	3.1.	przedstawia	minima	i	maksima	19	cyklów	bessy	i	hossy	w	minionych
+100	latach.	Odwołaliśmy	się	do	dwóch	indeksów	giełdowych.	Pierwszy,	to
+połączenie	wyników	dawnych	analiz	Komisji	Cowlesa,	sięgających	roku	1870,	oraz
+ich	kontynuacji,	czyli	słynnego	indeksu	Standard	&	Poor's	500.	Drugi,	to	jeszcze
+słynniejszy	wskaźnik	wartości	akcji	spółek	przemysłowych	–	DJIA	(albo	po	prostu
+„Dow”),	notowany	od	roku	1897.	Obejmuje	on	30	dużych	przedsiębiorstw,	m.in.
+American	Telephone	&	Telegraph.
+1
+Tabela	3.1.	Największe	wahania	cen	akcji	spółek	giełdowych	w	okresie	1871-1971
+Lata
+Cowles-Standard	500	Composite
+Dow-Jones	Industrial	Average
+spadek
+spadekmaksimum
+minimum
+(%)
+maksimum
+minimum
+(%)
+1871
+4,64
+1881
+6,58
+1885
+4,24
+28
+1887
+5,90
+1893
+4,08
+31
+1897
+38,85
+1899
+77,6
+1900
+53,5
+31
+1901
+8,50
+78,3
+1903
+6,26
+26
+43,2
+45
+1906
+10,03
+103,0
+1907
+6,25
+38
+53,0
+48
+1909
+10,30
+100,5
+1914
+7,35
+29
+53,2
+47
+1916-18
+10,21
+110,2
+1917
+6,80
+33
+73,4
+33
+1919
+9,51
+119,6
+1921
+6,45
+32
+63,9
+47
+1929
+31,92
+381,0
+1932
+4,40
+86
+41,2
+89
+1937
+18,68
+197,4
+1938
+8,50
+55
+99,0
+50
+1939
+13,23
+158,0
+1942
+7,47
+44
+92,9
+41
+1946
+19,25
+212,5
+1949
+13,55
+30
+161,2
+24
+1952
+26,60
+292,0
+1952-53
+22,70
+15
+256,0
+13
+1956
+49,70
+521,0
+1957
+39,00
+24
+420,0
+20
+1961
+76,70
+735,0
+1962
+54,80
+29
+536,0
+27
+1966-68
+108,4
+995,0
+1970
+69,30
+36
+631,0
+37
+początek
+1972
+100
+–
+900
+–
+Wykres	1.,	publikowany	dzięki	uprzejmości	Standard	&	Poor's,	pokazuje
+rynkowe	wahania	wskaźnika	cen	425	przedsiębiorstw	przemysłowych,	od	roku1900	do	1970	(podobny	wykres	dla	DJIA	wyglądałby	niemal	identycznie).	Czytelnik
+zauważy	trzy,	dość	odmienne	prawidłowości,	z	których	każ-
+da	dotyczy	mniej	więcej	jednej	trzeciej	analizowanego	siedemdziesięciolecia.
+Pierwszy	okres	przypada	na	lata	1900-1924	i	składa	się,	przede	wszystkim,	z	serii
+dość	podobnych	cykli	rynkowych,	trwających	od	trzech	do	pięciu	lat.	Roczny
+wzrost	wskaźnika	w	tym	okresie	wynosił,	średnio,	około	3%.	Następnie
+przechodzimy	do	hossy	„nowej	ery”,	która	osiągnęła	kulminację	w	1929	roku.
+Wkrótce	jednak,	nastąpiło	straszne	załamanie,	a	po	nim	nieregularne	wahania	aż	do
+roku	1949.	Jeśli	porównać	przeciętne	poziomy	z	lat	1949	i	1924,	stwierdzimy,	że
+przeciętna	roczna	stopa	wzrostu	wynosiła	zaledwie	1
+1
+/
+2
+%.	A	zatem,	społeczeństwo
+odnosiło	się	do	akcji	bez	entuzjazmu.	Jednak	zadziałała	tu	reguła	przeciwieństw:
+nadszedł	czas,	aby	rozpoczęła	się	największa	hossa	w	naszej	historii,	przypadająca
+na	ostatnią,	trzecią	część	wykresu.	Osiągnęła	punkt	kulminacyjny	w	grudniu	1968
+roku,	kiedy	to	wskaźnik	Standard	&	Poor's	dla	425	przedsiębiorstw	przemysłowychwyniósł	118	(a	dla	500	papierów	wartościowych	–	108).	Jak	pokazuje	Tabela	3.1.,
+między	rokiem	1949	a	1968	występowały	dość	poważne	spadki	(szczególnie
+w	latach	1956-1957	i	1961-1962),	ale	późniejsze	ożywienia	były	tak	szybkie,	że
+spadki	te	trzeba	nazwać,	zgodnie	z	od	dawna	przyjmowaną	terminologią,	raczej
+recesjami	w	jednolitym	okresie	hossy	niż	odrębnymi	cyklami	rynkowymi.	W	ciągu
+17	lat,	między	minimum	wskaźnika	Dow	na	poziomie	162	w	połowie	1949	roku
+a	maksimum	z	początku	1966	roku,	wynoszącym	995,	widzimy	ponad	sześciokrotny
+wzrost.	To	oznacza	średnią	stopę	łącznego	wzrostu	cen	równą	11%	w	skali	rocznej,
+nie	licząc	dywidend	rzędu	3
+1
+/
+2
+%	rocznie	(wzrost	indeksu	łącznego	Standard	and
+Poor's	500	był	nieco	wyższy	niż	DJIA	i	wyniósł	odpowiednio	od	14	do	96).
+Zyski	rzędu	14%	i	więcej	z	roku	1963	oraz	z	lat	późniejszych,	zostały
+udokumentowane	w	powszechnie	dostępnych	badaniach
+64
+.
+2
+	Z	jednej	strony,	te
+znakomite	wyniki	wywołały	na	Wall	Street	naturalne	zadowolenie.	Z	drugiej,
+doprowadziły	do	zupełnie	nielogicznego	i	niebezpiecznego	przekonania,	że
+w	przyszłości	akcje	będą	osiągać	równie	wspaniałe	wyniki.	Mało	kto	zawracał
+uwagę	na	to,	że	sam	zakres	tego	wzrostu	może	sugerować,	że	był	on	nadmierny.
+Późniejszy	spadek,	od	maksimum	z	roku	1968,	do	minimum	z	roku	1970,	wyniósł
+36%	dla	wskaźnika	Standard	&	Poor's	(a	37%	dla	DJIA).	Był	największy	od	czasów
+liczącego	44%	spadku	w	latach	1939-1942,	odzwierciedlającego	zagrożenia
+i	niepewność	okresu	po	ataku	na	Pearl	Harbor.	Po	minimum	z	maja	1970	roku
+nastąpiły,	w	spektakularny,	charakterystyczny	dla	Wall	Street	sposób,	potężne
+i	szybkie	wzrosty	obu	indeksów.	Doprowadziły	one	z	początkiem	1972	roku	do
+ustanowienia	przez	wskaźnik	Standard	&	Poor's	dla	przedsiębiorstw
+przemysłowych,	nowego,	historycznego	maksimum.	Roczne	tempo	wzrostu	cen
+w	latach	1949-1970	wyniosło	przeciętnie	około	9%	dla	wskaźnika	łącznego	S&P.
+Było	to	oczywiście	znacznie	więcej,	niż	w	jakimkolwiek	analogicznym	okresie
+przed	rokiem	1950	(jednak	w	ostatniej	dekadzie	tempo	wzrostu	było	znacznie
+niższe	–	5
+1
+/
+4
+%	dla	indeksu	łącznego	S&P	i	dobrze	kiedyś	znane,	zaledwie	3%,	dla
+DJIA).
+Aby	pokazać	pełen	obraz	tego,	co	przez	100	lat	działo	się	w	amerykańskiej
+gospodarce,	dane	na	temat	zmian	cen	trzeba	uzupełnić	o	dane	na	temat	zysków
+i	dywidend.	W	Tabeli	3.2.	przedstawiamy	je	w	skrócie.	Nie	oczekujemy,	że
+czytelnicy	z	uwagą	przestudiują	te	informacje,	ale	mamy	nadzieję,	że	dla	niektórych
+będą	one	ciekawe	i	pouczające.
+Tabela	3.2.	Wyniki	giełdy	papierów	wartościowych	1871-1970a
+Okres
+Średnia
+cena
+Średnie
+zyski
+Średni
+wskaźnik
+c/z
+Średnia
+dywidenda
+Średnia
+stopa
+rentowności
+(%)
+Średnie
+wypłaty
+(%)
+1871-
+1880
+3,58
+0,32
+11,3
+0,21
+6,0
+67

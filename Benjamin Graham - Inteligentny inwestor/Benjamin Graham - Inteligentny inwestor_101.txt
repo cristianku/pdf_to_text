@@ -1,0 +1,196 @@
+w	przypadku	spółek	wypłacających	dywidendy.	Te	bardziej	zmienne	dochody,	prowadzą	generalnie	do
+elastyczności	cen	akcji,	sprawiając,	że	opcje	akcyjne	dyrektorów	są	bardziej	wartościowe	–	stwarzając	więcej
+możliwości,	kiedy	ceny	akcji	są	tymczasowo	wysokie.	Obecnie,	około	dwóch	trzecich	wynagrodzenia
+zarządów,	ma	formę	opcji	oraz,	innych	niż	pieniężne,	premii.	Przed	30	laty,	co	najmniej	dwie	trzecie	tych
+wynagrodzeń	miało	formę	pieniężną.
+425
+	Sprawozdanie	pośrednie	spółki	Apple	Computer	z	dorocznego	spotkania	w	kwietniu	2001	roku,	str.	8
+(dostępne	na	stronie	
+www.sec.gov
+).	Przyznanie	opcji	Jobsowi	oraz	posiadanie	akcji	jest	dostosowane	do
+pomnożenia	akcji	w	stosunku	dwa	do	jednego.
+426
+	„Mówi	się,	że	pewien	wschodni	monarcha	zażądał	kiedyś	od	mędrców,	by	stworzyli	dla	niego	zdanie,	które
+zawsze	będzie	prawdziwe	i	będzie	pasować	do	każdej	chwili	i	sytuacji.	Przedstawili	mu	zdanie:	
+I	to	wszystko
+przeminie
+.	Ileż	ono	wyraża!	Jak	napomina	w	godzinie	dumy!	Jak	wspiera	na	dnie	cierpienia!	I	to	wszystko
+przeminie.	A	przecież	wy	dajecie	nam	nadzieję,	że	to	nie	do	końca	prawda.”	–	Abraham	Lincoln,	Address	to
+the	Wisconsin	State	Agricultural	Society,	Milwaukee,	30	września	1859,	
+Abraham	Lincoln:	Speeches	and
+Writings,	1859-1865
+,	Library	of	America,	1985,	t.	II,	str.	101.
+427
+	„Zdolność	zarobkowa”	jest	pojęciem	stworzonym	przez	Grahama,	określającym	potencjalne	zyski	spółki	albo,
+jak	podkreśla,	kwotę,	którą	firma	„spodziewa	się	uzyskiwać	rok	po	roku,	jeśli	stan	przedsiębiorstwa	panujący
+w	tym	okresie	nie	zmieni	się”	
+(Security	Analysis
+,	wyd.	1934,	str.	354).	Niektóre	z	wykładów	Grahama
+wyjaśniają,	że	miał	on	na	myśli	okres	nie	krótszy,	niż	pięć	lat.	Można	prosto	i	bez	trudu,	skalkulować
+w	przybliżeniu	zdolność	zarobkową	spółki	w	przeliczeniu	na	akcję,	biorąc	odwrotność	współczynnika
+cena/zysk.	Można	powiedzieć,	że	akcje	o	współczynniku	wynoszącym	11	mają	zdolność	zarobkową
+wysokości	9%	(czyli	i	podzielone	przez	11).	Dzisiaj	„zdolność	zarobkowa”	często	określana	jest	jako
+„wydajność	zarobków”.
+428
+	Problem	ten	został	obszernie	omówiony	w	Komentarzu	do	Rozdziału	19.
+429
+	Graham	elegancko	podsumował	rozważanie,	które	pojawia	się	w	jego	wykładzie	wygłoszonym	w	1972	roku:
+„Margines	bezpieczeństwa,	to	różnica	między	stosunkiem	procentowym	zysków	w	przeliczeniu	na	akcje,
+posiadających	określoną	cenę,	a	stopą	procentową	obligacji.	Taki	margines	bezpieczeństwa,	to	różnica,	która
+może	złagodzić	niezadowalające	wyniki.	Kiedy	powstawało	wydanie	
+The	Intelligent	Investor
+,	które	ukazało
+się	w	1965	roku,	cena	typowych	akcji	11	razy	przekraczała	wartość	zysków,	dając	około	9%	dochodu,
+w	porównaniu	do	4%	w	przypadku	obligacji.	W	takiej	sytuacji,	margines	bezpieczeństwa	wynosił	ponad	100%.
+Obecnie	(w	1972	roku),	nie	ma	różnicy	między	współczynnikiem	dochodów	w	przeliczeniu	na	akcje	i	stopą
+procentową	akcji,	zatem	moim	zdaniem,	margines	bezpieczeństwa	nie	istnieje	(…),	w	przypadku	akcji	mamy	do
+czynienia	z	odwrotnością	marginesu	bezpieczeństwa	(…)”.	Zob.	Benjamin	Graham,	
+Thoughts	on	Security
+Analysis
+	(zapis	wykładu	w	szkole	biznesu	przy	Northeast	Missouri	State	University,	wygłoszonego	w	marcu
+1972	roku),	
+Financial	History
+,	nr	42,	marzec	1991,	str.	9.
+430
+	Ten	fragment,	który	Graham	napisał	na	początku	1972	roku,	stanowi	niesamowicie	precyzyjny	opis	warunków
+panujących	na	rynku	na	początku	2003	roku	(więcej	szczegółów	w	Komentarzu	do	Rozdziału	3.).
+431
+	W	„amerykańskiej”	ruletce,	większość	kół	zawiera	0	i	00,	oprócz	liczb	od	1	do	36,	co	łącznie	daje	38	pól.
+Kasyno	oferuje	maksymalną	wypłatę	w	stosunku	35	do	1.	A	gdyby	tak,	na	każdy	numer	postawić	1	dolara?
+Ponieważ	kulka	może	wpaść	tylko	na	jedno	z	pól,	możesz	wygrać	35	dolarów,	ale	stracić	po	1	dolarze
+postawionym	na	każde	z	37.	pozostałych	pól,	zatem	twoja	strata	netto	wynosi	2	dolary.	Różnica	tych	2
+dolarów	(czyli	5,26%	całości	kwoty	38	dolarów	zakładu),	stanowi	„przewagę”	kasyna,	dającą	pewność,	że
+przeciętni
+	gracze	zawsze	będą	tracić	więcej,	niż	zdołają	wygrać.	W	interesie	gracza	jest	obstawiać	tak	rzadko,
+jak	to	możliwe,	w	interesie	kasyna	jest,	by	koło	się	kręciło.	Podobnie	inteligentny	inwestor,	powinien	starać	się,
+by	liczba	spółek,	które	oferują	„większą	szansę	zysku,	niż	straty”,	była	jak	największa.	Dla	większości
+inwestorów,	różnicowanie	jest	najprostszym	i	najtańszym	sposobem	powiększenia	marginesu	bezpieczeństwa.
+432
+	Graham	twierdzi,	że	nie	ma	dobrych	czy	złych	akcji;	są	tylko	tanie	i	drogie.	Nawet	najlepsza	spółka	staje	się
+„zdradliwa”,	kiedy	ceny	jej	akcji	idą	za	bardzo	w	górę,	podczas	gdy	udziały	najgorszej	spółki	warto	kupić,
+jeśli	ich	cena	zejdzie	wystarczająco	nisko.
+433
+	Wszyscy	ludzie,	którzy	uznali	akcje	spółek	z	branży	technologicznej	i	telekomunikacyjnej	za	„coś	pewnego”
+na	przełomie	1999	i	2000	roku,	kiedy	ich	cena	była	piekielnie	zawyżona,	w	2002	roku	rezygnowali	z	nich
+jako	„zbyt	ryzykownych”	–	nawet	jeżeli,	mówiąc	słowami	Grahama,	„obniżenie	ceny	o	około	90%	sprawiło,
+że	wiele	tych	akcji	stało	się	niezwykle	atrakcyjnych	i	całkiem	bezpiecznych”.	Podobnie,	analitycy	z	Wall
+Street,	mieli	zawsze	skłonność	nazywać	akcje	„korzystnym	zakupem”,	kiedy	ich	cena	jest	wysoka,
+a	przyczepiać	im	etykietkę	„zdradliwych”,	gdy	ich	cena	spada	–	dokładne	przeciwieństwo	tego,	conakazywałby	Graham	(i	zwykły	zdrowy	rozsądek).	Tak,	jak	zresztą	w	całej	tej	książce,	Graham	oddziela
+spekulację	–	albo	kupowanie	w	nadziei	na	wzrost	cen	akcji	–	od	inwestowania,	czyli	dokonywania	zakupu
+w	oparciu	o	wartość	spółki.
+434
+	Graham	używa	pojęcia	„warranty	opcji	akcyjnych”	jako	synonimu	„warrantów”,	papierów	wyemitowanych
+bezpośrednio	przez	spółkę,	i	dających	ich	posiadaczowi	prawo	do	nabycia	akcji	tej	spółki	po	wcześniej
+ustalonej	cenie.	Warranty	zostały	niemal	całkowicie	wyparte	przez	opcje	akcyjne.	Graham	żartuje,	że	chciał
+zaszokować	tym	przykładem,	ponieważ,	nawet	w	jego	czasach,	warranty	były	uważane	za	jedno	z	najbardziej
+zaniedbanych	obrzeży	rynku	(zobacz:	Komentarz	do	Rozdziału	16.).
+435
+	Przytoczone	za	konsultantem	inwestycyjnym,	Charlesem	Ellisem	(Jason	Zweig,	
+Wall	Street's	Wisest	Man
+,
+Money
+,	czerwiec	2001,	str.	49-52).
+436
+	W	cenie	akcji	JDS	Uniphase	zostały	uwzględnione	późniejsze	pomnożenia.
+437
+	Nikt,	kto	rzetelnie	przeanalizował	odpowiedź	na	to	pytanie	i	szczerze	zgodził	się	z	rezultatem,	w	życiu	nie
+sprzedawał	ani	nie	kupował	papierów	wartościowych	w	początkowej	ofercie	publicznej.
+438
+	Paul	Slovic,	
+Informing	and	Educating	the	Public	about	Risk,	Risk	Analysis
+,	vol.	6,	nr	4,	1986,	str.	412.
+439
+	
+The	Wager
+,	Blaise	Pascal,	
+Pensées
+,	Penguin	Books,	Londyn-Nowy	Jork	1995,	str.	122-125;	Peter	L.
+Bernstein,	
+Against	the	Gods
+,	John	Wiley&Sons,	Nowy	Jork	1996,	str.	68-70;	Peter	L.	Bernstein,	
+Decision
+Theory	in	Iambic	Pentameter,	Economics	&	Portfolio	Strategy
+,	1	stycznia	2003,	str.	2.
+440
+	Ci	dwaj	partnerzy,	o	których	Graham	pisze	tak	skromnie,	to	Jerome	Newman	i	on	sam.
+441
+	Graham	opisuje	spółkę	Government	Employees	Insurance	Co.,	czyli	GEICO,	w	której	on	i	Newman	kupili
+w	1948	roku	50%	udziałów.	Miało	to	miejsce	mniej	więcej	w	tym	samym	czasie,	kiedy	Graham	kończył	pisać
+The	Intelligent	Inwestor
+.	Kwota	712	500	dolarów,	którą	zainwestowali	w	GEICO	stanowiła	wówczas	prawie
+25%	ich	kapitału.	Przez	wiele	lat	Graham	był	członkiem	rady	nadzorczej	GEICO.	Szczęśliwym	zbiegiem
+okoliczności,	największy	z	uczniów	Grahama,	Warren	Buffett,	sam	postawił	na	GEICO	w	1976	roku,	kiedy	ta
+wielka	kompania	ubezpieczeniowa	stała	u	progu	bankructwa.	Okazało	się	to	zresztą	jedną	z	najlepszych
+inwestycji	Buffetta.
+442
+	Z	powodu	interpretacji	przepisów	prawnych,	Graham	i	Newman	zostali	zmuszeni	przez	U.S.	Securities
+&	Exchange	Commission	do	rozdzielenia	akcji	Graham-Newman	GEICO	Corp.	między	akcjonariuszy.
+Inwestor,	który	na	początku	1948	roku	miał	100	akcji	tej	spółki	(wartych	11	413	dolarów)	i	dotrwał	do
+dystrybucji	GEICO,	w	roku	1972	mógł	mieć	już	1,66	mln	dolarów.	Do	„później	założonych	oddziałów”
+GEICO	należały	Government	Employees	Financial	Corp.	i	Criterion	Insurance	Co.
+443
+	Anegdota	Grahama	przypomina	również,	że	ci	z	nas,	którzy	nie	są	tak	znakomici,	jak	on,	muszą	zawsze
+różnicować	swoje	portfele,	aby	chronić	się	przed	ryzykiem	wkładania	zbyt	wielu	pieniędzy	w	akcje	jednego
+rodzaju.	Kiedy	sam	Graham	przyznaje,	że	GEICO	była	„łutem	szczęścia”,	jest	to	sygnał,	że	większość	z	nas
+nie	może	liczyć	na	to,	że	będzie	w	stanie	znaleźć	tak	świetną	okazję.	Aby	uchronić	inwestowanie	od	popadania
+w	hazard,	musisz	różnicować.
+444
+	Dante	Alighieri,	
+Boska	Komedia,	Piekło,	pieśń	XXVI
+,	w.	112-125,	tłum.	Edward	Porębowicz,	PIW,	Warszawa
+1975,	str.	137	(w	oryginale	przekład	Jasona	Zweiga	–	przyp.	tłum.).Table	of	Contents
+Strona	tytułowa
+Strona	redakcyjna
+Motto
+Wstęp	do	wydania	polskiego
+Warren	E.	Buffett	Wstęp	do	wydania	czwartego
+Jason	Zweig	Słowo	o	Benjaminie	Grahamie
+Wprowadzenie	Jaki	jest	cel	tej	książki?
+Komentarz	do	wprowadzenia
+ROZDZIAŁ	1	Inwestycje	a	spekulacje	–	wyniki,	których	spodziewa	się	inteligentny
+inwestor
+Komentarz	do	rozdziału	1
+ROZDZIAŁ	2	Inwestor	a	inflacja
+Komentarz	do	rozdziału	2
+ROZDZIAŁ	3	Sto	lat	dziejów	giełdy.	Poziom	cen	akcji	na	początku	1972	roku
+Komentarz	do	rozdziału	3
+ROZDZIAŁ	4	Ogólna	polityka	portfela:	inwestor	defensywny
+Komentarz	do	rozdziału	4
+ROZDZIAŁ	5	Inwestor	defensywny	i	akcje	zwykłe
+Komentarz	do	rozdziału	5
+ROZDZIAŁ	6	Polityka	portfela	inwestora	przedsiębiorczego:	ujęcie	negatywne
+Komentarz	do	rozdziału	6
+ROZDZIAŁ	7	Polityka	portfelowa	dla	inwestora	przedsiębiorczego:	strona	dodatnia
+Komentarz	do	rozdziału	7
+ROZDZIAŁ	8	Inwestor	a	wahania	rynkowe
+Komentarz	do	rozdziału	8
+ROZDZIAŁ	9	Inwestowanie	w	fundusze	inwestycyjne
+Komentarz	do	rozdziału	9
+ROZDZIAŁ	10	Inwestor	i	doradcy
+Komentarz	do	rozdziału	10
+ROZDZIAŁ	11	Analiza	papierów	wartościowych	dla	laika	–	podejście	ogólne
+Komentarz	do	rozdziału	11
+ROZDZIAŁ	12	Co	brać	pod	uwagę	przy	zyskach	na	jedną	akcję?
+Komentarz	do	rozdziału	12
+ROZDZIAŁ	13	Porównanie	czterech	spółek	giełdowych
+Komentarz	do	rozdziału	13
+ROZDZIAŁ	14	Wybór	akcji	dla	inwestora	defensywnego
+Komentarz	do	rozdziału	14ROZDZIAŁ	15	Wybór	akcji	dla	inwestora	aktywnego
+Komentarz	do	rozdziału	15
+ROZDZIAŁ	16	Emisje	wymienialne	i	warranty
+Komentarz	do	rozdziału	16
+ROZDZIAŁ	17	Cztery	nadzwyczaj	pouczające	historie
+Komentarz	do	rozdziału	17
+ROZDZIAŁ	18	Porównanie	ośmiu	par	spółek
+Komentarz	do	rozdziału	18
+ROZDZIAŁ	19	Akcjonariusze	i	zarządy	–	polityka	dywidend
+Komentarz	do	rozdziału	19
+ROZDZIAŁ	20	„Margines	bezpieczeństwa”	jako	podstawowa	koncepcja
+inwestowania
+Komentarz	do	rozdziału	20
+Posłowie
+Komentarz	do	posŁowia
+Dodatki
+Przypisy	końcowe
+Jason	Zweig	Podziękowania
+Przypisy

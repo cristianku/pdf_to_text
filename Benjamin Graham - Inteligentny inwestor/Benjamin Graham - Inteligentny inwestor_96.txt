@@ -1,0 +1,421 @@
+128
+	Patrz:	
+www.microsoft.com/msft/stock.htm
+,	
+IPO	investments	results
+.
+129
+	Jay.	R.	Ritter	i	Ivo	Welch,	
+Review	of	IPO	Activity,	Pricing,	and	Allocations
+,	
+Journal	of	Finance
+,	sierpień
+2002,	str.	1797.	Strony	Rittera	
+http://bear.cba.ufl.edu/ritter/
+	i	Welch	
+http://welch.som
+.	yale.edu/,	to	kopalnie
+informacji	dla	każdego,	kto	interesuje	się	ofertami	rynku	pierwotnego.
+130
+	Jak	zostało	wspomniane	w	przypisie	na	str.	98,	obligacje	New	Housing	Authority	i	New	Community	Bonds	nie
+są	już	emitowane.
+131
+	Dzisiaj,	„obligacje	niższej	jakości”	w	obszarze	„szczególnych	sytuacji”	noszą	nazwę	stresujących	albo
+przysparzających	kłopotów.	Gdy	firma	zaczyna	mieć	kłopoty	z	powodu	zbliżającego	się	bankructwa,	akcje
+praktycznie	tracą	całą	swoją	wartość,	ponieważ	prawo	amerykańskie	daje	większe	prawo	do	roszczeń
+posiadaczom	obligacji	niż	akcjonariuszom.	Jeżeli	jednak	przedsiębiorstwo	przeprowadzi	udaną	reorganizację
+i	uniknie	upadłości,	to	często	posiadacze	obligacji	otrzymują	udziały	w	nowej	firmie,	a	same	obligacje
+odzyskują	wartość,	gdy	znów	zaczynają	być	wypłacane	odsetki.	A	zatem,	obligacje	spółki	znajdującej	się
+w	opałach,	mogą	radzić	sobie	równie	dobrze,	jak	akcje	całkiem	sprawnej	firmy.	Jak	wspomina	Graham,
+w	takich	sytuacjach	specjalnych	„przestają	istnieć	wyraźne	rozróżnienia	na	obligacje	i	akcje”.
+132
+	Zwróćmy	tutaj	uwagę	na	ostrożność	Grahama.	W	1972	roku	pisze,	że	okres	od	roku	1949	–	a	więc	ponad	22
+lata	–	jest	zbyt	krótki,	aby	wyciągnąć	jakieś	rzetelne	wnioski!	Nigdy	nie	zapomniał,	że	obiektywne	konkluzje
+wymagają	bardzo	wielu	informacji	z	bardzo	wielu	lat.	Magicy,	którzy	wciskają	„sprawdzone”	metody	doboru
+akcji,	prawie	zawsze	opierają	swoje	ustalenia	na	mniejszej	liczbie	prób,	niż	Graham	byłby	skłonny
+zaakceptować	(zazwyczaj,	w	analizach	danych	historycznych,	sięgał	50	lat	wstecz).
+133
+	Obecnie,	przedsiębiorczy	inwestor	może	ściągnąć	taką	listę	z	Internetu	z	witryn:	
+www.morningstar.com
+	(na
+przykład	funkcja	Stock	Quickrank),	
+www.quicken.com/investments/
+	stocks/full	albo
+http://yahoo.marketguide.com
+.
+134
+	Przez	dziesięć	lat,	do	końca	grudnia	2002	roku,	fundusze	inwestujące	w	duże	przedsiębiorstwa	wzrostowe	–
+dzisiejszy	odpowiednik	„funduszy	wzrostowych”	Grahama	–	osiągnęły	średnią	roczną	na	poziomie	5,6%,
+pozostając	w	tyle	za	średnią	giełdową	o	3,7	punktów	procentowych	rocznie.	Jednak	w	tym	samym	okresie,
+wyniki	funduszy	inwestujących	w	wielkie	firmy	również	były	niższe	od	średniej	giełdowej	(o	cały	punkt
+procentowy	rocznie).	Czy	problem	polega	tylko	na	tym,	że	fundusze	nie	potrafią	trafnie	wytypować	akcji,
+które	w	przyszłości	osiągną	wyniki	powyżej	średniej	giełdowej?	Czy	może	wysokie	koszty	prowadzenia
+funduszu	(obojętnie,	czy	inwestującego	w	spółki	wzrostowe	czy	w	duże),	przekraczają	zyski,	które
+menedżerowie	są	w	stanie	osiągać	na	wybranych	akcjach?	Aktualne	wyniki	poszczególnych	typów	funduszy,
+można	znaleźć	na	
+www.morningstar.com
+	w	
+Category	Returns
+.	Znakomite	informacje	o	tym,	jak	nietrwałe
+bywają	wyniki	różnych	stylów	inwestowania,	znajdziesz	na
+www.callan.com/resource/periodic_table/pertable.pdf
+135
+	Graham	porusza	tę	kwestię,	aby	przypomnieć,	że	inwestor	przedsiębiorczy	to	nie	ten	bardziej	agresywny	ani
+ten	podejmujący	większe	ryzyko,	tylko	ten,	który	chce	poświęcić	więcej	czasu	i	energii	na	zawiadywanie
+swoim	portfelem.
+136
+	Zwróć	uwagę,	że	Graham	zaleca	wyliczanie	wskaźnika	cena/zysk	na	podstawie	średnich	zysków	z	wielu
+poprzednich	lat.	W	ten	sposób	zmniejsza	się	prawdopodobieństwo	zawyżenia	szacowanej	wartości	z	powodu
+chwilowego	skoku	dochodowości.	Wyobraźmy	sobie	spółkę,	która	w	minionych	12	miesiącach	zarabiała	3
+dolary	na	akcję,	ale	jej	średnia	z	poprzednich	sześciu	lat	to	tylko	50	centów.	Która	z	liczb	–	chwilowe	3
+dolary,	czy	trwałe	50	centów	–	trafniej	reprezentuje	panujący	trend?	25	razy	3	dolary	z	ostatniego	roku,	daje
+cenę	akcji	na	poziomie	75	dolarów.	Ale	25	razy	średnia	z	siedmiu	lat,	czyli	50	centów,	daje	cenę	akcji	równą
+21,23	dolarów	(6	dolarów	sumy	zysku	podzielone	przez	siedem,	daje	85,7	centów	średniego	zysku	na	akcje).
+Wybór	liczby	ma	ogromne	znaczenie.	Na	koniec	warto	zauważyć,	że	Graham	przekląłby	najczęściej
+stosowany	obecnie	sposób	wyliczania	wskaźnika	cena/zysk,	który	opiera	się	na	„zyskach	w	najbliższym
+roku”.	Jak	można	obliczyć	zyski,	których	firma	jeszcze	nie	wypracowała?	To	tak	jak	wycenianie	domu	na
+podstawie	plotki,	że	za	rogiem	Kopciuszek	będzie	budował	nowy	zamek.
+137
+	Tezę	Grahama	potwierdzają	niedawne	przykłady.	21	września	2000	roku,	producent	procesorów
+komputerowych	Intel	Corp.	ogłosił,	że	w	najbliższym	kwartale	jego	zyski	wzrosną	o	5%.	W	pierwszej	chwili
+wydaje	się,	że	to	znakomita	informacja.	Większość	wielkich	firm	byłaby	zachwycona,	gdyby	nawet	obroty
+wzrosły	o	5%	przez	trzy	miesiące.	Ale	reakcją	był	spadek	cen	akcji	Intela	o	22%.	Jednego	dnia,	ich	ogólna
+wartość	spadla	o	prawie	91	mld	dolarów.	Dlaczego?	Bo	analitycy	z	Wall	Street	liczyli,	że	zyski	Intela
+wzrosną	o	10%.	Podobnie	było	21	lutego	2001	roku,	z	EMC	Corp.,	firmą	zajmującą	się	przechowywaniem
+danych,	która	ogłosiła,	że	w	2001	roku,	spodziewa	się	wzrostu	zysków	o	25%,	ale	ostrożność	klientów„może	doprowadzić	do	przedłużającego	się	cyklu	wyprzedaży”.	Pod	wpływem	takiej	niepewności	akcje	EMC
+spadły	o	12,8%	w	ciągu	jednego	dnia.
+138
+	Współczesnym	odpowiednikiem	„osoby,	która	ma	ścisły	związek	ze	spółką”,	są	tak	zwane	osoby	sprawujące
+kontrolę,	czyli	menedżerowie	wysokiego	szczebla	albo	dyrektorzy,	którzy	wpływają	na	działalność
+przedsiębiorstwa	i	mają	w	nim	znaczny	pakiet	udziałów.	Tacy	dyrektorzy,	jak	Bill	Gates	z	Microsoftu	albo
+Warren	Buffett	z	Berkshire	Hathaway,	sprawują	bezpośrednią	kontrolę	nad	losami	swoich	firm,	a	inwestorzy
+z	zewnątrz	obserwują,	jak	ci	dyrektorzy	utrzymują	duże	pakiety,	aby	mieć	prawo	głosu.	Natomiast
+menedżerowie	niższego	szczebla	i	szeregowi	pracownicy,	nie	mogą	swoimi	decyzjami	wpływać	na	cenę	akcji.
+I	nie	powinni	lokować	większego	kapitału	w	akcje	swojego	pracodawcy.	To	samo	dotyczy	inwestorów
+z	zewnątrz,	choćby	zdawało	się	im,	że	znają	spółkę	nie	wiadomo	jak	dobrze.
+139
+	W	1973	roku,	filadelfijski	bank	inwestycyjny	Drexel	Firestone,	połączył	się	z	Burnham	&	Co.,	a	później
+przyjął	nazwę	Drexel	Burnham	Lambert.	W	latach	osiemdziesiątych,	zasłynął	z	finansowania	boomu	przejęć
+i	fuzji	za	pomocą	wysokooprocentowanych	obligacji	(tak	zwanych	obligacji-śmieci).
+140
+	W	1973	roku	filadelfijski	bank	inwestycyjny	Drexel	Firestone	połączył	się	z	Burnham	&	Co.,	a	później	przyjął
+nazwę	Drexel	Burnham	Lambert.	W	latach	osiemdziesiątych	zasłynął	z	finansowania	boomu	przejęć	i	fuzji	za
+pomocą	wysokooprocentowanych	obligacji	(tak	zwanych	obligacji-śmieci).
+141
+	Oto	niedawne	przykłady	robienia	z	igły	widły.	W	maju	1989	roku,	firma	Pfizer	Inc.	i	Amerykański	Urząd
+Żywności	i	Leków,	ogłosiły	wspólnie,	że	sześciu	mężczyzn	zmarło	na	zawał,	podczas	uprawiania	seksu	po
+zażyciu	Viagry	firmy	Pfizer.	Akcje	tej	spółki	natychmiast	poleciały	w	dół,	tracąc	3,4%	jednego	dnia	przy
+dużych	obrotach.	Ale	gdy	badania	pokazały,	że	nie	ma	powodów,	aby	bić	na	alarm,	akcje	Pfizera	zaraz
+zdrożały.	Przez	dwa	kolejne	lata,	ich	cena	wzrosła	o	prawie	jedną	trzecią.	Pod	koniec	1997	roku,	akcje
+Warner-Lambert	Co.	spadły	o	19%	w	ciągu	jednego	dnia,	bo	w	Anglii	tymczasowo	wstrzymano	sprzedaż
+nowych	leków	na	cukrzycę.	Sześć	miesięcy	później,	wartość	udziałów	była	niemal	dwa	razy	większa.	Pod
+koniec	2002	roku,	Carnival	Corp.,	operator	statków	wycieczkowych,	stracił	10%	wartości	po	tym,	jak	turyści
+zeszli	z	pokładu	z	ostrą	biegunką	i	wymiotami	–	tyle,	że	ze	statków	prowadzonych	przez	inną	firmę.
+142
+	Pod	terminem	„kapitał	obrotowy	netto”,	Graham	rozumie	aktywa	bieżące	spółki	(na	przykład	gotówkę,
+zbywalne	papiery	wartościowe,	inwentarz)	minus	suma	zobowiązań,	w	tym	akcje	preferowane	i	zadłużenie
+długoterminowe.
+143
+	Od	1975	roku	do	1983	roku,	małe	(„drugorzędne”)	spółki,	prześcigały	duże	o	średnio	17,6	punktów
+procentowych	rocznie.	Ogół	inwestorów	ochoczo	przyjmował	niewielkie	przedsiębiorstwa,	wyspecjalizowały
+się	w	nich	setki	funduszy,	a	w	następnym	dziesięcioleciu	małe	przedsiębiorstwa	miały	osiągać	
+tylko
+	o	pięć
+punktów	procentowych	rocznie	więcej	niż	duże.	Cykl	rozpoczął	się	na	nowo	w	1999	roku,	gdy	małe	spółki
+prześcignęły	duże	o	prawie	dziewięć	punktów	procentowych,	zachęcając	banki	inwestycyjne	do	organizowania
+pierwotnych	sprzedaży	publicznych,	setek	drobnych,	modnych	spółek	technologicznych.	Zamiast	słów
+„elektronika”,	„komputery”,	„franczyza”,	na	ustach	inwestorów	gościły	słowa	„dotcom”,	„światłowód”,
+„bezprzewodowy”	i	wszystkie	z	prefiksem	e-.
+144
+	Dzisiaj,	obligacje	zaniedbanych	linii	kolejowych	nie	są	żadną	okazją.	Mimo	to,	po	krachu	giełdowym	z	lat
+2000-2002,	jak	już	było	wspominane,	kłopotliwe	i	stresujące	„obligacje-śmieci”,	podobnie	jak	obligacje
+zamienne,	emitowane	przez	przedsiębiorstwa	zaawansowanych	technologii,	mogą	przedstawiać	pewną	realną
+wartość.	Kluczem	jest	jednak	dywersyfikacja	–	i	kwota	minimum	100	tys.	dolarów,	przeznaczona	wyłącznie	na
+te	stresujące	papiery.	Jeśli	zatem	nie	jesteś	multimilionerem,	tego	rodzaju	dywersyfikacja	nie	jest	dobrym
+rozwiązaniem.
+145
+	Klasycznego	przykładu,	dostarczyło	niedawno	przedsiębiorstwo	Philip	Morris,	którego	akcje	straciły	23%
+wartości	w	dwa	dni,	po	tym,	jak	sąd	Florydy	wyznaczył	ławników	do	rozpatrzenia	roszczeń	o	odszkodowanie
+w	wysokości	200	mld	dolarów,	wobec	firmy,	która	przyznała	w	końcu,	że	palenie	może	powodować	raka.
+Rok	później,	akcje	Philip	Morris	były	warte	dwa	razy	więcej,	ale	zaraz	znów	spadły	po	orzeczeniu	sądu
+z	Illinois,	obciążającego	firmę	na	miliardy	dolarów.	Procesy	o	odszkodowania	praktycznie	zniszczyły	kilka
+innych	przedsiębiorstw,	m.in.	Johns	Manville,	W.R.Grace	i	USG	Corp.	A	zatem	„nigdy	nie	kupuj	postępowania
+sądowego”,	pozostaje	aktualne	dla	wszystkich,	z	wyjątkiem	najbardziej	nieustraszonych	inwestorów.
+146
+	
+The	Truth	Abort	Timing,	Barron's
+,	5	listopada	2001,	str.	20.	Nagłówek	tego	artykułu,	stale	przypomina
+o	nieugiętej	zasadzie	inteligentnego	inwestora.	Gdy	w	tekście	o	inwestowaniu	widzisz	słowo	„prawda”,
+podwajaj	ostrożność.	Wiele	zdań	zawierających	ten	wyraz,	to	prawdopodobnie	kłamstwa	(po	pierwsze,	gdyby
+inwestor	kupił	akcje	w	1966	roku	i	trzymał	je	do	końca	2001	roku,	miałby	z	jednego	dolara	co	najmniej	40,
+a	nie	11,71,	bo	badania	cytowane	przez	
+Barron's,	
+nie	uwzględniały	reinwestowania	dywidend).147
+	
+New	York	Times
+,	7	stycznia	1973,	specjalna	rubryka	
+Economic	Survey
+,	str.	2,	19	i	44.
+148
+	Wiadomość	prasowa,	
+It's	good	time	to	be	in	the	market,	says	R.	M.	Leary	&	Company
+,	3	grudnia	2001.
+149
+	Więcej	na	temat	alternatywnych	metod,	czyli	market	timing	(wyczucia	czasu)	i	uśredniania	kosztów	zakupu	–
+w	Rozdziałach	5.	i	8.
+150
+	Carol	J.	Loomis,	
+The	15%	Delusion,	Fortune
+,	5	lutego	2001,	str.	102-108.
+151
+	Patrz:	Jason	Zweig,	
+A	Matter	of	Expectations
+,	
+Money
+,	styczeń	2001,	str.	45-50.
+152
+	Louis	K.C.	Chan,	Jason	Kacerski	i	Josef	Lakonishok,	
+The	Level	and	Persistence	of	Growth	Ratek
+,	Krajowe
+Biuro	Badań	Gospodarczych,	dokument	nr	8282,	maj	2001,	dostępny	na	
+www.nber.org/papers/w8282
+.
+153
+	Niemal	dokładnie	20	lat	wcześniej,	w	październiku	1982	roku,	ceny	akcji	J&J	straciły	17,5%	w	ciągu
+tygodnia	po	tym,	gdy	kilku	ludzi	zmarło	po	zażyciu	Tylenolu,	który	przez	nieznaną	osobę	został	skażony
+cyjankiem.	Firma	J&J	zareagowała	wprowadzeniem	pionierskich	zabezpieczeń	podczas	pakowania	i	jej	akcje
+stały	się	jedną	z	najlepszych	inwestycji	lat	osiemdziesiątych.
+154
+	Lisa	Gibbs,	
+Optic	Uptick,	Money
+,	kwiecień	2000,	str.	54-55.
+155
+	Brooke	Southall,	
+Cisco's	Endgame	Strategy,	InvestmentNews
+,	30	listopada	2000,	str.	1	i	23.
+156
+	Za	spostrzeżenia,	jak	zadziwiająco	trudno	utrzymać	się	na	liście	
+Forbes	400
+,	jestem	zobowiązany
+menedżerowi	inwestycji	Kennethowi	Fisherowi	(który	jest	też	felietonistą	
+Forbes
+).
+157
+	Pod	koniec	lat	90.	prognozy	„strategów	giełdowych”	stały	się	bardziej	wpływowe	niż	kiedykolwiek	dotąd.
+Niestety,	nie	oznaczało	to,	że	stały	się	również	bardziej	trafne.	10	marca	2000	roku,	w	dniu,	w	którym	indeks
+NASDAQ	pobił	swój	rekord	wszechczasów	i	osiągnął	poziom	5048,62,	szef	analiz	technicznych	z	Prudential
+Securities,	Ralph	Acampora,	powiedział	w	
+USA	Today
+,	że	według	jego	przewidywań	indeks	NASDAQ
+przekroczy	6000	za	12	do	18	miesięcy.	Pięć	tygodni	później,	NASDAQ	spadł	już	do	3321,29,	ale	Thomas
+Galvin,	strateg	giełdowy	z	Donaldson,	Lufkin	&	Jenrette,	oznajmił,	że	„NASDAQ	spadnie	jeszcze	tylko
+o	200	lub	300	punktów,	a	potem	poszybuje	w	górę	o	2000”.	Okazało	się,	że	nie	poszedł	w	górę	ani	o	punkt,
+a	spadł	o	znacznie	więcej	niż	2000,	aż	9	października	2002	roku	osiągnął	swoje	minimum	na	poziomie	1114,11.
+W	marcu	2001	roku,	Abby	Joseph	Cohen,	główna	strateg	inwestycyjna	z	Goldman,	Sachs	&	Co.
+prognozowała,	że	indeks	Standard	&	Poor's	500,	na	zamknięcie	roku	wyniesie	1650,	a	DJIA	na	koniec	2001
+roku,	osiągnie	13	000.	–	Nie	spodziewamy	się	recesji	–	mówiła.	–	Uważamy,	że	zyski	spółek	będą	rosnąć
+prawdopodobnie	na	podobnym	poziomie,	jaki	pod	koniec	roku	osiągnęły	tendencje	wzrostowe.	Nawet	gdy
+wypowiadała	te	słowa,	amerykańska	gospodarka	grzęzła	w	recesji,	a	S&P	500	na	koniec	2001	roku,	wyniósł
+1148,08,	natomiast	Dow	10	021,50,	czyli	odpowiednio	30%	i	23%	poniżej	jej	przewidywań.
+158
+	Patrz	str.	15.
+159
+	Gdyby	nie	istniały	bessy,	podczas	których	ceny	spadają,	inwestorzy	czekający	na	możliwość	taniego	zakupu,
+czuliby	się	kompletnie	wykluczeni	i	często	kończyłoby	się	na	porzuceniu	ostrożności	i	rzucaniu	się	na	oślep.
+Dlatego	Graham	podkreśla,	jak	ważna	jest	
+dyscyplina	emocjonalna
+.	Od	października	1990	roku	do	stycznia
+2000	roku,	DJIA	stanowczo	wspinał	się	do	góry,	ani	razu	nie	stracił	20%	i	tylko	trzy	razy	spadł	o	10	lub
+więcej.	Ogólny	wzrost	(bez	uwzględnienia	dywidend),	wyniósł	395,7%.	Według	Crandall,	Pierce	&	Co.	to
+drugi	pod	względem	długości	jednolity	okres	hossy	–	tylko	boom	z	lat	1949-1961,	trwał	dłużej.	A	im	dłużej
+trwa	hossa,	tym	dotkliwsza	amnezja	ogarnia	inwestorów.	Po	mniej	więcej	pięciu	latach,	ludzie	całkiem
+zapominają	o	istnieniu	bessy.	Ale	wszyscy	ci,	którzy	zapominają,	są	skazani	na	odzyskanie	pamięci.	A	na
+giełdzie	odzyskiwanie	pamięci	nigdy	nie	jest	doświadczeniem	przyjemnym.
+160
+	Graham	omawia	tę	politykę	w	Rozdziale	4.	(str.	91-93).	Obecnie	nosi	ona	nazwę	„taktycznej	alokacji
+aktywów”	i	powszechnie	stosują	ją	tacy	inwestorzy	instytucjonalni,	jak	fundusze	emerytalne	albo	fundacje
+uniwersyteckie.
+161
+	W	1954	roku,	wielu	„planistów”	wyprzedałoby	wszystkie	swoje	akcje,	gdy	na	amerykańskich	giełdach	ceny
+wzrosły	o	52,6%,	co	wówczas	było	drugim	wzrostem	pod	względem	wielkości.	Po	kolejnych	pięciu	latach,
+takie	„cwaniaczki”	stałyby	tylko	z	boku	i	przyglądały	się,	jak	ceny	rosną	o	100%.
+162
+	Łatwe	sposoby	zarabiania	pieniędzy	na	giełdzie,	rozmywają	się	z	dwóch	powodów.	Trendy	mają	naturalną
+tendencję	od	odwracania	się	co	jakiś	czas	lub	też	„do	wstecznictwa”,	a	nagłe	zastosowanie	jednej	metody
+przez	większą	liczbę	inwestorów,	sprawia,	że	nie	mają	oni	już	takich	zysków	jak	ci,	którzy	byli	pierwsi	(zwróć
+uwagę,	że	mówiąc	o	„nieprzyjemnym	doświadczeniu”	Graham	–	jak	zwykle	–	przyznaje	się	do	porażki).	Patrz:
+Jason	Zweig,	
+Murphy	Was	an	Inwestor,	Money
+,	lipiec	2002,	str.	61-62	oraz	Jason	Zweig,	
+Nev	Year's	Play,
+Money
+,	grudzień	2000,	str.	89-90.
+163
+	Współczesnymi	odpowiednikami	firm	nazwanych	przez	Grahama	„drugorzędnymi”,	są	tysiące	spółek,	które
+nie	wchodzą	w	skład	indeksu	Standard	&	Poor's	500.	Uaktualniana	na	bieżąco	lista	Standard	&	Poor's	500jest	dostępna	na	
+www.standardandpoors.com
+.
+164
+	Dla	współczesnego	inwestora,	idealna	strategia	realizacji	tego	planu	polega	na	opisanym	na	str.	106-107
+rebilansowaniu.
+165
+	Obecnie,	większość	firm	drukuje	„wytłaczane	certyfikaty”	tylko	na	specjalne	żądanie.	Akcje	zwykle	istnieją
+wyłącznie	w	formie	elektronicznej	(tak	jak	konta	bankowe	zawierają	tylko	elektroniczne	środki,	a	nie
+rzeczywiste	pieniądze)	i	dlatego	łatwiej	nimi	operować	niż	w	czasach	Grahama.
+166
+	Wartość	aktywów	netto,	wartość	środków	trwałych,	wartość	księgowa	–	to	synonimy	wartości	firmy	netto,
+czyli	wartości	sumy	jej	materialnych	i	finansowych	aktywów	minus	suma	zobowiązań.	Można	ją	obliczać	na
+podstawie	zestawień	bilansowych	zamieszczanych	w	rocznych	lub	kwartalnych	sprawozdaniach.	Od	sumy
+akcji	wszystkich	udziałowców,	trzeba	odjąć	wszystkie	aktywa	„miękkie”,	czyli	dobrą	reputację,	markę	i	inne
+wartości	niematerialne.	To	podzielone	przez	pełną	liczbę	akcji,	daje	nam	wartość	księgową	na	jedną	akcję.
+167
+	Graham	użył	słowa	„paradoks”	prawdopodobnie	jako	aluzji	do	klasycznego	artykułu	Davida	Duranda,
+Growth	Stocks	and	the	Petersburg	Paradox,	Journal	of	Finance
+,	tom.	XII,	nr	3,	wrzesień	1957,	str.	348-363,
+w	którym	inwestowanie	w	akcje	wysokiego	wzrostu	zostało	porównane	do	stawiania	zakładów	na	serię
+rzutów	monetą,	przy	kumulacji	wygranej	po	każdym	rzucie.	Durand	zwrócił	uwagę,	że	jeśli	cena	akcji
+wzrostowej	miałaby	w	nieskończoność	rosnąć	w	szybkim	tempie,	to	inwestor	powinien	(teoretycznie),	chcieć
+płacić	za	nie	nieskończenie	wiele.	Dlaczego	więc,	jeszcze	za	żadne	akcje,	nie	oferowano	nieskończonej	liczby
+dolarów?	Ponieważ	im	wyższy	zakładany	wzrost	w	przyszłości,	i	im	dłuższy	czas	podlegający
+przewidywaniom,	tym	większy	margines	błędów.	A	przy	dużym	wzroście,	nawet	drobna	pomyłka
+w	obliczeniach,	wiele	kosztuje.	Szerzej	Graham	omawia	ten	problem	w	Dodatku	4.	(str.	515-516).
+168
+	W	najnowszej	historii	A&P	niewiele	się	zmieniło.	Pod	koniec	1999	roku,	cena	akcji	wynosiła	27,875	dolara,
+pod	koniec	2000	roku	–	7,00	dolarów,	rok	później	–	23,78	dolara,	a	na	koniec	2002	roku	–	8,06	dolara.
+Chociaż	wyszły	na	jaw	pewne	nieprawidłowości	w	księgowości	A&P,	to	w	tak	stosunkowo	stabilnej	branży
+jak	spożywcza,	spadek	wartości	o	trzy	czwarte	w	ciągu	roku,	potem	trzykrotny	wzrost,	a	później	znów	spadek
+o	dwie	trzecie,	przeczą	wszelkiej	logice.
+169
+	„Tylko	wtedy,	gdy	mu	pasuje	do	książki”	oznacza	„tylko	w	takim	zakresie,	w	jakim	cena	jest	na	tyle
+korzystna,	aby	uzasadniała	sprzedaż	akcji”.	W	żargonie	dawnych	maklerów,	„książka”	oznaczała	księgowość
+inwestora.
+170
+	Ten	akapit	można	uznać	za	najważniejszy	w	całej	książce	Grahama.	W	kilku	wersach	podsumowuje	całe	swoje
+życiowe	doświadczenie.	Czytania	tych	słów	nigdy	za	wiele.	Są	jak	magiczny	kryptonit	na	bessę.	Jeśli	zawsze
+masz	je	pod	ręką	i	pozwalasz,	aby	wiodły	cię	przez	inwestycyjne	życie,	z	każdej	sytuacji	giełdowej	wyjdziesz
+cało.
+171
+	Na	temat	„rządów	korporacji”,	Graham	ma	o	wiele	więcej	do	powiedzenia.	Patrz	Komentarz	do	Rozdziału	19.
+172
+	Według	wspominanej	przez	Grahama	„zasady	przeciwieństw”,	w	2002	roku	rentowność	długoterminowych
+obligacji	skarbowych,	osiągnęła	najniższy	poziom	od	1963	roku.	Ponieważ	rentowność	obligacji	zmienia	się
+w	odwrotnym	kierunku	niż	ich	ceny,	niska	rentowność	oznacza	wzrost	cen	–	co	sprawia,	że	inwestorzy	muszą
+kupować	obligacje	drogo	i	będą	mieli	gwarantowany	niski	zysk.	Taka	sytuacja	znów	potwierdza	lekcję
+Grahama,	że	inteligentny	inwestor	nie	może	podejmować	decyzji	na	podstawie	wahań	giełdowych.
+173
+	Współczesny	czytelnik,	znajdzie	bardziej	aktualne	analizy	i	wyjaśnienia	zachowań	rentowności,	dostępnych
+dzisiaj	rozmaitych	obligacji	i	funduszów	obligacji,	w	Komentarzu	do	Rozdziału	4.
+174
+	Tak	jak	zostało	wspomniane	w	Rozdziałach	2.	i	4.,	nową	i	udoskonaloną	wersję	przedstawionego	tutaj
+pomysłu	Grahama,	stanowią	TIPS,	czyli	papiery	skarbowe	zabezpieczające	przed	inflacją.
+175
+	Patrz	tekst	Grahama	na	str.	191-192.
+176
+	Jak	zauważył	Graham	w	serii	klasycznych	artykułów	z	1932	roku,	wielka	recesja	sprawiła,	że	ceny	akcji
+dziesiątek	firm,	spadły	poniżej	wartości	gotówkowej	i	aktów	płynnych,	co	spowodowało,	że	„martwe	były
+warte	więcej	niż	żywe”.
+177
+	Oto	tytuł	publikacji	Spectrem	Group:	
+Sponsorzy	planów	przegrywają	bitwę	o	zapobieżenie	spadku	udziałów
+i	składek
+,	25	października	2002.
+178
+	Kilka	miesięcy	później,	10	marca	2000	roku,	tego	samego	dnia,	gdy	NASDAQ	pobiła	rekord	wszechczasów,
+znawca	inwestycji	online,	James	J.	Cramer,	pisał,	że	w	ostatnich	dniach	„chodziła	mu	po	głowie”,	pokusa
+krótkiej	sprzedaży	Berkshire	Hathaway,	co	miało	sugerować,	że	akcje	Buffetta	będą	dalej	tanieć.	Za	pomocą
+swoich	dosadnych	porównań	Cramer	ogłosił	nawet,	że	akcje	Berkshire	„dojrzały,	aby	spaść”.	Tego	samego
+dnia,	strateg	giełdowy	Ralph	Acampora	z	Prudential	Securities,	zadawał	pytanie:	–	Norfolk	Southern	czy
+Cisco	Systems?	Gdzie	chciałbyś	znaleźć	się	w	przyszłości?	Wydawało	się,	że	Cisco	Systems,	przyszłośćInternetu,	bije	na	głowę	Norfolk	Southern	ze	starzejącej	się	branży	kolejowej	(w	nadchodzącym	roku,
+Norfolk	Southern	zdrożały	o	35%,	a	Cisco	straciły	70%	swojej	wartości).
+179
+	Na	pytanie,	co	najbardziej	przeszkadza	inwestorom	w	odnoszeniu	sukcesów,	Graham	odpowiadał
+jednoznacznie:	–	Najważniejszą	przyczyną	porażek	jest	to,	że	zbyt	wiele	uwagi	przywiązują	do	bieżących
+zachowań	giełdy.	Patrz:	Benjamin	Graham,	
+Thoughts	on	Security	Analysis
+	[zapis	wykładu	w	Northeast
+Missouri	State	University	Analysis,	marzec	1972],	magazyn	
+Financial	History
+,	nr	42,	marzec	1991,	str.	8.
+180
+	Nie	zastanawiaj	się	za	bardzo,	co	oznaczają,	ani	co	mogłyby	oznaczać	te	terminy.	Chociaż	oficjalnie
+traktowane	są	niezmiernie	poważnie,	prywatnie,	w	branży	inwestycyjnej,	podchodzi	się	do	nich
+z	lekceważeniem	zarezerwowanym	dla	dowcipów,	które	nie	śmieszą.
+181
+	Patrz:	znakomity	felieton	Waltera	Updegrave'a,	
+Money
+,	luty	2002,	str.	63-56
+182
+	Patrz:	Jason	Zweig,	
+Did	You	Beat	the	Market?,	Money
+,	luty	2000,	str.	55-58
+183
+	Neurologia	inwestowania	była	omawiana	przez	Jasona	Zweiga	w	
+Are	You	Wired	for	Wealth?,	Money
+,
+październik	2002,	str.	74-83.	Artykuł	dostępny	także	na	
+http://money.cnn.com/2002/
+0
+9
+/
+2
+5/pf/investing/agenda_brain_short/index.htm.	Patrz	też:	Jason	Zweig,	
+The	Trouble	with	Humans,	Money
+,
+listopad	2000,	str.	57-70.
+184
+	Warto	też	zadać	sobie	pytanie,	czy	mieszkałoby	ci	się	lepiej	w	domu,	którego	dokładną	cenę	codziennie
+można	by	znaleźć	w	gazecie	albo	w	telewizji.
+185
+	W	serii	bezprecedensowych	eksperymentów	z	końca	lat	80.,	psycholog	z	Columbia	University	i	Harvard
+University,	Paul	Andreassen,	wykazał,	że	inwestorzy,	którzy	często	otrzymują	uaktualnione	notowania,
+zarabiają	dwa	razy	mniej	niż	ci,	którzy	nie	otrzymują	ich	wcale.
+186
+	Federalne	prawo	podatkowe	stale	ulega	zmianom.	Przedstawiony	tutaj	przykład	Coca-Coli,	odnosi	się	do
+przepisów	z	początku	2003	roku.
+187
+	Przykład	ten	zakłada,	że	w	2002	roku,	inwestor	nie	zrealizował	zysków	kapitałowych	i	nie	reinwestował
+dywidendy	z	Coca-Coli.	Operacje	unikania	podatku	nie	są	proste,	bo	bardzo	łatwo	popełnić	w	nich	błąd.
+Zanim	zabierzesz	się	za	to,	przeczytaj	najnowsze	przepisy	skarbowe	(
+www.irs.go/pub/irspdf/p550.pdf
+).	Dobry
+przewodnik	po	zarządzaniu	podatkami	od	inwestycji,	
+Wall	Street	Secrets	for	Tax-Efficient	Investing
+	napisali
+Robert	N.	Gordon	i	Jan	M.	Rosen	(Bloomberg	Press,	Princeton,	New	Jersey	2001).	A	zanim	ostatecznie
+zdecydujesz	się	na	przeprowadzenie	podobnej	operacji,	skonsultuj	się	z	doradcą	podatkowym.
+188
+	Publiczna	sprzedaż	jednostek	funduszy	otwartych,	zamkniętych	i	walutowych,	stanowi	naruszenie	prawa
+federalnego,	jeśli	fundusz	nie	został	zarejestrowany	(lub	nie	złożył	obowiązkowych	oświadczeń	finansowych)
+w	SEC.
+189
+	Branża	funduszy	przestała	być	„bardzo	wielka”	i	stała	się	ogromna.	Pod	koniec	2002	roku,	istniało	8279
+funduszy	wzajemnych,	dysponujących	środkami	w	wysokości	6,56	bilionów	dolarów,	514	funduszy
+zamkniętych	ze	środkami	liczącymi	149,6	mld	oraz	116	funduszy	walutowych	(ETF)	z	109,7	mld.	Liczby	te
+nie	uwzględniają	inwestycji	przypominających	fundusze,	na	przykład	różnego	rodzaju	annuit	lub	udziałów
+trustów	inwestycyjnych.
+190
+	Lista	najważniejszych	typów	funduszy	wzajemnych,	znajduje	się	na	
+www.ici.org/pdf/g2un-
+derstanding.pdf
+i	
+http://news.moningstar.com/fundReturns/CategoryReturns.html
+.	Fundusze	akcji	spoza	obiegu	giełdowego
+przestały	istnieć,	a	fundusze	asekuracyjne	generalnie	zostały	zabronione,	na	mocy	wydanego	przez	SEC
+zakazu	sprzedaży	udziałów	inwestorom,	których	dochód	wynosi	poniżej	200	tys.	dolarów,	lub	których
+majątek	nie	przekracza	miliona	dolarów.
+191
+	Obecnie,	maksymalny	narzut	podczas	sprzedaży	wynosi	około	5,75%.	Jeśli	inwestujesz	10	tys.	dolarów
+w	fundusz	ze	stałą	prowizją	w	wysokości	5,75%,	to	575	dolarów	trafia	do	osoby	(albo	firmy	maklerskiej),
+która	sprzedaje,	a	zainwestowana	suma	netto	wynosi	9425	dolarów.	Właściwie	575	dolarów,	stanowi	6%
+zainwestowanej	sumy	i	dlatego	standardowe	metody	naliczania	prowizji	Graham	nazywa	„sztuczką	handlową”.
+Od	lat	80.,	fundusze	nie	naliczające	prowizji,	stały	się	bardzo	popularne	i	przestały	być	mniejsze	od	tych,	które
+naliczają	prowizję.
+192
+	Obecnie,	prawie	wszystkie	fundusze	wzajemne	są	opodatkowane	tak,	jak	„oficjalne	przedsiębiorstwa
+inwestycyjne”	(RIC	–	od	ang.	regulated	investment	company),	które,	jeśli	wszystkie	zyski	wypłacają
+udziałowcom,	nie	podlegają	podatkowi	od	firm.	Opcja,	którą	Graham	pominął,	aby	„uniknąć	zamieszania”,
+polega	na	tym,	że	fundusz	może	poprosić	SEC	o	specjalne	pozwolenie	na	rozprowadzenie	papierów
+z	własnego	portfela,	bezpośrednio	między	udziałowców	funduszu.	Tak	właśnie	postąpiła	Graham-Newman
+Corp.	w	1948	roku,	gdy	rozprowadziła	między	swoimi	inwestorami	udziały	w	GEICO.
+193
+	Fundusze	podwójnych	celów	były	popularne	w	latach	80.,	ale	praktycznie	zniknęły	z	rynku.	To	wstyd,	bo

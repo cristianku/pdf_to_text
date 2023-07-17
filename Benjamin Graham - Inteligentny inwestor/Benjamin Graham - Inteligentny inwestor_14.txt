@@ -1,0 +1,340 @@
+1881-
+1890
+5,00
+0,32
+15,6
+0,24
+4,7
+75
+1891-
+1900
+4,65
+0,30
+15,5
+0,19
+4,0
+64
+1901-
+1910
+8,32
+0,63
+13,1
+0,35
+4,2
+58
+1911-
+1920
+8,62
+0,86
+10,0
+0,50
+5,8
+58
+1921-
+1930
+13,89
+1,05
+13,3
+0,71
+5,1
+68
+1931-
+1940
+11,55
+0,68
+17,0
+0,78
+5,1
+85
+1941-
+1950
+13,90
+1,46
+9,5
+0,87
+6,3
+60
+1951-
+1960
+39,20
+3,00
+13,1
+1,63
+4,2
+54
+1961-
+1970
+82,50
+4,83
+17,1
+2,68
+3,2
+55
+1954-
+1956
+38,19
+2,56
+15,1
+1,64
+4,3
+65
+1961-
+1963
+66,10
+3,66
+18,1
+2,14
+3,2
+58
+1968-
+1970
+93,25
+5,60
+16,7
+3,13
+3,3
+56
+a	Przedstawione	dane	opierają	się	głównie	na	liczbach	zamieszczonych	w	artykule	N.	Molodovsky'ego,	
+Stock
+Values	and	Stock	Prices,	Financial	Analysts	Journal
+,	maj	1960.	A	te	z	kolei	pochodzą	z	księgi	Komisji	Cowlesa
+Common	Stock	Indexes
+	za	okres	sprzed	1926	roku	oraz	z	danych	ze	Standard	&	Poor's	500	sprzed	1926.
+b	Roczne	stopy	wzrostu	to	kompilacje	Molodovsky'ego	obejmujące	21-letnie	okresy	począwszy	od	1890,	1900
+itd.
+c	Stopa	wzrostu	1968-1970	a	stopa	wzrostu	1958-1960.
+d	Stopy	wzrostu	1954-1956	a	1947-1949,	1961-1963	a	1954-1956	oraz	1968-1970	a	1958-1960.
+Skomentujemy	je	następująco.	Dane	za	pełne	dziesięciolecia,	częściowo
+wygładzają	wahania	z	poszczególnych	lat,	i	prezentują	ogólny	obraz	stałego
+wzrostu.	Nie	licząc	pierwszego	dziesięciolecia,	tylko	dwa	inne	przedstawiają	spadek
+zysków	i	przeciętnych	cen	(1891-1900	i	1931-1940).	Po	1900	roku	nie	było
+dziesięciolecia,	w	którym	nastąpił	spadek	przeciętnych	dywidend.	Jednak	we
+wszystkich	trzech	kategoriach,	widzimy	dość	równomierne	tempo.	Generalnie,
+wyniki	po	drugiej	wojnie	światowej	były	lepsze	niż	wcześniejsze,	ale	wzrost
+w	latach	60.	był	mniej	wyrazisty	niż	w	latach	50.	Na	podstawie	tych	danych,
+dzisiejszy	inwestor	nie	może	określić,	jakiej	procentowej	poprawy	dywidend	i	cen,
+w	ciągu	kolejnych	10	lat,	powinien	się	spodziewać.	Ale	dane	te	zachęcają	do
+konsekwentnej	polityki	inwestowania	w	akcje.
+Należy	jednak	zwrócić	uwagę	na	pewien	fakt,	którego	nie	da	się	wyczytać
+z	tabeli.	Rok	1970	charakteryzował	się	zdecydowanym	pogorszeniem	ogólnejzyskowności	spółek.	Stopa	rentowności	zainwestowanego	kapitału,	spadła	do
+poziomu	najniższego	po	drugiej	wojnie	światowej.	Uderza	również	to,	że	sporo
+firm	wykazało	w	tym	roku	stratę	netto,	wiele	odnotowało	„kłopoty	finansowe”	i	po
+raz	pierwszy	od	trzech	dziesięcioleci,	doszło	do	kilku	poważnych	bankructw.	Te
+i	inne	fakty	potwierdzają	opinię
+65
+,	że	w	latach	1969-1970	nastąpił	koniec	wielkiej	ery
+hossy.
+W	Tabeli	3.2.	widać	zmianę	wskaźników	cena/zysk,	jaka	nastąpiła	od	czasów
+drugiej	wojny	światowej
+66
+.	W	czerwcu	1949	roku,	indeks	łączny	S&P	wskazywał,	że
+akcje	sprzedają	się	po	cenie	zaledwie	6,3	razy	przekraczającej	zyski	danej	spółki,	za
+minionych	12	miesięcy.	W	marcu	1961	roku,	wskaźnik	ten	wynosił	22,9.	Podobnie
+zysk	z	dywidendy	dla	spółek	uwzględnianych	przez	indeks	S&P	spadł	z	ponad	7%
+w	roku	1949	do	tylko	3%	w	roku	1961.	Różnice	te	uwydatniają	się	tym	bardziej,	że
+oprocentowanie	najlepszych	obligacji	wzrosło	w	tym	czasie	z	2,6%	do	4,5%.
+Świadczy	to	dobitnie,	o	największej	w	dziejach,	zmianie	podejścia	społeczeństwa	do
+giełdy.
+Ludzie	doświadczeni	i	ostrożni	zdają	sobie	jednak	sprawę,	że	przejście	od
+jednego	ekstremum	do	drugiego,	jest	poważnym	sygnałem	ostrzegającym
+o	kłopotach.	Nie	potrafią	bez	lęku	myśleć	o	hossie	z	lat	1926-1929	i	jej	tragicznych
+następstwach.	Jednak	wydarzenia,	które	potem	nastąpiły,	nie	potwierdziły	tych
+obaw.	Owszem,	ceny	spółek	DJIA	na	zamknięciu	w	roku	1972	były	takie	same	jak
+sześć	i	pół	roku	wcześniej,	a	ogłaszany	wszem	i	wobec	„wzlot	lat	60.”	okazał	się
+przede	wszystkim	wędrówką	w	górę	i	w	dół,	po	pagórkowatym	terenie.	Jednak	ani
+z	gospodarką,	ani	z	cenami	akcji	nie	stało	się	nic	porównywalnego	z	bessą
+i	depresją	lat	1929-1932.
+Poziom	rynku	na	początku	1972	roku
+Spróbujmy,	na	podstawie	stuletniego	zarysu	zachowań	cen	akcji,	zysków
+i	dywidend,	wyciągnąć	wnioski	na	temat	obecnego	poziomu	indeksów	rynkowych	–
+900	dla	DJIA	i	100	dla	złożonego	S&P	w	styczniu	1972	roku.
+W	poprzednich	wydaniach	omawialiśmy	rynek	na	poziomie,	jaki	osiągał
+w	chwili	opisywania	go,	usiłując	odpowiedzieć	na	pytanie,	czy	nie	jest	zbyt	wysoki
+dla	inwestora	konserwatywnego.	Przyjrzenie	się	konkluzjom,	do	których	wtedy
+doszliśmy,	może	być	pouczające.	I	nie	chodzi	tu	tylko	o	to,	że	chcemy	posypywać
+sobie	głowę	popiołem.	Zamierzamy	raczej	dostarczyć	czytelnikowi	czegoś
+w	rodzaju	tkanki	łącznej,	która	wiąże	różne	etapy	rozwoju	giełdy	w	minionych	20
+latach,	i	przedstawić	rzeczywisty	obraz	trudności,	jakie	napotyka	każdy,	kto	stara	się
+sformułować	kompetentną	i	krytyczną	ocenę	aktualnego	poziomu	rynku.	Zacznijmy
+od	powtórzenia	streszczenia	analiz,	dotyczących	lat	1948,	1953	i	1959,	któreprzedstawiliśmy	w	wydaniu	z	roku	1965:
+W	roku	1948	przyłożyliśmy	konserwatywne	standardy	do	poziomu	wskaźnika	Dow	Jones	równego	180,
+i	łatwo	wyciągnęliśmy	wniosek,	że	„nie	jest	on	zbyt	wysoki	w	stosunku	do	wartości	księgowych”.	Kiedy
+podejmowaliśmy	ten	sam	problem	w	roku	1953,	roczny	poziom	rynku	sięgał	średnio	275,	co	oznaczało
+wzrost	o	ponad	50%	w	ciągu	pięciu	lat.	Postawiliśmy	sobie	to	samo	pytanie:	„Czy	naszym	zdaniem
+wskaźnik	spółek	przemysłowych	Dow	Jones	na	poziomie	275	jest	zbyt	wysoki,	aby	bezpiecznie
+inwestować?”.	W	świetle	późniejszego,	spektakularnego	wzrostu,	dość	dziwne	może	się	wydać	wyznanie,
+że	sformułowanie	stanowczych	wniosków	na	temat	atrakcyjności	cen	z	roku	1953,	nie	było	dla	nas	łatwe.
+Dość	jasno	stwierdziliśmy,	że:	„Z	punktu	widzenia	wskaźników	wartości	–	stanowiących	naszą	główną
+wskazówkę	inwestycyjną	–	konkluzja	w	sprawie	cen	akcji	z	roku	1953	musi	być	dla	nich	korzystna”.
+Niepokoił	nas	natomiast	fakt,	że	w	roku	1953	średnie	wartości	miały	za	sobą	dłuższy	okres	wzrostu	niż
+w	większości	minionych	okresów	hossy,	a	ich	absolutny	poziom	był	najwyższy	w	historii	giełdy.
+Zestawiając	te	dane	z	naszą	pozytywną	oceną,	radziliśmy	stosowanie	polityki	kompromisu	i	ostrożności.
+Rada	ta	okazała	się	niezbyt	błyskotliwa.	Dobry	prognostyk	przewidziałby,	że	w	ciągu	następnych	pięciu
+lat	poziom	rynku	wzrośnie	o	dalsze	100%.	Na	naszą	obronę	możemy	powiedzieć	tyle,	że	tylko	nieliczni
+analitycy	zajmujący	się	profesjonalnym,	w	odróżnieniu	od	nas,	prognozowaniem	zmian	cen,	przewidzieli
+trochę	lepszą	przyszłość.
+Na	początku	1959	roku	wskaźnik	DJIA	osiągnął	nowe,	historyczne	maksimum	–	584.	Nasze	obszerne
+analizy,	prowadzone	ze	wszystkich	możliwych	punktów	widzenia,	można	streścić	w	następujących
+zdaniach	(od	str.	59	w	wydaniu	z	1959	roku):	„Reasumując,	czujemy	się	zmuszeni	do	wysunięcia	wniosku,
+że	aktualny	poziom	cen	akcji	jest	niebezpieczny.	Zagrożenie	wynika	już	z	samego,	o	wiele	za	wysokiego,
+poziomu	cen.	Ale	nawet	gdyby	było	inaczej,	to	rynek	osiągnął	tak	ogromną	bezwładność,	że	nieuchronnie
+wzniesie	ceny	na	nieuzasadnione	wyżyny.	Prawdę	mówiąc,	nie	potrafimy	wyobrazić	sobie	w	przyszłości
+rynku,	na	którym	nigdy	nie	dochodziłoby	do	poważnych	strat,	a	każdy	nowicjusz	miałby	zagwarantowane
+wielkie	zyski	z	zakupionych	akcji”.
+Rozwój	wypadków	uzasadnił	naszą	przestrogę	z	1959	roku	nieco	dobitniej,	niż	podobne	ostrzeżenia
+z	1954	roku.	Daleko	tu	jednak	do	pełnego	potwierdzenia.	Wskaźnik	DJIA	rósł	aż	do	685	w	roku	1961,
+a	następnie,	w	tym	samym	roku,	spadł	nieco	poniżej	obecnego	poziomu	584	(do	566).	Później,	do	końca
+1961	znów	rósł	do	735	i	wreszcie,	w	maju	1962	roku	–	niemal	w	panice	–	spadł	do	536,	co	oznaczało
+stratę	27%	w	krótkim	okresie	sześciu	miesięcy.	W	tym	samym	czasie,	znacznie	poważniejszego	uszczerbku
+doznały	najpopularniejsze	„akcje	wzrostowe”,	czego	przykładem	jest	uderzający	spadek	bezdyskusyjnego
+lidera,	International	Business	Machines	(IBM),	od	maksimum	607	w	grudniu	1961	roku,	do	minimum	300
+w	czerwcu	1962	roku.
+W	tym	okresie	nastąpił	spadek	akcji	mnóstwa	nowo	wprowadzonych	na	giełdę	małych	przedsiębiorstw,
+tzw.	„gorących	walorów”,	które	oferowano	po	śmiesznie	wysokich	cenach.	Następnie,	na	skutek
+nadmiernej	spekulacji,	wypchnięto	je	na	jeszcze	wyższe,	zupełnie	szalone	poziomy.	Wiele	z	tych	akcji,
+w	ciągu	zaledwie	kilku	miesięcy,	straciło	w	notowaniach	90%	i	więcej.
+Załamanie	z	pierwszej	połowy	1962	roku	było	niepokojące,	jeśli	nie	katastrofalne,	dla	wielu
+świadomych	spekulantów	i	być	może	dla	wielu	mniej	rozsądnych	spośród	tych,	którzy	określają	się
+mianem	inwestorów.	Ale	w	drugiej	połowie	tego	roku,	nastąpił	równie	niespodziewany	przez	finansistów
+zwrot.	Średnie	giełdowe	znów	zaczęły	rosnąć,	co	dało	następującą	sekwencję:
+DJIA
+Standard	&	Poor's	500
+Grudzień	1961
+735
+72,64
+Czerwiec	1962
+536
+52,32
+Listopad	1964
+892
+86,28
+Ożywienie	i	nowa	wspinaczka	cen	akcji,	były	naprawdę	godne	uwagi	i	doprowadziły	do	zmiany
+nastrojów	na	Wall	Street.	Przy	niskim	poziomie	z	czerwca	1962	roku,	dominowały	prognozy	bessy,	ale	po
+częściowym	ożywieniu	na	koniec	tego	roku,	przewidywania	były	różne,	z	przewagą	sceptycznych.	Jednak
+na	początku	1964	roku	znów	doszedł	do	głosu	naturalny	optymizm	firm	maklerskich.	Niemal	wszyscy
+prognozowali	hossę	i	nastrój	ten	utrzymał	się	przez	cały	okres	wzrostu	roku	1964.Następnie,	podjęliśmy	się	oceny	poziomu	rynku	w	listopadzie	1964	roku	(indeks
+DJIA	wynosił	wtedy	892).	Po	kompetentnym	omówieniu	go	z	różnych	punktów
+widzenia,	sformułowaliśmy	trzy	główne	konkluzje.	Pierwsza	głosiła,	że	„do	wycen
+nie	można	zastosować	starych	standardów,	natomiast	nowe	jeszcze	nie	zostały
+poddane	próbie	czasu”.	Druga,	że	„inwestor	musi	opierać	swą	politykę	na
+założeniu,	iż	istnieje	poważna	niepewność.	Skrajna	ewentualność	to	dalszy	trwały
+wzrost	poziomu	rynku	–	o,	powiedzmy,	50%,	czyli	dla	DJIA	1350,	inna	to
+niespodziewane	załamanie	podobnej	wielkości,	zaniżające	DJIA	do	wyniku	na
+przykład	450”.	Trzecia	konkluzja	brzmiała	bardziej	definitywnie.	Pisaliśmy,	że
+„mówiąc	wprost	–	jeśli	poziom	cen	z	roku	1964	nie	jest	zbyt	wysoki,	to	czy	można
+powiedzieć,	że	jakikolwiek	poziom	cen	byłby	zbyt	wysoki?”.	A	tak	wglądało
+zakończenie	rozdziału:
+W	JAKIM	PODĄŻAĆ	KIERUNKU?
+Inwestorzy	nie	powinni	zakładać,	że	poziom	rynku	z	roku	1964	jest	niebezpieczny	tylko	dlatego,	że
+tak	przeczytali	w	tej	książce.	Powinni	zestawić	nasze	wywody	z	przeciwnymi	argumentami,	które	można
+usłyszeć	od	bardziej	kompetentnych	i	doświadczonych	ludzi	z	Wall	Street.	Ostatecznie,	każdy	sam
+podejmuje	decyzję	i	bierze	za	nią	odpowiedzialność.	Sugerujemy	jednak,	aby	inwestor,	który	ma
+wątpliwości	w	jakim	iść	kierunku,	wybrał	ścieżkę	ostrożności.	Przedstawione	w	tej	książce	zasady
+inwestowania,	nawołują	do	przyjęcia,	w	sytuacji	z	1964	roku,	następujących	posunięć	(od	najważniejszych
+do	mniej	ważnych):
+1.	Nie	pożyczać	na	zakup	albo	trzymanie	papierów	wartościowych.
+2.	Nie	zwiększać	udziału	kapitału	lokowanego	w	akcje.
+3.	W	razie	potrzeby	ograniczać	udział	akcji	w	portfelu	do	poziomu	maksimum	50%.	Bez	wahania	płacić
+podatki	od	zysków	kapitałowych	i	nadal	inwestować	w	najlepsze	obligacje	lub	lokować	pieniądze	na
+kontach	oszczędnościowych.
+Dla	inwestorów,	którzy	od	pewnego	czasu	w	dobrej	wierze	realizują	plany	uśredniania	kosztów
+pieniężnych	(dollar-cost	averaging	plan),	logiczna	będzie	decyzja	o	kontynuowaniu	okresowych	zakupów
+lub	o	zawieszeniu	ich	do	czasu,	aż	nabiorą	przekonania,	że	ceny	rynkowe	stały	się	bezpieczne.	Dość
+stanowczo	odradzamy	podejmowanie	planu	„uśredniania	ceny	nabycia”	przy	poziomie	rynku	z	końca	1964
+roku,	ponieważ	wielu	inwestorom	zabraknie	wytrwałości,	gdy	po	pewnym	czasie	wyniki	okażą	się	bardzo
+niekorzystne.
+Tym	razem	możemy	powiedzieć,	że	potwierdziła	się	nasza	przestroga.	Wskaźnik
+DJIA	wzrósł	jeszcze	o	11%	–	do	995,	ale	później	spadał	nieregularnie	do	632,	czyli
+do	minimum	z	roku	1970,	aby	zakończyć	ten	rok	na	po	ziomie	839.	Ceny	„gorących
+walorów”	spadały	równie	katastrofalnie,	nawet	0	90%	jak	w	latach	1961-1962.
+Ponadto,	jak	wspominaliśmy	we	wstępie,	zmieniła	się	ogólna	sytuacja	finansowa	–
+mniej	entuzjazmu,	więcej	wątpliwości.	Najlepszym	podsumowaniem	tego	okresu
+historii	jest	następujący	fakt	–	poziom	zamknięcia	DJIA	za	rok	1970	był	niższy	niż
+sześć	lat	wcześniej,	coś	podobnego	wydarzyło	się	po	raz	pierwszy	od	1944	roku.
+Tak	oto	dawniej	próbowaliśmy	oceniać	poziom	cen	giełdowych.	Czy	my,	i	nasi
+czytelnicy,	możemy	z	tego	wyciągnąć	jakąś	naukę?	W	latach	1948	i	1953
+uważaliśmy	poziom	cen	giełdowych	za	korzystny	dla	inwestycji	(chociaż	w	1953
+roku	z	pewnymi	zastrzeżeniami),	w	1959	roku	za	„groźny”	(DJIA	równy	584),a	w	roku	1964	za	„zbyt	wysoki”	(892).	Za	pomocą	zgrabnych	argumentów	można
+by	bronić	tych	stwierdzeń	nawet	dzisiaj.	Wątpliwe	jednak,	aby	były	one	równie
+przydatne,	jak	nasze	bardziej	przyziemne	rady,	zalecające	z	jednej	strony
+konsekwentną	i	utrzymywaną	w	ryzach	politykę	inwestowania	w	akcje,	z	drugiej
+zaś,	zniechęcające	do	prób	„pobicia	rynku”	czy	„wyszukiwania	zwycięzców”.
+Tym	niemniej	jednak	uważamy,	że	ponowne	przeanalizowanie	poziomu	cen
+akcji,	tym	razem	z	końca	roku	1971,	może	przynieść	czytelnikom	pewną	korzyść.
+Gdyby	nawet	to,	co	mamy	do	powiedzenia,	okazało	się	bardziej	ciekawe	niż
+przydatne	i	było	raczej	sugestią	niż	konkluzją.	Na	początku	
+Etyki	nikomachejskiej
+Arystotelesa	znajdujemy	znakomity	cytat:	„Jest	bowiem	cechą	człowieka
+wykształconego	żądać	w	każdej	dziedzinie	ścisłości	w	tej	mierze,	w	jakiej	na	to
+pozwala	natura	przedmiotu;	bo	na	jedno	wychodzi	przyjmowanie	od	matematyka
+wywodów,	które	posiadają	charakter	prawdopodobieństwa,	i	żądanie	ścisłych
+dowodów	od	mówcy”	(tłum.	Daniela	Gromska,	PWN	2002).	Praca	analityka
+finansowego	znajduje	się	gdzieś	w	połowie	drogi	między	pracą	matematyka
+i	mówcy.
+W	różnych	okresach	1971	roku,	indeks	DJIA	przyjmował	poziom	z	listopada
+1964	(892),	który	rozpatrywaliśmy	w	poprzednim	wydaniu	naszej	książki.	Ale
+w	obecnej	analizie	statystycznej,	postanowiliśmy	posłużyć	się	poziomem	cen
+i	pokrewnymi	danymi	z	indeksu	łącznego	Standard	&	Poor's.	Jest	on	bardziej
+wyczerpujący	i	reprezentatywny	dla	ogólnego	stanu	rynku,	niż	indeks	DJIA,	który
+obejmuje	jedynie	30	akcji.	Skoncentrujemy	się	na	porównaniu	tych	danych,	dla
+czterech	dat	bliskich	poprzednim	wydaniom	naszej	książki	–	na	koniec	lat	1948,
+1953,	1958	i	1963	plus	rok	1968.	Dla	bieżącego	poziomu	cen	przyjmiemy	wygodną
+liczbę	100,	odnotowaną	kilkakrotnie	w	roku	1971	i	na	początku	1972.	Te	ważne
+dane	zostały	przedstawione	w	Tabeli	3.3.	Jeśli	chodzi	o	zyski	spółek,	podajemy
+zarówno	dane	z	ostatniego	roku,	jak	i	średnią	z	trzech	lat	kalendarzowych;	dla
+dywidend	z	roku	1971	podajemy	dane	za	ostatnie	12	miesięcy,	a	dla	rentowności
+obligacji	oraz	cen	hurtowych	w	roku	1971,	wartości	z	sierpnia	tego	roku.
+Roka
+1948
+1953
+1958
+1963
+1968
+1971
+Cena	zamknięcia
+15,20
+24,81
+55,21
+75,02
+103,90
+100,00d
+Zysk	w	danym	roku
+2,24
+2,51
+2,89
+4,02
+5,76
+5,23
+Średnie	 zyski
+z	ostatnich	3	lat
+1,65
+2,44
+2,22
+3,63
+5,37
+5,53
+Dywidenda	w	danym
+roku
+0,93
+1,48
+1,75
+2,28
+2,99
+3,10
+Wysokooprocentowana
+obligacjab
+2,77%
+3,08%
+4,12%
+4,36%
+6,51%
+7,57%
+Indeks	cen	hurtowych
+87,90
+92,70
+100,40
+105,00
+108,70
+114,30
+Wskaźniki:
+Cena/zysk	w	ostatnim

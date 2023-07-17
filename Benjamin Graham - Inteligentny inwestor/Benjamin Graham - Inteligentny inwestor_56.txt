@@ -1,0 +1,665 @@
+Bethlehem
+Steel
+12,4
+8,1
+4,7
+16,4
+1,7
+Chrysler
+27,0
+10,5
+2,1
+–	
+d
+1,4
+DuPont
+24,5
+21,0
+3,2
+(-9,0)
+3,6
+Eastman
+Kodak
+35,5
+35,6
+1,5
+238,9
+2,4
+General
+Electric
+23,4
+34,4
+2,3
+29,9
+1,3
+General
+Foods
+14,5
+15,2
+4,1
+97,3
+1,6
+General
+Motors
+24,4
+17,6
+4,1
+59,5
+1,9
+Goodyear
+15,8
+16,7
+2,5
+93,3
+2,1
+Inter.
+Harvester
+24,5
+12,4
+4,9
+23,0
+2,2
+Inter.	Nickel
+13,6
+16,2
+3,2
+123,4
+2,5
+Inter.	Paper
+22,5
+14,0
+4,6
+26,1
+2,2
+Johns-
+Manville
+19,3
+16,8
+3,0
+43,8
+2,6
+Owens-
+Illinois
+13,2
+14,0
+2,6
+64,7
+1,6
+Procter
+&	Gamble
+24,2
+31,6
+2,1
+128,4
+2,4
+Sears
+Roebuck
+21,4
+23,8
+1,7
+145,3
+1,6
+Std.	Oil	of
+Calif.
+9,7
+10,5
+5,0
+68,8
+1,5
+Std.	Oil	of
+N.J.
+11,0
+12,2
+5,4
+102,8
+1,5
+Swift	&	Co.
+16,4
+25,5
+1,7
+24,8
+2,4
+Texaco
+9,9
+10,8
+5,0
+120,9
+1,7
+Union
+Carbide
+16,6
+15,8
+4,6
+9,5
+2,2
+United
+Aircraft
+9,7
+7,0
+5,9
+55,9
+1,5
+U.S.	Steel
+8,3
+6,7
+5,4
+(-21,5)
+1,7
+Westinghouse
+29,5
+28,0
+1,9
+52,2
+1,8
+Woolworth
+19,7
+20,5
+2,4
+76,3
+1,8
+a	Dane	liczbowe	w	oparciu	o	rozliczenia	podatkowe	za	rok	1970.	
+b	Dane	liczbowe	w	oparciu	o	
+Moody's	Industrial	Manual
+	(1971).	c	Saldo	debetowe
+od	wartości	kapitału	obrotowego	netto.
+d	Deficyt	zadeklarowany	w	okresie	1958-1960.1.	Każda	ze	spółek	jest	niepospolicie	wielka.
+2.	Kondycja	finansowa	odpowiada	agregowanej,	nie	dotyczy	to	jednak	wszystkich
+firm.
+2
+3.	Każde	z	tych	przedsiębiorstw	płaciło	dywidendy	przynajmniej	od	1940	roku.
+Pięć	spośród	rejestrów	dywidend,	sięga	do	poprzedniego	stulecia.
+4.	Agregowane	zyski	były	całkiem	stabilne	na	przestrzeni	minionej	dekady.
+Żadna	z	firm	nie	wykazała	deficytu	w	pomyślnych	latach	1961-1969.	Jedynie
+Chrysler	zgłosił	niewielki	deficyt	w	1970	roku.
+5.	Całkowity	wzrost,	w	porównaniu	z	trzyletnimi	średnimi	z	poprzedniego
+dziesięciolecia,	wynosił	77%,	czyli	około	6%	rocznie.	Jednak	pięć	spośród
+wymienionych	podmiotów,	nie	osiągnęło	jednej	trzeciej.
+6.	Stosunek	ceny,	podawanej	na	koniec	roku	do	trzyletnich	średnich	zysków,
+wynosił	839	do	55,5	dolara,	czyli	jak	15	do	1.	Był	więc	dokładnie	taki,	jak
+sugerowany	górny	limit.
+7.	Stosunek	ceny	do	wartości	kapitału	netto,	wynosił	839	do	562,	mieszcząc	się
+również	w	sugerowanym	przez	nas	limicie	1
+1
+/
+2
+	do	1.
+Gdybyśmy	chcieli	każdą	ze	spółek	poddać	ocenie,	według	tych	samych	siedmiu
+kryteriów,	odkrylibyśmy,	że	jedynie	pięć	z	nich,	spełnia	wszystkie	nasze
+oczekiwania.	Są	to:	American	Can,	American	Tel.&Tel.,	Anaconda,	Swift
+i	Woolworth.	Ogólne	podsumowania	wszystkich	pięciu,	znajdują	się	w	Tabeli	14.3.
+Oczywiście	dają	one	znacznie	lepszy	wynik	statystyczny	niż	cały	indeks	DJIA,
+z	wyjątkiem	tempa	wzrostu	w	poprzednich	latach.
+3
+Tabela	14.3.	Kryteria	inwestycyjne	dla	obligacji	z	indeksu	DJIA	–	stan	na	koniec	roku	1970
+American
+Can
+American
+Tel.&Tel.
+Anaconda
+Swift
+Wool
+worth
+Cena	w	dniu	31
+grudnia	1970
+39
+3
+/
+4
+48
+7
+/
+8
+21
+30
+1
+/
+8
+36
+1
+/
+2
+Wskaźnik	cena/zysk
+w	roku	1970
+11,0x
+12,3x
+6,7x
+13,5x
+14,4x
+Wskaźnik	cena/
+średnia	zysków	z	3
+lat
+10,5x
+12,5x
+5,4x
+18,1xb
+15,1x
+Cena/wartość
+księgowa
+99%
+108%
+38%
+113%
+148%
+Aktywa
+bieżące/zobowiązania
+bieżące
+2,2x
+n.d.
+2,9x
+2,3x
+1,8x
+Aktywa	bieżące
+netto/zadłużenie
+110%
+n.d.
+120%
+141%
+190%
+Indeks	stabilności
+3
+85
+100
+72
+77
+99Wzrost
+55%
+53%
+78%
+25%
+73%
+a	Porównaj	z	definicją	na	str.	306-307.
+b	Biorąc	pod	uwagę	dobre	osiągnięcia	firmy	Swift	w	ubogim	roku	1970,	pomijamy	tutaj	okres	słabości
+przypadający	na	lata	1968-1970.
+c	
+Ten	drobny	niedobór	poniżej	2	do	1	został	zrównoważony	przez	rezerwy	z	dodatkowej	emisji	obligacji	(Debt
+Financing,	Equity	Financing).	
+n.d.	–	nie	dotyczy.	Zadłużenie	spółki	American	Tel.&Tel.	było	mniejsze	niż	jej	kapitał	akcyjny.
+Zastosowanie	specyficznych	kryteriów	do	wybranej	grupy	akcji	spółek
+przemysłowych	sprawia,	że	liczby	poddane	każdemu	z	naszych	testów,	będą
+stanowić	stosunkowo	niski	odsetek	
+wszystkich
+	wymienionych	akcji	tego	typu.
+Ryzykujemy	hipotezę,	że	około	stu	emitentów	z	tej	branży,	mogło	pod	koniec	1970
+roku,	znaleźć	się	w	ogłoszonym	przez	agencję	ratingową	Standard	&	Poor's
+biuletynie	
+Stock	Guide
+.	To	dostatecznie	dużo,	by	dostarczyć	inwestorom	szeroki
+wachlarz	propozycji	do	wyboru.
+291
+Sposób	na	instytucje	użyteczności	publicznej
+Jeśli	teraz	zwrócimy	się	ku	akcjom	emitowanym	przez	instytucje	użyteczności
+publicznej,	natrafimy	na	znacznie	wygodniejszą	i	bardziej	zachęcającą	dla
+inwestora	sytuację.
+Ogromna	większość	emisji	zdaje	się	ulegać	zahamowaniu,	przyczyna	tkwi
+w	rejestrach	ich	wydajności	oraz	wskaźnikach	cenowych,	które,	w	połączeniu
+z	potrzebami	inwestorów,	stanowią	dla	nas	kryterium	oceny.	Z	naszego	testu,
+któremu	poddajemy	akcje	przedsiębiorstw	użyteczności	publicznej,	wyeliminujmy
+jedno	z	kryteriów	–	mianowicie	aktywa	bieżące	do	zobowiązań	krótkoterminowych.
+Czynnik	kapitału	obrotowego	kształtuje	się	samodzielnie	w	tej	branży,
+przyczyniającej	się	częściowo	do	ciągłego	finansowania	jego	wzrostu	poprzez
+sprzedaż	obligacji	oraz	akcji.	Tym,	czego	wymagamy,	jest	odpowiednia	proporcja
+kapitału	akcyjnego	do	zadłużenia.
+4
+W	Tabeli	14.4.	prezentujemy	podsumowanie	15	emisji	notowanych	w	indeksie
+Dow	Jones	dla	sektora	użyteczności	publicznej.	Dla	porównania,	Tabela	14.5.
+przedstawia	podobny	obraz	wybranych	metodą	losową	15	innych	przedsiębiorstw
+o	takim	charakterze,	notowanych	na	New	York	Stock	Exchange.
+292
+Tabela	14.4.	Dane	na	temat	15	spółek	notowanych	w	indeksie	Dow	Jones	Utility	Average,	30	września
+1971
+Cena	30
+września
+1971	r.
+Zyska
+Dywidenda
+Wartość
+księgowa
+Cena/Zysk
+(X)Am.	Elec.
+Power
+26
+2,40
+1,70
+18,86
+11
+Cleveland	El.
+Ill.
+34
+1
+/
+4
+3,10
+2,24
+22,94
+11
+Columbia	Gas
+System
+33
+2,95
+1,76
+25,58
+11
+Commonwealth
+Edison
+35
+1
+/
+2
+3,05
+2,20
+27,28
+12
+Consolidated
+Edison
+24
+1
+/
+2
+2,40
+1,80
+30,63
+10
+Consd.	Nat.
+Gas
+27
+3
+/
+4
+3,00
+1,88
+32,11
+9
+Detroit	Edison
+19
+1
+/
+4
+1,80
+1,40
+22,66
+11
+Houston	Ltg.
+&	Power
+42
+3
+/
+4
+2,88
+1,32
+19,02
+15
+Niagara-
+Mohawk	Pwr.
+15
+1
+/
+2
+1,45
+1,10
+16,46
+11
+Pacific	Gas
+&	Electric
+29
+2,65
+1,64
+25,45
+11
+Panhandle	E.
+Pipe	L.
+32
+1
+/
+2
+2,90
+1,80
+19,95
+11
+Peoples	Gas
+Co.
+31
+1
+/
+2
+2,70
+2,08
+30,28
+8
+Philadelphia	El.
+20
+1
+/
+2
+2,00
+1,64
+19,74
+10
+Public	Svs.	El.
+&	Gas
+25
+1
+/
+2
+2,80
+1,64
+21,81
+9
+South	Calif.
+Edison
+29
+1
+/
+4
+2,80
+1,50
+27,28
+10
+Średnia
+28
+1
+/
+2
+2,66
+1,71
+23,83
+10,7
+a	Szacowane	na	rok	1971.
+Tabela	14.5.	Dane	z	drugiego	notowania	akcji	podmiotów	użyteczności	publicznej,	30	września	1971
+Cena
+w	dniu
+30
+września
+1971
+Zysk
+Dywidenda
+Wartość
+księgowa
+Cena/Zysk
+(X)
+Cena/Wartość
+księgowa	(%)
+Alabama
+Gas
+15
+1
+/
+2
+1,50
+1,10
+17,80
+10
+87
+Allegheny
+Power
+22
+1
+/
+2
+2,15
+1,32
+16,88
+10
+134
+Am.
+Tel.&Tel.
+43
+4,05
+2,60
+45,47
+11
+95
+Am.	Water
+14
+1,46
+0,60
+16,80
+10
+84Works
+Atlantic
+City	Elec.
+20
+1
+/
+2
+1,85
+1,36
+14,81
+11
+138
+Baltimore
+Gas&Elec.
+30
+1
+/
+4
+2,85
+1,82
+23,03
+11
+132
+Brooklyn
+Union	Gas
+23
+1
+/
+2
+2,00
+1,12
+20,91
+12
+112
+Carolina
+Power
+&	Lt.
+22
+1
+/
+2
+1,65
+1,46
+20,49
+14
+110
+Cen.
+Hudson	G.
+&	E.
+22
+1
+/
+4
+2,00
+1,48
+20,29
+11
+110
+Cen.	Ill.
+Lt.
+25
+1
+/
+4
+2,50
+1,56
+22,16
+10
+114
+Cen.
+Maine
+Pwr.
+17
+3
+/
+4
+1,48
+1,20
+16,35
+12
+113
+Cincinnati
+Gas
+&	Elec.
+23
+1
+/
+4
+2,20
+1,56
+16,13
+11
+145
+Consumers
+Power
+29
+1
+/
+2
+2,80
+2,00
+32,59
+11
+90
+Dayton
+Pwr.	&	Lt.
+23
+2,25
+1,66
+16,79
+10
+137
+Delmarva
+Pwr.	&	Lt.
+16
+1
+/
+2
+1,55
+1,12
+14,04
+11
+117
+Średnia
+23
+1
+/
+2
+2,15
+1,50
+21,00
+11
+112
+Wraz	z	rozpoczęciem	1972	roku,	inwestor	defensywny	mógł	skorzystać
+z	całkiem	szerokiego	wyboru	akcji	zwykłych,	emitowanych	przez	podmioty
+użyteczności	publicznej,	z	których	każdy	spełniał	nasze	wymagania,	dotyczące
+zarówno	wydajności,	jak	i	ceny.	Spółki	te,	oferowały	mu	wszystko,	czego	miał
+prawo	oczekiwać,	lokując	kapitał	w	akcjach	zwykłych.	W	porównaniu	z	czołowymi
+spółkami	z	branży	przemysłowej,	jak	te	z	indeksu	DJIA,	miały	one	do
+zaoferowania	prawie	tak	samo	imponującą	historię	rozwoju,	a	przy	tym,	mniejsze
+wahania	rocznych	zestawień.	Towarzyszyła	temu	niższa	cena,	w	stosunku	do
+dochodów	i	kapitału.	Zwrot	dywidend	był	znacznie	wyższy.	Pozycja
+umiarkowanych	monopolistów,	jaką	przyjęły	te	przedsiębiorstwa,	była	dla
+konserwatywnych	inwestorów	bardziej	zaletą	niż	wadą.	W	świetle	przepisów,	były
+one	uprawnione	do	ustalenia	wystarczająco	korzystnych	stawek,	by	przyciągnąć
+kapitał,	niezbędny	do	ciągłej	ekspansji.	Pociąga	to	za	sobą	odpowiednie
+wyrównanie	strat,	spowodowanych	wygórowanymi	kosztami.	O	ile	proces	regulacji
+bywał	często	niewygodny	i	prawdopodobnie	przebiegał	opieszale,	nie	przeszkodził
+spółkom	użyteczności	publicznej	w	czerpaniu	uczciwych	zysków

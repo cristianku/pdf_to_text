@@ -1,0 +1,398 @@
+3. Kondycja finansowa i struktura kapitatowa. Akcje spétki nie wybijajace sie ponad
+przecietnosé oraz z duzqa nadwyzka gotowki, to znacznie lepszy nabytek (przy tej
+samej cenie) niz udziaty w spdtce o takich samych zyskach na akcje, ale
+obciazonych duzymi kredytami bankowymi i akcjami senioralnymi.
+
+Niekoniecznie jednak niewielka liczba obligacji albo akcji preferowanych, musi
+byé czyms ztym, podobnie jak umiarkowane korzystanie z kredytow bankowych
+(nawiasem mowiac, taka struktura, w ktorej akcji zwyktych jest z w stosunku do
+akcji uprzywilejowanych i obligacji zbyt mato, w sprzyjajacych warunkach moze
+umozliwié ogromny zysk spekulacyjny na akcjach zwyktych. Taki czynnik nazywa
+sie ,,dzwignia”).
+
+4. Historia wyptacania dywidend. Jeden z najbardziej przekonujacych test6w
+wysokiej jakoSci, to sprawdzenie regularnosci wyplacania dywidend na przestrzeni
+wielu lat. Naszym zdaniem, waznym czynnikiem dziatajacym na plus danej spdtki,
+jest nieprzerwana wyplata dywidendy przez minimum 20 lat. Wtasciwie, mozna by
+nawet zalecic inwestorowi defensywnemu, aby ograniczat sie do spdtek, kt6re
+przejda ten test.
+
+5. Obecna stopa dywidendy. Trudno przedstawi¢, w satysfakcjonujacy sposdb, ten
+ostatni czynnik na naszej liscie. Na szczescie, wiekszos¢ firm prowadzi cos, co
+mozna nazwac znormalizowana polityka wyplacania dywidendy. Polega ona na
+rozdysponowaniu okoto dwéoch trzecich srednich zyskéw, z wyjatkiem tych
+z ostatniego okresu, uzyskanych ponadprzecietnych zyské6w oraz wymagan
+inflacyjnych na rzecz zwiekszenia kapitatu, gdyz wowczas liczba ta ma tendencje do
+zmniejszania sie (w 1969 roku, Srednia dla spétek z indeksu Dow Jones wynosila
+59,5%, a dla wszystkich amerykanskich przedsiebiorstw — 55%). Gdy stosunek
+dywidendy do zyskéw odzwierciedla wiarygodnos¢é, mozna wowczas dokonywaé
+wyceny na podstawie dowolnej z tych dwoéch wartosci i nie bedzie to miato
+wiekszego wplywu na wynik. Na przyktad, typowa drugorzedna spdtka, ma
+spodziewana Sredniq zyskéw 3 dolary na akcje i spodziewana dywidende 2 dolary,
+wiec zostanie wyceniona albo 12 razy zyski, albo 18 razy dywidenda, co, tak czy
+owak, da 36.
+
+Jednak coraz wiecej firm, twierdzac, ze w_ interesie udzialowcéw lezy
+przeznaczenie prawie wszystkich zyskéw na ekspansje finansowa, odchodzi od
+niegdys standardowej polityki, wyptacania co najmniej 60% zyskéw w dywidendzie.
+Takie zachowanie, sugeruje problemy i wymaga starannego rozpatrzenia. My
+postanowilismy odtozyé oméwienie waznej kwestii wtaSciwej polityki wyplacania
+dywidend do Rozdziatu 19., gdzie potraktujemy ja jako czes¢ ogélnego problemu
+relacji miedzy zarzadem a udzialowcami.
+Stopa kapitalizacji akcji wzrostowych
+Wiekszos¢é tekst6w dotyczacych analizy papier6w wartosciowych, odnosi sie do
+wyceny wartosci akcji wzrostowych. Nasze badania nad rdéznymi metodami,
+doprowadzilty do zaproponowania skréconego i catkiem prostego wzoru na
+wycene wartosci akcji wzrostowych, ktéry daje wyniki bardzo zblizone do
+rezultat6w skomplikowanych kalkulacji matematycznych. Oto ten wz6r:
+wartosé = biezace (normalne) zyski x
+
+(8,5 plus dwukrotnosé spodziewanej rocznej stopy wzrostu)
+Spodziewana stopa wzrostu powinna dotyczy¢ od siedmiu do 10 najblizszych lat.’
+
+W Tabeli 11.4, pokazujemy, w jaki sposéb wz6r ten dziata przy réznych
+poziomach zaktadanego wzrostu. Latwo wykonaé dziatanie odwrotne i wyliczy¢,
+jakiej stopy wzrostu mozna spodziewa¢ sie po obecnej cenie gietdowej, przy
+zatozeniu, ze nasz wz6r jest stuszny. W ostatnim wydaniu przeprowadzilismy
+wyliczenia dla indeksu DJIA i akcji szesciu waznych spétek. Liczby te zostaly
+przedrukowane w Tabeli 11.5. A tak oto brzmiat nasz komentarz:
+
+Roznica miedzy 32,4% przypuszczalnej rocznej stopy wzrostu dla Xeroksa i nadzwyczaj skromnym 2,8%
+dla General Motors, jest naprawde uderzajaca. Czesciowo mozna to wyjasnic przeczuciem gietdy, ze zyski
+General Motors z 1963 roku — najwieksze w dziejach korporacji — z trudem uda sie utrzyma¢ na tym
+samym poziomie, a jesli nastapi wzrost, to bedzie on bardzo skromny. Z kolei wskaznik cena/zysk dla
+Xeroksa, stanowi reprezentatywny przyktad spekulacyjnego entuzjazmu, napedzanego wspaniatymi
+osiagnieciami i jeszcze wspanialszymi obietnicami.
+Spodziewana lub oczekiwana stopa wzrostu na poziomie 5,1% dla DJIA, jest poréwnana
+z rzeczywistym rocznym wzrostem na poziomie 3,4% w latach 1951-1953 oraz 1961-1963.
+Tabela 11.4. Roczne mnozniki zyskow w oparciu 0 spodziewana stope wzrostow wedlug uproszczonego
+wzoru (w %)
+stopa wzrostu
+Warost przez 28,0 63,0 100,0 159,0 280,0) 319,0
+10 lat
+Mnoznik
+biezacych 8,5 13,5 18,5 22,9 28,5 37,1 48,5
+zyskow
+Tabela 11.5. Spodziewana stopa wzrostu w grudniu 1963 roku i grudniu 1969 roku
+Spodzi Aktualna
+Wskazni. ia mewana Zysk kej stopa Ww
+Spolka ° (%)
+1963- ;
+| American | | | | | |
+Tel.&Tel. 23,0 73,0 3,03 4,00 4,75 | 1:
+ee ce ro
+ee ee eee
+[wm fs [50 ‘sae oar 100 | #
+ee ee ee ee ee
+[xewx | 250 [324 | ood] 208 [| 2920 |»
+[pats sa ttf 5702 550
+a Na podstawie wzoru ze str. 269.
+
+b Srednia za rok 1968 irok 1970, od 1969 roku zyski byty zredukowane pod wptywem strajku.
+c Dostosowane do podziatu.
+
+W tym miejscu musimy doda¢ pewna uwage. Wycena wartosci akcji wysokiego
+wzrostu, od razu stoi na przegranej, jesli zalozymy, ze zaktadana stopa wzrostu
+rzeczywiscie zostanie osiagnieta. Przeciez, zgodnie z arytmetyka, gdyby firma
+mogla zaktadaé wzrost na stopie 8 lub wiecej procent w nieskonczono§é, to wartosé
+bytaby nieskonczenie duza i zadna cena za takie akcje nie bytaby za wysoka.
+W_ takim_ przypadku, analityk wprowadza do swych wyliczenh margines
+bezpieczenstwa — podobnie jak inzynier w specyfikacjach swojej konstrukcji. Wtedy
+nabywca realizuje sw6j wytyczony cel (w 1963 roku 7/,% zwrotu rocznie), nawet
+jesli rzeczywista stopa wzrostu okazuje sie znacznie nizsza niz prognozowana na
+podstawie wzoru. Oczywiscie, jesli stopa osiagnie wyzszy poziom, inwestor tez
+bedzie zadowolony. Naprawde nie mozna wyceni¢é akcji sp6tki wysokiego wzrostu
+(ze spodziewana stopa, powiedzmy, 8% rocznie), jesli analityk ma realistycznie
+oszacowa¢ zardwno odpowiedni mnoznik dla biezacych zysk6w, jak i spodziewany
+mnoznik dla zyskéw przysztych.
+
+Tak sie ztozyto, ze faktyczny wzrost Xeroksa i IBM okazat sie bliski wysokiej
+stopie, wyliczonej na podstawie naszego wzoru. Jak juz wspominalismy, takie
+wyniki spowodowaty znaczny wzrost cen akcji obu tych spdtek. Wzrost samego
+DJIA r6wniez wynidst mniej wiecej tyle, ile prognozowalismy na zakonczenie 1963
+roku. Jednak umiarkowana stopa na poziomie 5%, nie uwzglednita matematycznego
+dylematu Xeroksa i IBM. Okazalo sie, ze 23% wzrostu ceny na koniec 1970 roku
+plus 28% w otrzymanej sumie dywidendy, dato prawie 7/,% rocznego zysku
+wyliczonego wedlug naszego wzoru. W przypadku czterech pozostatych spdtek,
+wystarczy powiedziec, ze wzrost nie sprostat oczekiwaniom opartym na cenie
+z 1963 roku i ich notowania nie wzrastaty tak jak DJIA. Ostrzezenie: Przedstawiony
+tutaj materiat ma na celu jedynie zilustrowanie przyktadu, i z koniecznosci,
+w analizie papier6w wartoSciowych musiata znalez¢ sie projektowana stopa zwrotu
+wiekszosci opracowywanych spodtek. Czytelnikowi nie wolno uzna¢ takich prognoz
+za, w jakimkolwiek stopniu, realistyczne, ani tez — gdyby sie spetnity lub nie —
+wyliczaé na ich podstawie przysztych cen.
+
+Musimy tu podkresli¢, ze wszelkie ,naukowe”, czyli choé troche wiarygodne
+wyceny akcji, oparte na wynikach przewidywanych na przysztos¢, musza bra¢ pod
+uwage przyszle stopy procentowe. Kazdy plan spodziewanych zyskéw albo
+dywidend straci na wartoSsci, jesli przyjmiemy wyzsze stopy procentowe niz wtedy,
+gdybysmy przyjeli nizsze** Przyjmujac takie zatozenia, trudno o jakakolwiek
+pewnos¢, a ostatnie ostre skoki dtugoterminowych st6p procentowych sprawiaja, ze
+tego rodzaju prognozy nalezy zaliczyé do zuchwatych. Dlatego zostajemy przy
+naszym starym, przedstawionym powyzej wzorze, bo po prostu zaden nowy nie
+wydaje sie bardziej atrakcyjny.
+
+Analiza branzy
+
+Poniewaz ogdlne perspektywy przedsiebiorczosci, maja ogromne znaczenie przy
+ustalaniu cen gietdowych, naturalna koleja rzeczy, analityk papierédw
+wartoSciowych, spora czes¢é uwagi poswieca gospodarczej sytuacji danej branzy
+i pozycji, jaka zajmuje w niej okreslona spétka. Tego typu badania moga natknaé
+sie na niezliczone szczegdély. Czasami sa to cenne obserwacje na temat waznych
+czynnikéw, ktore w przysztosci beda decydujace, cho¢ w danej chwili gietda ich nie
+docenia. Jesli tego typu wniosek da sie wyciagna¢ z duzqa doza pewnosci, to
+zastuguje on na uwzglednienie w decyzji inwestycyjnej.
+
+Jednak nasze wtasne obserwacje, sktaniaja nas do minimalizowania praktycznego
+znaczenia wiekszosci analiz branzowych, dostepnych dla inwestoréw. Zawarty
+w nich material jest juz dobrze znany publicznie i zdazyt wywrzeé znaczny wptyw
+na gieldowe notowania. Rzadko kiedy mozna znalezé sporzadzona w domu
+maklerskim analize, kt6ra zawierataby dos¢ przekonujacych fakt6w, ze pewna
+popularna gataz gospodarki chyli sie ku upadkowi albo mato popularna branza ma
+przed soba okres prosperity. Poglady Wall Street na odlegta przysztos¢, prawie
+zawsze Okazuja sie nietrafione, i to samo dotyczy waznej czesci opracowan, ktore
+maja prognozowa¢ moZliwosci zyskéw w réznych branzach.
+
+Trzeba jednak przyznac, ze szybki i wszechobecny ostatnio rozw6j
+technologiczny, pozostat bez wiekszego wptywu na postawy i prace analityk6w
+papier6w wartosciowych. Bardziej niz w przeszlosci, postep i regres typowego
+przedsiebiorstwa w nadchodzacej dekadzie, bedzie zalezat od jej relacji do nowych
+produkt6w i procesdw, ktdre analitycy maja szanse bada¢ i  ocenia¢
+Z wyprzedzeniem. Dlatego, przed analitykami niewatpliwie otwiera sie obiecujacy
+obszar dziatan — wyprawy w teren, rozmowy z badaczami i wtasne dociekania na
+temat technologii. Z wnioskami inwestycyjnymi, opartymi na tego typu
+przewidywaniach przysztosci, nie popartymi biezacym poziomem wartoSci, zawsze
+wiaze sie ryzyko. Chyba jednak r6wnie ryzykowne, byloby ograniczanie sie do
+wyliczania wartoSci, tylko na podstawie chtodnych kalkulacji, opartych na
+dotychczasowych wynikach. Inwestor nie moze zabezpieczy¢ sie z dwoéch stron
+jednoczesnie. Moze mie¢ wyobraznie i liczyé na ogromne zyski dzieki swojej wizji,
+ale p6zniej, musi przeprowadzi¢ mniejsze lub wieksze kalkulacje. Moze tez przyja¢é
+postawe konserwatywna i odmdéwié ptacenia wyzszych sum za niepotwierdzone
+mozliwosci, ale w takim przypadku, musi liczyé sie z tym, ze ominie go jakas
+wspaniata szansa.
+
+Dwuczesciowy proces wyceny
+
+Powréémy na moment, do koncepcji wyceny akcji zwyktej, kt6rqa zaczelismy
+omawia¢ na str. 264. Liczne przemySlenia na ten temat, sktonity nas do wniosku, ze
+lepiej robi¢ to inaczej niz obecnie przyjeto. Proponujemy, aby najpierw analityk
+opracowywat co§, co nazwalismy ,,wartoscia wynik6éw z przesztosci”, ktora opiera
+sie wytacznie na danych dotyczacych przesztosci. Ona pokaze, ile akcje bylyby
+warte — w dolarach albo w procencie DJIA lub S&P — gdyby w przysztoSsci osiagaly
+nadal takie same wyniki (to wiaze sie z przyjeciem zalozenia, ze stopa wzrostu
+z ostatnich siedmiu lat, pozostanie niezmieniona przez nastepne siedem). Taki
+proces mozna by prowadzi¢ mechanicznie, za pomoca wzoru, ktéry uwzglednia
+dane o dochodowosci, stabilnosci, wzroscie i biezacej kondycji finansowej. Druga
+czes¢ analizy, powinna wziqgé pod uwage, do jakiego stopnia wartos¢, wyceniona
+wytacznie na podstawie wynikéw z przesztosci, powinna zosta¢ zmodyfikowana ze
+wzgledu na nowe warunki, spodziewane w przysztosci.
+
+Taka procedura, pozwolitaby na podziat pracy miedzy starszych i mtodszych
+analitykéw w nastepujacy sposob: starszy analityk opracowuje wz6r, kt6ry mozna
+zastosowa¢ ogdélnie do wszystkich firm, aby okresli¢ wartosé ich wynikéw
+z przesztosci; mtodszy analityk zbiera wszystkie dane 0 wyznaczonych firmach —
+w sposob czysto mechaniczny; starszy analityk okresla, do jakiego stopnia wyniki
+firmy w przysztosci moga sie rézni¢ od danych z przesztosci i jakie jest
+prawdopodobienstwo, ze znajda odzwierciedlenie w wartosci. Najlepiej, jesli
+starszy amnalityk pokaze w sprawozdaniu zardwno wycene pierwotng, jak
+i zmodyfikowana oraz uzasadnienie dzielacej je réznicy.
+
+Czy warto wykonywa¢ tego typu prace? Udzielamy twierdzacej odpowiedzi, ale
+nasze uzasadnienie moze wyda¢ sie czytelnikowi nieco cyniczne. Wyrazamy
+watpliwos¢, czy na opracowanej w ten sposdb wycenie, moze wystarczajaco
+polegaé typowa spotka przemystowa, duza czy mata.
+
+Trudnosci zwiazane z taka praca, zilustrujemy w nastepnym rozdziale, na
+przyktadzie Aluminum Company of America (ALCOA). Niemniej jednak,
+w odniesieniu do akcji zwyktych, trzeba ja wykonywac. Dlaczego? Po pierwsze,
+wielu analityk6w papieréw wartosciowych, robi biezace i prognozowane wyceny na
+co dzien. Proponowana przez nas metoda, powinna utatwic im prace. Po drugie,
+analitycy korzystajacy z tej metody, powinni dzieki niej uzyska¢ przydatne
+spostrzezenia. Po trzecie, w wyniku tego typu pracy, powstaje nieoceniony bagaz
+doSwiadczen — jak w medycynie — kt6éry moze poméc w opracowaniu lepszych
+metod i zdobyciu szerszej wiedzy na temat mozliwoSci oraz ograniczen. Rowniez
+w odniesieniu do przedsiebiorstw uzytecznosci publicznej, ta metoda moze okaza¢é
+sie bardzo przydatna. I wreszcie, inteligentny analityk ograniczy sie tylko do tych
+branz, ktérych przysztos¢ daje sie, do pewnego stopnia, prognozowa¢c™ lub
+w ktorych margines bezpieczenstwa wartosci wynikéw z przesztosci, do biezacej
+ceny, jest tak szeroki, ze mozna zaryzykowa¢c rozpatrywanie kilku wersji
+przysztosci — jak w przypadku doboru bezpiecznych senioralnych papieréw
+wartosciowych.
+
+W nastepnych rozdziatach, przedstawimy konkretne przyktady zastosowan tych
+technik analitycznych. Ale beda to tylko ilustracje. Jesli czytelnika zainteresuje ten
+temat, powinien zglebia¢ go systematycznie i wnikliwie, zanim uzna sie za
+zdolnego do samodzielnego wyrazania sad6w na temat kupna i sprzedazy wlasnych
+papieréw wartosciowych.
+KOMEN TARZ DO ROZDZIALU 11
+— Czy mogibys mi powiedziec, kt6redy mogtabym stad odejsé?
+— W duzej mierze zalezy to od tego, dokad chciatabys dojs¢ — powiedzial Kot.
+Lewis Carroll, Alicja w krainie czar6w
+
+Cena na przyszlos¢é
+Jakie czynniki wplywaja na to, ile powinienes zaptaci¢ za akcje? Co decyduje o tym,
+ze jedna spdtka jest warta dziesieciokrotnos¢ osiaganych zyskéw, a inna
+dwudziestokrotnos¢? Jak zyska¢ pewnos¢é, ze nie przeptacasz za Swietlana
+przyszlos¢, ktéra okaze sie ponurym koszmarem?
+
+Wedlug Grahama istnieje pie¢ czynnikéw kluczowych.* Mozemy je podsumowaé
+nastepujaco:
+
+¢ ,ogdlne dtugoterminowe prognozy” firmy,
+
+« jakoS¢é jej zarzadu,
+
+¢ kondycja finansowa i struktura kapitatowa,
+
+¢ historia wyptacanych dywidend,
+
+* biezaca stopa dywidendy.
+
+Spdéjrzmy na te czynniki w Swietle obecnej sytuacji gietdowej:
+
+Dlugoterminowe perspektywy. Dzisiaj, inteligentny inwestor powinien zacza¢
+od Sciagniecia rocznego sprawozdania (Formularz 10-K), z co najmniej pieciu lat,
+kt6re znajdzie na stronach danej spétki albo w bazie danych EDGAR na
+www.sec.gov." Pézniej trzeba przeczesa¢ oSwiadczenia finansowe i poszukac
+informacji, kt6re pomoga w odpowiedzi na dwa zasadnicze pytania. Co powoduje
+wzrost spotki? Skad bierze sie (i bedzie brat) jej zysk?
+
+Oto, na co trzeba uwazac:
+
+* Spotka jest ,,seryjnym nabywcaq”. Srednia powyzej dwéch lub trzech przejeé
+rocznie, to oznaka potencjalnych ktopotéw. Jesli bowiem firma woli skupowaé
+akcje innych firm niz inwestowa¢ we wihasne, to czy nie nalezy rozejrze¢ sie za
+inna? Sprawdz historie przeje¢ spdtki, ktéra jestes zainteresowany. Uwazaj na
+»korporacyjne bulimiczki”, czyli na firmy, kt6re z wilczym apetytem dokonuja
+ogromnych przejec i koncza na tym, ze je ,,zwracaja”. Do przedsiebiorstw, kt6re
+okupity przejecia chorobliwymi stratami, naleza Lucent, Mattel, Quaker Oats i Tyco
+International. W przypadku innych firm, o przeptaceniu za ostatnie przejecie,
+Swiadcza notoryczne odpisy zadtuzenia i obciazania rachunku. To zly znak na
+przyszlos¢.”
+
+¢ Firma jest uzalezniona od PIL. Powieksza zadluzenie albo sprzedaje akcje, aby
+powiekszy¢ tadunek Pieniedzy Innych Ludzi. O silnych zastrzykach PIL, Swiadcza
+zapisy w rubryce sprawozdania rocznego, dotyczace przeplywu got6wkowego,
+kt6re brzmia ,,got6wka z dziatalnosci finansowej”. One sprawiaja, ze firma wydaje
+sie zdrowa, a nawet kwitnaca, chociaz prowadzona przez nia dziatalnos¢é nie
+generuje dostatecznej ilosci got6wki — co niedawno pokazaty Global Crossing
+i WorldCom"
+
+¢ Spdtka wiekszosé swoich przychodéw zawdziecza tylko jednemu klientowi
+(albo kilku). W pazdzierniku 1999 roku, producent Swiattowodéw, Sycamore
+Networks Inc. po raz pierwszy sprzedawat akcje w obrocie publicznym.
+W prospekcie pokazano, ze za cate sto procent przychodéw Sycamore, czyli 11 mln
+dolaréw, odpowiada Williams Communications. Gielda wycenita akcje Sycamore
+na 15 mld dolaréw. Niestety, dwa lata pézniej, Williams zbankrutowalo. Chociaz
+Sycamore znalazi sobie innych klientéw, jego akcje w latach 2000-2002 stracily
+97%.
+Przegladajac zrodla zysku i wzrostu, szukaj nie tylko negatywow, ale i pozytywow.
+Do dobrych znak6éw naleza:
+
+¢ Spédtka ma duza przewage nad konkurencja, czyli cos w rodzaju ,,fosy”.
+Przedsiebiorstwa sa jak twierdze — jedne moga ulec najazdowi dzikich
+konkurent6w, inne pozostaja niezdobyte. O wumocnieniach przedsiebiorstwa
+decyduje kilka czynnikéw: silne utozsamianie z markgq (klienci Harleya Davidsona
+gotowi sq tatuowac sobie logo firmy na ciele); monopol lub prawie monopol
+w branzy; oszczednosci dzieki skali, czyli mozliwosé dostarczania ogromnych
+ilosci towaréw lub ustug po niskiej cenie (Gillette sprzedaje zyletki na miliardy);
+niepowtarzalne aktywa niematerialne (na przyktad Coca-Cola, kt6rej tajny przepis
+na syrop nie ma zadnej wartosci fizycznej, ale ma nieoceniony wplyw na
+utrzymywanie klient6w); niezastepowalnosé (prawie kazda dziatalnosé uzalezniona
+jest od elektrycznosci, wiec jest mate prawdopodobienstwo, aby w najblizszym
+czasie przedsiebiorstwa energetyczne zostaty zastapione przez inne).
+
+* Przedsiebiorstwo jest maratonczykiem, a nie sprinterem. Przegladajac
+oswiadczenia 0 dochodzie z ostatnich 10 lat, mozesz ustali¢é, czy w tym okresie
+przychody oraz zyski rosty w sposob stabilny i zr6wnowazony. Niedawny artykut
+z Financial Analysts Journal, potwierdza inne badania (i smutne doSwiadczenia
+wielu inwestordw), ze firmy najszybszego wzrostu. maja tendencje do
+przegrzewania i wypalania sie.” Jesli zyski w dtugim okresie maja rosna¢ 0 10%
+przed opodatkowaniem (czyli 6%-7% po zaptaceniu podatku), to moze byé
+wykonalne. Ale 15%, kt6re zaktada wiele firm, jest zludzeniem. A jeszcze wyzsza
+stopa wzrostu — lub nagly skok przez rok albo dwa — na pewno musi spas¢, bo to
+zupetnie tak, jakby niedoSwiadczony maratonczyk prébowal przebiec caty dystans
+w tempie, w jakim biega sie na 100 metréw.
+
+¢ Firma sieje i zbiera plony. Cho¢by firma miata najlepsze produkty i znakomita
+marke, musi wydawa¢ pieniadze na rozwijanie nowej dzialalnosci. Wydatki na
+badania i rozw6j nie przynoszq zysk6w dzisiaj, ale jutro jak najbardziej, zwtaszcza,
+jesli firma ma za soba odmtodzenie dziatalnosci dzieki nowemu wyposazeniu
+i nowym koncepcjom. W réznych przedsiebiorstwach, Sredni budzet na badania
+i rozw6j, wyglada réznie.
+
+W 2002 roku, Procter & Gamble wydato 4% obrotéw netto, 3M — 6,5%,
+
+a Johnson & Johnson — 10,9%. Firma, kt6ra nie wydaje na badania i rozw6j nic, na
+diuzszq mete naraza sie tak samo jak ta, kt6ra wydaje zbyt wiele.
+Jakosé dziatalnosci zarzadu. Dyrekcja firmy powinna mdéwi¢, co zrobi, a potem
+zrobi¢é, co mdwila. Przeczytaj sprawozdania roczne, pod katem perspektyw
+rysowanych przez dyrekcje i tego, czy zostaly zrealizowane, czy raczej nie.
+Menedzerowie powinni umiec przyznawac sie do porazek i bra¢ za nie
+odpowiedzialnos¢é, zamiast szuka¢ kozlé6w ofiarnych, np. ,,gospodarki”,
+»niepewnosci” albo ,,stabego popytu”. Zwrdé uwage, czy ton i zawartos¢
+merytoryczna list6w prezesa, pozostaja niezmienne, czy tez ulegaja takim samym
+wahaniom, jak ceny na Wall Street (szczegdéInie sprawdz rok 1999. Czy dyrekcja
+cementowni albo firmy bielizniarskiej, nie ogtosita ni z gruszki, ni z pietruszki, ze
+stoi u progu rewolucyjnej transformacji oprogramowania”’?).
+
+Ponizsze pytania pomoga rowniez odpowiedzie¢ na pytanie, czy ludzie
+prowadzacy firme, prowadza ja w interesie ludzi, kt6rzy sa jej posiadaczami:
+
+Wielkos¢é tego ,nawisu opcji”, mozna wyczyta¢c, przegladajac obowiazkowe
+przypisy dotyczace opcji udziatu. Na przyktad, 31 grudnia 2002 roku, AOL Time
+Warner donosita na pierwszej stronie sprawozdania rocznego, ze ma 4,5 mld akcji
+zwyktych. Ale przypis, gdzies na dalszych stronach informowal, ze firma ta
+wypuscila opcje na dalszych 657 mln akcji. Dlatego przyszte zyski AOL beda
+dzielone miedzy 15% wiecej udziatéw. Szacujac przyszta wartos¢ firmy, nalezy
+zawsze bra¢ pod uwage potencjalny naptyw nowych akcji z realizacji opcji
+udziatu
+
+»Formularz 4”, dostepny w bazie danych EDGAR na wwwssec.gov, pokazuje, czy
+dyrekcja i wysocy urzednicy firmy kupuja czy sprzedaja akcje. Moga mie¢ swoje
+powody wyprzedazy — dywersyfikacja, powiekszenie domu albo rozwéd — ale
+powtarzajaca sie sprzedaz duzych pakietéw, to powazne ostrzezenie. Menedzer nie
+moze by¢ twoim partnerem, jesli on sprzedaje akcje, a ty kupujesz.
+
+* Czy sq menedzerami, czy promotorami?
+
+Dyrekcja, wiekszosé czasu powinna poswiecaé na zarzadzanie firma, a nie na
+namawianie, aby w nia inwestowa¢. Dyrektorzy generalni zbyt czesto narzekaja na
+zanizona cene akcji ich spétki, chocby bylty nie wiadomo jak drogie. Zapominaja
+o twierdzeniu Grahama, ze menedzerowie powinni sie stara¢c, aby akcje ich spotek
+nie byty ani za tanie, ani za drogie”“ w Komentarzu do Rozdziatu 19., str. 463.
+Tymczasem, wielu dyrektor6w finansowych bawi sie w zgadywanie lub
+,sugerowanie” zyskéw w najblizszym kwartale. Ponadto, niekt6re firmy lubia robi¢
+wok6}! siebie wiele szumu i stale podaja do medidw informacje o nowych
+»mozliwosciach”, cho¢by najbardziej trywialnych, chwilowych lub hipotetycznych.
+
+Kilka przedsiebiorstw — m.in. Coca-Cola, Gillette i USA Interactive — zaczeto ,,po
+prostu méwié nie” krétkowzrocznemu mySleniu Wall Street. Te odwazne firmy,
+przedstawiaja wiecej szczegdldw na temat swojego biezqacego budzetu oraz
+dtugoterminowych plandéw, a takze odmawiaja spekulowania na temat tego, co
+przyniesie najblizszych 90 dni (aby zobaczyé wz6r przedsiebiorstwa, kt6re szczerze
+i otwarcie komunikuje sie z udziatowcami, wejdz do bazy EDGAR na www.sec.gov
+i przejrzyj Formularze 8-K, ztozone przez Expeditors International of Washington,
+kt6ra od czasu do czasu przedstawia tam swoje dialogi z akcjonariuszami).
+
+I na koniec, trzeba postawi¢ pytanie, czy ksiegowosé firmy jest nastawiona na
+
+przejrzystos¢ wynikéw finansowych, czy wrecz przeciwnie. Jesli co chwile
+pojawiaja sie ,,jednorazowe” obcigzenia, gdy ,nadzwyczajne” punkty zdarzaja sie
+tak czesto, ze staja sie norma, jezeli priorytet maja skréty EBITDA, a nie wplywy
+netto lub kiedy zyski ,,pro forma” maja ukry¢ rzeczywiste straty, prawdopodobnie
+jest to przedsiebiorstwo, ktére jeszcze nie nauczyto sie, w jaki sposdb na
+pierwszym miejscu stawia¢ diugoterminowy interes udzialowcéw.”
+Kondycja finansowa i struktura kapitatowa. Dobre przedsiebiorstwo najprosciej
+mozna zdefiniowa¢c jako takie, kt6re generuje wiecej got6wki niz pochlania.
+Dobrzy menedzerowie znajduja sposoby wykorzystania tej gotowki w produktywny
+sposob. Firma, spelniajaca te definicje, na dtuza mete z pewnoSscia odnotuje wzrost
+wartosci, niezaleznie od sytuacji na gietdzie.
+
+Zacznij od  przeczytania oSwiadczenia o  przeptywie goté6wkowym,
+zamieszczonego w rocznym sprawozdaniu spdtki. Zwracaj uwage, czy przez
+ostatnich 10 lat, got6wka przeznaczana na dziatalnosé operacyjna stale rosta.
+Pézniej idz krok dalej. Warren Buffet spopularyzowat koncepcje zyskéw
+wtascicielskich, czyli dochod6éw netto plus amortyzacja i deprecjacja minus
+normalne wydatki kapitatowe. Christopher Davis, menedzer portfela w Davis
+Selected Advisors, ujat to tak: ,.le miatbyS got6wki w kieszeni na koniec roku,

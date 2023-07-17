@@ -1,0 +1,185 @@
+w przypadku spotek wyptacajacych dywidendy. Te bardziej zmienne dochody, prowadza generalnie do
+elastycznosci cen akcji, sprawiajac, ze opcje akcyjne dyrektoréw sa bardziej wartosciowe — stwarzajac wiecej
+mozliwosci, kiedy ceny akcji sa tymczasowo wysokie. Obecnie, okoto dwoch trzecich wynagrodzenia
+zarzqad6w, ma forme opcji oraz, innych niz pieniezne, premii. Przed 30 laty, co najmniej dwie trzecie tych
+wynagrodzen miato forme pienieznq.
+
+“= Sprawozdanie posrednie spétki Apple Computer z dorocznego spotkania w kwietniu 2001 roku, str. 8
+(dostepne na stronie www.sec.gov). Przyznanie opcji Jobsowi oraz posiadanie akcji jest dostosowane do
+pomnozenia akcji w stosunku dwa do jednego.
+
+2° Mowi sie, ze pewien wschodni monarcha zazadat kiedys od medrcoéw, by stworzyli dla niego zdanie, ktdre
+zawsze bedzie prawdziwe i bedzie pasowa¢ do kazdej chwili i sytuacji. Przedstawili mu zdanie: I to wszystko
+przeminie. Ilez ono wyraza! Jak napomina w godzinie dumy! Jak wspiera na dnie cierpienia! I to wszystko
+przeminie. A przeciez wy dajecie nam nadzieje, ze to nie do konica prawda.” — Abraham Lincoln, Address to
+the Wisconsin State Agricultural Society, Milwaukee, 30 wrzesnia 1859, Abraham Lincoln: Speeches and
+Writings, 1859-1865, Library of America, 1985, t. II, str. 101.
+
+# .Zdolnosé zarobkowa” jest pojeciem stworzonym przez Grahama, okreglajacym potencjalne zyski spotki albo,
+jak podkresla, kwote, ktdra firma ,,spodziewa sie uzyskiwa¢ rok po roku, jesli stan przedsiebiorstwa panujacy
+w tym okresie nie zmieni sie” (Security Analysis, wyd. 1934, str. 354). Niektore z wyktadéw Grahama
+wyjasniaja, ze miat on na mysli okres nie krotszy, niz piec lat. Mozna prosto i bez trudu, skalkulowac
+w przyblizeniu zdolnos¢ zarobkowa spotki w przeliczeniu na akcje, biorgc odwrotnos¢ wspdtczymnika
+cena/zysk. Mozna powiedziec, ze akcje o wspdtczynniku wynoszacym 11 maja zdolnos¢ zarobkowa
+wysokosci 9% (czyli i podzielone przez 11). Dzisiaj ,,zdolnos¢ zarobkowa” czesto okreslana jest jako
+»wydajnos¢ zarobkow”.
+
+“° Problem ten zostat obszernie oméwiony w Komentarzu do Rozdzialu 19.
+
+“° Graham elegancko podsumowat rozwazanie, ktére pojawia sie w jego wyktadzie wygtoszonym w 1972 roku:
+»Margines bezpieczenstwa, to réznica miedzy stosunkiem procentowym zyskow w przeliczeniu na akcje,
+posiadajacych okreslona cene, a stopa procentowa obligacji. Taki margines bezpieczenstwa, to rdznica, ktdra
+moze zlagodzi¢ niezadowalajace wyniki. Kiedy powstawato wydanie The Intelligent Investor, kt6re ukazato
+sie w 1965 roku, cena typowych akcji 11 razy przekraczata wartos¢ zysk6ow, dajac okoto 9% dochodu,
+w porodwnaniu do 4% w przypadku obligacji. W takiej sytuacji, margines bezpieczenstwa wynosit ponad 100%.
+Obecnie (w 1972 roku), nie ma r6éznicy miedzy wspdtczymnikiem dochod6éw w przeliczeniu na akcje i stopa
+procentowa akcji, zatem moim zdaniem, margines bezpieczenstwa nie istnieje (...), w przypadku akcji mamy do
+czynienia z odwrotnosciq marginesu bezpieczenstwa (...)”. Zob. Benjamin Graham, Thoughts on Security
+Analysis (zapis wyktadu w szkole biznesu przy Northeast Missouri State University, wygloszonego w marcu
+1972 roku), Financial History, nr 42, marzec 1991, str. 9.
+
+* Ten fragment, ktéry Graham napisat na poczatku 1972 roku, stanowi niesamowicie precyzyjny opis warunkéw
+panujacych na rynku na poczatku 2003 roku (wiecej szczeg6tow w Komentarzu do Rozdziatu 3.).
+
+* w ,,amerykaniskiej” ruletce, wiekszos¢é k6t zawiera 0 i 00, oprécz liczb od 1 do 36, co tacznie daje 38 pél.
+Kasyno oferuje maksymalnq wyptate w stosunku 35 do 1. A gdyby tak, na kazdy numer postawi¢ 1 dolara?
+Poniewaz kulka moze wpasc tylko na jedno z pol, mozesz wygrac¢ 35 dolardéw, ale straci¢ po 1 dolarze
+postawionym na kazde z 37. pozostatych pol, zatem twoja strata netto wynosi 2 dolary. R6znica tych 2
+dolaréw (czyli 5,26% catosci kwoty 38 dolaréw zaktadu), stanowi ,,przewage” kasyna, dajaca pewnosc, ze
+przecietni gracze zawsze beda traci¢ wiecej, niz zdotaja wygrac. W interesie gracza jest obstawia¢ tak rzadko,
+jak to moZliwe, w interesie kasyna jest, by koto sie krecito. Podobnie inteligentny inwestor, powinien stara¢ sie,
+by liczba spdtek, ktdre oferuja ,,wieksza szanse zysku, niz straty”, byta jak najwieksza. Dla wiekszosci
+inwestordw, r6znicowanie jest najprostszym i najtanszym sposobem powiekszenia marginesu bezpieczenstwa.
+
+* Graham twierdzi, ze nie ma dobrych czy ztych akcji; sq tylko tanie i drogie. Nawet najlepsza spétka staje sie
+»zdradliwa”, kiedy ceny jej akcji ida za bardzo w gore, podczas gdy udziaty najgorszej spotki warto kupic,
+jesli ich cena zejdzie wystarczajqco nisko.
+
+* Wszyscy ludzie, ktérzy uznali akcje sp6tek z branzy technologicznej i telekomunikacyjnej za ,,cos pewnego”
+na przetomie 1999 i 2000 roku, kiedy ich cena byta piekielnie zawyzona, w 2002 roku rezygnowali z nich
+jako ,,zbyt ryzykownych” — nawet jezeli, mowiac stowami Grahama, ,,obnizenie ceny 0 okoto 90% sprawito,
+ze wiele tych akcji stato sie niezwykle atrakcyjnych i catkiem bezpiecznych”. Podobnie, analitycy z Wall
+Street, mieli zawsze sktonnos¢ nazywac akcje ,korzystnym zakupem”, kiedy ich cena jest wysoka,
+a przyczepia¢ im etykietke ,,zdradliwych”, gdy ich cena spada — doktadne przeciwienstwo tego, co
+nakazywatby Graham (i zwykty zdrowy rozsadek). Tak, jak zreszta w catej tej ksiazce, Graham oddziela
+spekulacje — albo kupowanie w nadziei na wzrost cen akcji — od inwestowania, czyli dokonywania zakupu
+w oparciu o wartos¢ spolki.
+
+* Graham uzywa pojecia ,,warranty opcji akcyjnych” jako synonimu ,,warrant6w”, papier6w wyemitowanych
+bezposrednio przez spdtke, i dajacych ich posiadaczowi prawo do nabycia akcji tej spotki po wczesniej
+ustalonej cenie. Warranty zostaly niemal catkowicie wyparte przez opcje akcyjne. Graham zartuje, ze chciat
+zaszokowac¢ tym przyktadem, poniewaz, nawet w jego czasach, warranty byly uwazane za jedno z najbardziej
+zaniedbanych obrzezy rynku (zobacz: Komentarz do Rozdziatu 16.).
+
+* Przytoczone za konsultantem inwestycyjnym, Charlesem Ellisem (Jason Zweig, Wall Street's Wisest Man,
+Money, czerwiec 2001, str. 49-52).
+
+*° W cenie akcji JDS Uniphase zostaty uwzglednione pézniejsze pomnozenia.
+
+* Nikt, kto rzetelnie przeanalizowat odpowiedz na to pytanie i szczerze zgodzit sie z rezultatem, w zyciu nie
+sprzedawat ani nie kupowat papier6w wartosciowych w poczatkowej ofercie publicznej.
+
+*° Paul Slovic, Informing and Educating the Public about Risk, Risk Analysis, vol. 6, nr 4, 1986, str. 412.
+
+* The Wager, Blaise Pascal, Pensées, Penguin Books, Londyn-Nowy Jork 1995, str. 122-125; Peter L.
+Bernstein, Against the Gods, John Wiley&Sons, Nowy Jork 1996, str. 68-70; Peter L. Bernstein, Decision
+Theory in Iambic Pentameter, Economics & Portfolio Strategy, 1 stycznia 2003, str. 2.
+
+“° Ci dwaj partnerzy, o ktérych Graham pisze tak skromnie, to Jerome Newman ion sam.
+
+*' Graham opisuje sp6tke Government Employees Insurance Co., czyli GEICO, w kt6érej on i Newman kupili
+w 1948 roku 50% udziatow. Miato to miejsce mniej wiecej w tym samym czasie, kiedy Graham konczy} pisa¢
+The Intelligent Inwestor. Kwota 712 500 dolaréw, ktora zainwestowali w GEICO stanowita wowczas prawie
+25% ich kapitatu. Przez wiele lat Graham byt cztonkiem rady nadzorczej GEICO. Szczesliwym zbiegiem
+okolicznoSsci, najwiekszy z uczni6w Grahama, Warren Buffett, sam postawit na GEICO w 1976 roku, kiedy ta
+wielka kompania ubezpieczeniowa stata u progu bankructwa. Okazato sie to zreszta jedna z najlepszych
+inwestycji Buffetta.
+
+“ Z powodu interpretacji przepis6w prawnych, Graham i Newman zostali zmuszeni przez U.S. Securities
+& Exchange Commission do rozdzielenia akcji Graham-Newman GEICO Corp. miedzy akcjonariuszy.
+Inwestor, ktory na poczatku 1948 roku miat 100 akcji tej spdtki (wartych 11 413 dolaréw) i dotrwal do
+dystrybucji GEICO, w roku 1972 mogt mie¢ juz 1,66 mln dolaréw. Do ,,pozniej zalozonych oddziat6w”
+GEICO nalezaty Government Employees Financial Corp. i Criterion Insurance Co.
+
+* Anegdota Grahama przypomina réwniez, ze ci z nas, kt6rzy nie sq tak znakomici, jak on, musza zawsze
+rdznicowac¢ swoje portfele, aby chroni¢ sie przed ryzykiem wktadania zbyt wielu pieniedzy w akcje jednego
+rodzaju. Kiedy sam Graham przyznaje, ze GEICO byta ,,lutem szczescia”, jest to sygnat, ze wiekszos¢ z nas
+nie moze liczy¢ na to, ze bedzie w stanie znalez¢ tak Swietna okazje. Aby uchroni¢c inwestowanie od popadania
+w hazard, musisz r6znicowac.
+
+* Dante Alighieri, Boska Komedia, Pieklo, pies XXVI, w. 112-125, ttum. Edward Porebowicz, PIW, Warszawa
+1975, str. 137 (w oryginale przeklad Jasona Zweiga — przyp. ttum.).
+Table of Contents
+Strona tytutowa
+Strona redakcyjna
+Motto
+Wstep do wydania polskiego
+Warren E. Buffett Wstep do wydania czwartego
+Jason Zweig Stowo o Benjaminie Grahamie
+Wprowadzenie Jaki jest cel tej ksiqzki?
+Komentarz do wprowadzenia
+ROZDZIAE 1 Inwestycje a spekulacje — wyniki, kt6rych spodziewa sie inteligentny
+inwestor
+Komentarz do rozdziatu 1
+ROZDZIAL 2 Inwestor a inflacja
+Komentarz do rozdziatu 2
+ROZDZIALE 3 Sto lat dziej6w gieldy. Poziom cen akcji na poczatku 1972 roku
+Komentarz do rozdziatu 3
+ROZDZIAE 4 Og6lna polityka portfela: inwestor defensywny
+Komentarz do rozdziatu 4
+ROZDZIAL 5 Inwestor defensywny i akcje zwykte
+Komentarz do rozdziatu 5
+ROZDZIAE 6 Polityka portfela inwestora przedsiebiorczego: ujecie negatywne
+Komentarz do rozdziatu 6
+ROZDZIAE 7 Polityka portfelowa dla inwestora przedsiebiorczego: strona dodatnia
+Komentarz do rozdziatu 7
+ROZDZIAE 8 Inwestor a wahania rynkowe
+Komentarz do rozdziatu 8
+ROZDZIAE 9 Inwestowanie w fundusze inwestycyjne
+Komentarz do rozdziatu 9
+ROZDZIAE 10 Inwestor i doradcy
+Komentarz do rozdziatu 10
+ROZDZIAE 11 Analiza papier6w wartosciowych dla laika — podejscie ogélne
+Komentarz do rozdziatu 11
+ROZDZIAE 12 Co braé pod uwage przy zyskach na jedna akcje?
+Komentarz do rozdziatu 12
+ROZDZIAE 13 Poréwnanie czterech spétek gietdowych
+Komentarz do rozdziatu 13
+ROZDZIAEL 14 Wybor akcji dla inwestora defensywnego
+Komentarz do rozdziatu 14
+ROZDZIAEL 15 Wybor akcji dla inwestora aktywnego
+
+Komentarz do rozdziatu 15
+
+ROZDZIAE 16 Emisje wymienialne i warranty
+
+Komentarz do rozdziatu 16
+
+ROZDZIAE 17 Cztery nadzwyczaj pouczajace historie
+
+Komentarz do rozdziatu 17
+
+ROZDZIAEL 18 Poréwnanie osmiu par spétek
+
+Komentarz do rozdziatu 18
+
+ROZDZIAE 19 Akcjonariusze i zarzady — polityka dywidend
+
+Komentarz do rozdziatu 19
+
+ROZDZIAL 20 _,,Margines bezpieczenstwa” jako _ podstawowa_ __ koncepcja
+inwestowania
+
+Komentarz do rozdziatu 20
+
+Postowie
+
+Komentarz do posLowia
+
+Dodatki
+
+Przypisy koncowe
+
+Jason Zweig Podziekowania
+
+Przypisy

@@ -1,0 +1,446 @@
+ROZDZIAE 11
+Analiza papierOw wartosciowych dla laika — podejscie ogdlne
+
+Obecnie, zajmowanie sie sporzadzaniem analiz finansowych uchodzi za
+pelnoprawna i perspektywiczna profesje, a przynajmniej ,pdi profesje”. Rézne
+towarzystwa analitykéw, zrzeszonych w National Federation of Financial Analysts,
+licza juz w sumie ponad 13 000 cztonkdéw, z kt6érych wiekszosé, dzieki tej
+dziatalnosci zarabia na zycie. Maja swoje podreczniki, kodeks etyczny
+i kwartalnik.“ Maja tez wiele wspdélnych, nierozwiazanych probleméw. W ostatnich
+latach pojawita sie tendencja do zastepowania generalnej ,,analizy papieréw
+wartoSciowych” ,,analiza finansowa”. To drugie okreslenie ma szersze znaczenie,
+pasuje do zakresu pracy starszych analityk6w z Wall Street. Lepiej ograniczyé
+rozumienie analizy papieré6w wartosciowych do badan oraz ocen akcji i obligacji,
+natomiast do analizy finansowej zalicza¢ ponadto opracowywanie polityki
+inwestycyjnej (dobdr portfela) i pewien zakres ogélnej analizy gospodarczej.'
+W tym rozdziale uzyjemy takiego okreSlenia, kt6re bedzie akurat lepiej pasowac
+(do przedstawianej sprawy), ale nacisk potozymy na analize papierdw
+wartosciowych.
+
+Analityk papier6w wartosciowych zajmuje sie przesztoscia, terazniejszoscia
+i przysztoscia okreslonych akcji albo obligacji. Opisuje dziatalnos¢ spdtki,
+podsumowuje jej wyniki i pozycje finansowa, wskazuje mocne i stabe strony, jej
+mozliwosci, zwiazane z firma ryzyko, szacuje potencjalny zysk przy rdéznych
+zatozeniach. Opracowuje ziozone pordwnania réznych spdtek albo jednej spdtki
+w poszczegélnych okresach dziatalnosci. Wyraza tez swoja opinie na temat
+bezpieczenstwa jej papier6w — w przypadku obligacji i akcji uprzywilejowanych,
+a w przypadku akcji zwyktych wypowiada sie w kwestii atrakcyjnosci ich zakupu.
+
+Stosuje caty szereg technik — od najbardziej elementarnych do niezwykle
+skomplikowanych. Moze znacznie modyfikowa¢ dane z rocznego sprawozdania
+spotki, chociaz nosi ono imprimatur koncesjonowanego ksiegowego. Szuka w tych
+raportach szczegélnie tego, co moze mie¢ inne znaczenie, niz wydaje sie na
+pierwszy rzut oka.
+
+Analityk papier6w wartosciowych opracowuje i stosuje normy bezpieczenstwa,
+na podstawie kt6rych mozemy wysnuwac wnioski, czy dane obligacje albo akcje
+uprzywilejowane sq na tyle rzetelne, aby w nie zainwestowa¢. Normy te odnosza sie
+przede wszystkim do dotychczasowych srednich zyskéw, ale biora pod uwage takze
+strukture kapitatu, kapitat obrotowy, wartos¢ aktywow i inne czynniki.
+
+Do tej pory, w odniesieniu do akcji zwyktych, analityk papieré6w wartoSciowych
+rzadko dysponowat standardami wartosci, zdefiniowanymi tak dobrze, jak
+w przypadku standardéw bezpieczenstwa obligacji i akcji uprzywilejowanych.
+Przewaznie zadowalat sie podsumowaniem dotychczasowych wynikéw, mniej lub
+bardziej ogdélna analiza na przysztosé — ze szczegdlInym uwzglednieniem
+najblizszych 12 miesiecy — oraz dosé arbitralnym wnioskiem. Ten ostatni czesto by!
+— i nadal jest — wyciagany czesciowo na podstawie notowan i wykresOw
+gieldowych. Ale w kilku ostatnich latach, praktykujacy analitycy wiele uwagi
+poswiecili problemom oceny wzrostu wartosci akcji. Wiele z nich sprzedawano po
+cenach tak wyg6rowanych w relacji do bytych i obecnych zysk6éw, ze osoby, kt6re
+je rekomendowaly, czuty sie w obowigqzku uzasadnia¢ ich zakup szczegétowymi
+prognozami spodziewanych zyskéw, nawet w dalekiej przysziosci. Opracowywane
+oceny, wspierano niestychanie skomplikowanymi technikami matematycznymi.
+
+Tymi technikami, w skréconej wersji, zajmiemy sie nieco pézniej. Tutaj musimy
+zwroécié uwage na pewien ktopotliwy paradoks, a mianowicie, ze matematyczne
+wyceny najbardziej sprawdzaja sie tam, gdzie mozna je uzna¢ za najmniej
+wiarygodne. Poniewaz im bardziej wycena zalezy od przewidywan na przysztosé —
+a mniej jest zwiazana z danymi prezentowanymi przez dawne wyniki — tym bardziej
+staje sie podatna na pomytki i powazne bledy. Duza czes¢ wartosci, stosowanych
+przy wyliczaniu wzrostu akcji, pochodzi z przewidywan na przysztos¢, ktore
+znacznie r6znia sie od wynikéw dotychczasowych — wyjatkiem jest chyba tylko sam
+wskaznik wzrostu. Mozna zatem powiedzie¢, ze dzisiaj analitycy papierd6w
+wartoSciowych sa zmuszani do bycia matematykami i ,naukowcami” w sytuacjach,
+kt6re nie poddaja sie scistym wyliczeniom.~
+
+Wracajmy jednak do omawiania wazniejszych elementéw i technik analizy
+papieréw wartosciowych. Ten skondensowany opis jest przeznaczony dla inwestora
+nieprofesjonalnego. Powinien on rozumie¢, 0 czym méwi analityk i do czego
+zmierza. Poza tym, powinien, w miare mozliwosci, umie¢ odrdéznié analize rzetelna
+od nieprofesjonalnej.
+
+Analiza papieréw wartosciowych dla inwestora laika, zaczyna sie od interpretacji
+rocznego sprawozdania finansowego spotki. Tematem tym zajelismy sie w osobnej
+ksiazce The Interpretation of Financial Statements.’ Nie uznajemy za konieczne
+poruszania tych kwestii jeszcze raz w tym rozdziale, zwtaszcza, ze niniejsza ksiqzka
+ktadzie nacisk raczej na reguty i metody niz na informacje i opisy. Pozwolimy wiec
+sobie przejs¢ do dwoch zasadniczych pytan stojacych za doborem inwestycji. Jakie
+sa podstawowe proby sprawdzajace bezpieczenstwo obligacji spdtek i akcji
+uprzywilejowanych? Jakie najwazniejsze czynniki sktadaja sie na ocene akcji
+zwyktych?
+Analiza obligacji
+Najbardziej wiarygodna i dlatego najbardziej rzetelna gataz analizy papieréw
+wartoSciowych, zajmuje sie bezpieczenstwem, czyli jakoscia obligacji i oceng
+inwestycyjna akcji uprzywilejowanych. Podstawowe kryterium opisujace obligacje
+spdtek, brzmi — ile razy catkowite koszty odsetek zostaty pokryte przez zyski,
+osiagane na przestrzeni kilku lat w przesztosci. A w= przypadku akcji
+uprzywilejowanych — ile razy zostaty pokryte, razem wziete, oprocentowanie
+obligacji i dywidendy od akcji uprzywilejowanych.
+Tabela 11.1. Zalecane minimum ,,pokrycia” dla obligacji i akcji uprzywilejowanych
+A. Obligacje inwestycyjne
+Minimalna stopa zysku do sumy statych optat
+przed opodatkowaniem po opodatkowaniu
+: érednia alternaty wa: érednia alternaty wa:
+YP . pomiar na ich pomiar na
+przedsiebiorstwa z ostatnic podstawie z ostatnic podstawie
+siedmiu : siedmiu .
+,najstabszego ,Najstabszego
+lat ” lat 0
+roku roku
+Przedsiebiorstwo
+uzytecznosci 4 razy 3 razy 2,65 razy 2,10 razy
+publicznej
+detaliczny
+B. Uprzywilejowane akcje inwestycyjne
+Takie same sumy minimalnych liczb, jak podane powyzej, mozna przedstawi¢ jako wskaznik zyskéw|
+przed opodatkowaniem sumy oplat, plus dwukrotnos¢ dywidendy z akcji uprzywilejowanej.
+Wyjasnienie: Na uwzglednianie dwukrotnosci dywidendy z akcji uprzywilejowanych pozwala fakt, ze|
+dywidendy z akcji uprzywilejowanych nie odejmuje sie od podatku dochodowego, od kt6rego odejmuje
+sie optaty.
+C. Inne kategorie obligacji i akcji uprzywilejowanych
+Podanych wyzej standardéw nie odnosi sie do: wtascicieli przedsiebiorstw uzytecznosci publicznej,
+przedsiebiorstw finansowych i firm zajmujacych sie nieruchomosciami. Wymogi tych specjalnych kategoril
+zostaty tutaj pominiete.
+
+Doktadne standardy réznia sie w zaleznosci od opinii autorytet6w. Poniewaz
+proby te sq od samego poczatku arbitralne, nie ma mozliwosci precyzyjniejszego
+wyznaczenia odpowiednich kryterid6w. W poprawionym wydaniu, z 1961 roku,
+ksiazki Security Analysis, zalecamy pewne standardy ,,pokrycia” przedstawione
+w Tabeli 11.1
+Nasza podstawowa proba, opiera sie tylko na przecietnych zyskach w ciagu kilku
+lat. Inni specjalisci wymagaja takze, aby ukazane byto minimalne pokrycie
+w kazdym uwzglednianym roku. My przyjmujemy, ze alternatywe dla préby
+siedmioletniej stanowi proba ,,najgorszego roku”.
+
+Mozna wyrazi¢ poglad, ze znaczny wzrost oprocentowania obligacji od 1961
+roku, uzasadnia redukcje wysokosci wymaganego pokrycia. Oczywiscie, spdtce
+przemystowej bytoby duzo trudniej wykaza¢ siedmiokrotne pokrycie koszt6w
+odsetek przy 8% niz przy 4'/,%. Obecnie, aby wyjs¢ naprzeciw zmienionej sytuacji,
+proponujemy alternatywny wym6g dotyczacy procentu zyskéw do catej sumy
+zadtuzenia. W przypadku spdtki przemystowej, liczba ta mogtaby wynies¢ 33%
+przed opodatkowaniem, w przypadku przedsiebiorstwa uzytecznosci publicznej —
+20%, w przypadku przedsiebiorstwa kolejowego — 25%. Trzeba tutaj pamieta¢, ze
+wskaznik sum rzeczywiscie wyptacanych przez wiekszos¢ spdtek z catkowitego
+zadtuzenia, wynosi znacznie mniej niz obecne 8%, poniewaz na ich korzys¢ dziataja
+starsze obligacje oprocentowane nizej. Wymdg_,,najgorszego roku”, mozna
+umieSsci¢ na poziomie dwoch trzecich wymogu siedmioletniego.
+
+Obok préby pokrycia zyskéw, powszechnie stosuje sie jeszcze kilka innych.
+Wsréd nich nastepujace:
+
+1. Wielkosé przedsiebiorstwa. Istnieje pewien standard dotyczacy minimum
+obrotéw przedsiebiorstwa — réznego dla przemystu, uzytecznosci publicznej i kolei
+—albo minimalnej liczby ludnosci w przypadku miast.
+
+2. Wskaznik akcje/zadtuzenie. To stosunek ceny rynkowej akcji-juniorek™ do
+catkowitej sumy nominalnej zadtuzenia lub zadtuzenie plus akcje uprzywilejowane.
+Jest to pewien miernik zabezpieczenia albo ,,poduszki”, w postaci juniorek, kt6re
+muszq braé na siebie wszelkie ewentualne niepowodzenia. Czynnik ten, zawiera
+gieldowa wycene perspektyw danego przedsiebiorstwa.
+
+3. Wartosé majqtku. Dawniej wyceniana lub wykazywana w_ zestawieniu
+bilansowym  wartos¢é aktywdw,  stanowilta najwazniejsze zabezpieczenie
+emitowanych obligacji. DoSwiadczenie pokazato, ze w wiekszosci przypadkéw,
+bezpieczenstwo wynika z potencjatu zyskéw i jesli go brakuje, aktywa tracq
+wiekszoS¢€ swojej wartosci. Mimo to, ocena wartoSci nadal jest waznym testem
+bezpieczenstwa obligacji oraz akcji uprzywilejowanych w trzech rodzajach
+przedsiebiorstw: uzytecznosci publicznej (bo rentownos¢ moze w duzej mierze
+zalezeé od majatku), firmach zajmujacych sie nieruchomosciami i firmach
+inwestycyjnych.
+
+W tym momencie czujny inwestor powinien zapyta¢c: ,,Na ile mozna polegaé na
+testach bezpieczenstwa, ktdre oceniajqa przeszte i biezace wyniki, wiedzac, ze
+wyptata odsetek i zasadnicza wartos¢ inwestycji zalezq od tego, co przyniesie
+przyszios¢?”. Odpowiedz mozna znalezé tylko opierajac sie na doSwiadczeniu.
+Dzieje inwestycji pokazuja, ze obligacje i akcje uprzywilejowane, ktdre przeszty
+ostre proby bezpieczenstwa w oparciu o przesztos¢, w przysztosci, w zdecydowanej
+wiekszosci przypadkéw, z powodzeniem stawialy czota zmiennym kolejom losu.
+Wyraznie wida¢ to na szerokim polu obligacji kolejowych, na kt6rym bankructwa
+i powazne straty zdarzaja sie z przerazajaca czestotliwoscia. Niemal w kazdym
+przypadku koleje, kt6re popadaty w tarapaty, przez diugi okres wypuszczaly za
+duzo obligacji, wykazywaly za mate pokrycie wobec statych obciqazen i w koncu
+byty odrzucane przez inwestordw, ktdrzy poddali je ostrym prdébom
+bezpieczenstwa. I odwrotnie — prawie kazde przedsiebiorstwo kolejowe, jesli
+przeszto takie testy, umialo wywina¢ sie z ktopot6w finansowych. Nasze opinie
+wyraznie potwierdza finansowa historia wielu przedsiebiorstw kolejowych, ktére
+przeszty reorganizacje w latach 40. i 50. Wszystkie — z jednym wyjatkiem —
+zaczynaty kariere ze statymi obciazeniami zredukowanymi do poziomu, na kt6rym
+wymodg biezacego pokrycia, dla statego oprocentowania, byt wysoki,
+a przynajmniej dosé znaczny. Ow wyjatek to New Haven Railroad, kt6re w roku
+1947 — roku swej reorganizacji, miato zyski tylko 1,1 razy wyzsze od swoich
+nowych obciazen. W konsekwencji, gdy inne przedsiebiorstwa kolejowe zdotaty
+przetrwac trudne czasy bez ktopotéw z wyplacalnoscia, New Haven w 1961 roku
+dostato sie pod zarzad syndyka masy upadtosciowej (po raz trzeci).
+
+W Rozdziale 17. omawiamy pewne aspekty bankructwa Penn Central Railroad,
+kt6re w 1970 roku wstrzasneto finansjera. W tym przypadku, kluczowy byt! fakt, ze
+pokrycie statych zobowiazan juz w 1965 roku, nie spetniato konserwatywnych
+standardéw. Dlatego roztropny inwestor unikat lub pozbywat sie ich obligacji, na
+diugo przed upadkiem finansowym.
+
+Nasze spostrzezenia w kwestii przydatnosci przesztych wynikéw przy ocenie
+przysztego bezpieczenstwa, odnosza sie, i to w jeszcze wiekszym stopniu, do
+przedsiebiorstw uzytecznosci publicznej, kt6re stanowia najwazniejszy obszar dla
+inwestycji w obligacje. Ustanowienie przymusowego zarzqadu masy upadtosciowej,
+solidnie finansowanego przedsiebiorstwa uzytecznosci publicznej, jest prawie
+niemozliwe. Odkad powotano Securities and Exchange Commission®, i po
+upadkach wiekszosci holdingéw takich firm, finanse przedsiebiorstw uzytecznosci
+publicznej zostaty uzdrowione, a bankructwa staty sie czyms zupelnie nieznanym.
+W latach 30., finansowe ktopoty przedsiebiorstw gazowniczych i energetycznych,
+niemal w stu procentach mozna przypisa¢ ekscesom finansowym i blednemu
+zarzadzaniu, co wywarto wyrazny wptyw na struktury kapitatowe tych instytucji.
+Proste, lecz ostre testy bezpieczenstwa, ostrzegtyby inwestordw przed emisjami
+papierdéw, kt6re pdzniej staty sie niesptacalne.
+
+R6zne emisje obligacji przemystowych mialy rozmaite dzieje. Chociaz sektor
+przemystowy, jako catos¢, wykazywat lepszy wzrost potencjatu zyskéw niz koleje
+lub przedsiebiorstwa uzytecznosci_ _—publicznej, poszczegdlne _ branze
+i przedsiebiorstwa osiagaty znacznie mniejszqa stabilnos¢. Dawniej istnialy wiec
+przekonujace powody, aby ogranicza¢é zakupy obligacji i akcji uprzywilejowanych,
+emitowanych przez firmy przemystowe, do takich spdétek, kt6re nie tylko byty
+wieksze, ale takze w przesztosci wykazywaty sie umiejetnosciqa utrzymania
+stabilizacji w okresach powaznej recesji.
+
+Po 1950 roku, niewiele obligacji przemystowych okazato sie niewyptacalnych,
+ale czesciowo nalezy to przypisywa¢ temu, ze przed diugi okres nie dochodzito do
+recesji. Od 1966 roku, sytuacja finansowa wielu spétek zaczeta sie pogarszac¢.
+Znaczna czes¢ trudnosci wynikata z prowadzenia nierozsadnej ekspansji. Z jednej
+strony, powodowato to powiekszenie kredytow bankowych i diugoterminowego
+zadtuzenia, z drugiej — czesto zamiast spodziewanego zysku, notowano strate.
+Wedlug wyliczen z poczatku 1971 roku, w ostatnich siedmiu latach wyptaty
+oprocentowania wszystkich firm nie finansowych, wzrosly z 9,8 mld dolaréw
+w 1963 roku do 26,1 mld dolaréw w 1970 roku. Wyptaty te pochtonety w 1970 roku
+29% sumy zyskéw sprzed wyptaty odsetek i zaptacenia podatkéw, a w 1963 roku
+tylko 16%, Oczywiscie, w niektérych pojedynczych firmach, obciazenie wzrosto
+jeszcze bardziej. Na porzadku dziennym byty przedsiebiorstwa, kté6re wypuscity za
+wiele obligacji. Nie ma zadnych powodo6w, aby powstrzymywa¢ sie od ostrzezenia
+zawartego w wydaniu z 1965 roku:
+
+Nie jestesmy sklonni sugerowac inwestorowi, aby liczyt na to, ze korzystna sytuacja bedzie trwata
+w nieskonczonos¢ i dlatego moze zlagodzic¢ standardy doboru obligacji tak przemystowych, jak ikazdego
+innego sektora.
+Analiza akcji zwyklych
+Idealna analiza akcji zwyktych sprowadza sie do wyceny, kt6ra mozna poréwnac¢ do
+biezacej ceny i okresli¢, czy dany papier jest na tyle atrakcyjny, ze warto go kupic.
+Z kolei wycena, powinna by¢ wyprowadzona z oszacowania Srednich zyskéw na
+przestrzeni kilku lat w przysztosci, a potem przemnozona przez odpowiedni
+,czynnik kapitalizacji”.
+
+Obecna procedura szacowania przyszltego potencjatu zyskéw, zaczyna sie od
+pochodzacych z przesztosci danych o obrocie, uzyskiwanych cenach i marzy zysku
+przedsiebiorstwa. Wtedy, na podstawie zatozen o wielkosci zmiany obrotéw
+i poziomu ceny, projektuje sie przyszty obrét liczony w dolarach. Te zas
+wyliczenia, opieraja sie na ogdlnych prognozach gospodarczych odnosnie
+produktu krajowego brutto oraz na specjalnych przeliczeniach dopasowanych do
+branzy albo rozpatrywanego przedsiebiorstwa.
+
+Ilustracja tej metody wyceny moze by¢ przyktad z wydania z 1965 roku,
+uaktualniony o pézniejsze dane. Wiodacy serwis inwestycyjny Value Line, dokonuje
+prognoz przysztych zyskéw i dywidend za pomocg opisanej wyzej procedury,
+a potem wyprowadza liczbe ,,potencjatu cenowego” (czyli projektowanej wartosci
+rynkowej), stosujac pewien wz6r wyceny kazdej emisji, w oparciu, przede
+wszystkim, o pewne relacje z przesztosci. W Tabeli 11.2. przedstawiamy prognozy
+na lata 1967-1969, sporzadzone w czerwcu 1964 roku i poréwnujemy je z zyskami
+oraz Sredniqa cena rynkowa z 1968 roku (kt6ra odpowiada mniej wiecej cenie za
+okres 1967-1969).
+
+Prognozy dla wielu spdtek jednoczesnie nie wypadajqa najgorzej. Podobne
+przewidywania robione szesé lat wczesniej, podeszty do zyskéw i dywidend zbyt
+optymistycznie. Ale wyréwnato to zastosowanie niskiego mnoznika i dlatego liczba
+,potencjatu. cenowego” wypadta na mniej wiecej tym samym poziomie, co
+faktyczna Srednia cena w 1963 roku.
+
+Czytelnik zwréci uwage, ze sporo poszczegélnych prognoz bylto mniej
+precyzyjnych. To potwierdza nasz ogélny poglad, ze na szacunkach dla grup
+przedsiebiorstw mozna polega¢ bardziej niz na szacunkach dla pojedynczych firm.
+By¢é moze idealnym rozwiqzaniem bytoby, gdyby analityk wybierat trzy lub cztery
+firmy, kt6rych przysztosé — jak mu sie wydaje — zna najlepiej, i swoje oraz klient6w
+zainteresowanie, koncentrowal na prognozach wtasnie dla nich. Niestety, wydaje
+sie, ze nie da sie wczesniej odrdéznic¢, na kt6rych indywidualnych prognozach mozna
+polegaé, a kté6re obciazone sa duzym prawdopodobienstwem bledu. Oto zasadniczy
+powod, dla ktérego fundusze inwestycyjne stosuja szeroka dywersyfikacje.
+Niewatpliwie, lepiej koncentrowaé sie na akcjach jednej spétki, o kt6rych wiadomo,
+ze okaza sie wysoce zyskowne, niz na niejednoznacznych wynikach dla
+usrednionych danych, tylko dla dobra dywersyfikacji.« Ale tak sie nie da, bo na
+takich danych nie mozna polegac. A szeroka dywersyfikacja, sama w sobie, cieszy
+sie na Wall Street dostateczng reputacja.“
+
+Tabela 11.2. Dow Jones Industrial Average (prognozy Value Line na lata 1967-1969, sporzadzone
+w polowie 1964 roku, porownane z rzeczywistymi wynikami z 1968 roku)
+prognozowane rzeczywiste przewidywana c
+a ce
+Allied 1 -
+ee ee ee ee
+Aluminum 0 .
+ee ce
+a
+Can
+American 0 z
+re ee ee ee eee
+American 0 a
+a ee
+[—Amconts | 600 fa fam [7 «iY
+a a. |. | |
+Bethlehem 3,25 3,55 36% 45 :
+
+Steel
+
+Ca (A A
+[Duron [850-72 * 23 P40 —SdYCS
+
+Eastman -
+Ser [oe poe pp» |
+
+General 4,50 3,95 ¢
+
+Electric
+
+General 4,70 4,16 88 71 é
+
+Foods
+ce a
+
+Motors
+pew fos pe p= fe |.
+
+Tire
+ce a
+
+Harvester
+
+Internat. 5,20 3,86 79 83 ;
+
+Nickel ; ; ’
+cee ce ce
+
+Paper
+
+Johns 9 .
+re a
+
+Owens-Il. 5,25 6,20 100 1
+
+Glass
+
+Procter c
+
+Sears
+ree ee ec
+
+Standard Oil 5,25 5,59 64% €
+
+of Cal.
+
+Standard Oil -
+ee ee cc cc
+Se
+
+Union 0 c
+sc
+
+United 4,00 7,65 49% 50 1
+
+Aircraft
+
+Ussee [asf a0 ‘| sm Pa —*idYS
+
+Westinghouse 3,25 3,49 30% 50 é
+
+Elec.
+
+F—wootworn | 228 +P 0d) Se
+138,25 149,20 2222 2186 |:
+DJIA (raze c
+DJIA
+
+rzeczywisty 57,89 ¢
+
+1968
+
+DJIA
+
+rzeczywisty 56,26
+
+1967-1969
+a Dostosowywany do podziatéw akcji od 1964 roku.
+b Srednia w latach 1967-1969.
+c R6znica spowodowana zmiana podzielnika.
+Czynniki wplywajace na stope kapitalizacji
+Chociaz srednie przyszte zyski uchodza za najwazniejszy wyznacznik wartosci,
+analitycy biora pod uwage takze inne czynniki natury mniej lub bardziej
+sprecyzowanej. Wiekszos¢ z nich, rozpatruje stope kapitalizacji, kt6ra w zaleznosci
+od ,,jakoSci” akcji, moze znacznie sie rdzni¢. A zatem, dwie spétki moga mie¢ taka
+samq spodziewanq wartos¢ zyskéw na akcje w latach 1975-1973, czyli, powiedzmy,
+4 dolary — jednak analitycy jednej przyznaja wartosé tylko 40, a drugiej az 100.
+Pozwolimy sobie teraz na krétkie rozpatrzenie czynnikéw, wplywajacych na
+rozbieznosci mnoznikoéw.
+
+1. Og6dlne perspektywy dlugoterminowe. O tym, co wydarzy sie w odlegtej
+przysztosci, nie wie nikt, ale analitycy i inwestorzy niekoniecznie podzielaja ten
+poglad. Ich opinie stanowia odzwierciedlenie znacznych rdznic miedzy
+wskaznikami cena/zysk poszczegdélnych spétek i catych grup branzowych.
+Przytoczymy tu fragment z wydania z 1965 roku:
+
+W 1963 roku, spdtki chemiczne z DJIA, byty sprzedawane po znacznie wyzszym mnozniku niz spotki
+naftowe, co oznaczato znacznie lepsze prognozy dla tych pierwszych niz dla drugich. Czesto, te
+wywolywane przez gielde rdznice, majq silne uzasadnienie, ale jesli opieraja sie przede wszystkim na
+dotychczasowej dziatalnosci, to rownie dobrze moga byé stuszne, jak iniestuszne.
+Tabela 11.3. Wyniki spélek chemicznych i naftowych z DJIA - rok 1970 a rok 1964
+1963 | 1970
+cena na zysk wskaznik cena na zysk wska
+zamknie cie na cena/zys zamknie cie na cena
+akcje akcje
+Spotki chemiczne:
+Allied 1 .
+Union 1
+| l| l| l| 25,3 sr. || I |
+Spotki naftowe:
+ee ee ee
+Oil of 59, 4,50 13,2x 544, 5,36 10,2:
+Cal.
+ee ee ee
+Oil of 76 4,74 16,0 73'/, 5,90 12,4
+NJ.
+[| texacobf] 35 Ts Pies Pas te Pt
+po sc PO
+a 1963 dane dopasowane do podziatu akcji General Motors. b 1963 dane dopasowane do kolejnych podziatow.
+Przytaczamy tutaj, w Tabeli 11.3., dane z konica 1963 roku, na temat zaliczanych do
+DJIA spétek chemicznych i naftowych, a potem Sledzimy ich wyniki az do konca
+1970 roku. Zobaczymy, ze przedsiebiorstwa chemiczne, mimo _ wysokich
+mnoznikéw w okresie po 1963 roku, praktycznie nie osiagnety wzrostu zyskdéw.
+Przedsiebiorstwa naftowe radzity sobie znacznie lepiej niz przedsiebiorstwa
+chemiczne, mniej wiecej na poziomie wzrostu przypisywanego im we wskaznikach
+z 1963 roku’ W ten sposdb przyktad naszej spétki chemicznej udowodnit, ze
+wysoki poziom mnoznika byt blednym uzasadnieniem.“
+2. Zarzqd. Na Wall Street stale méwi sie na ten temat, ale w gruncie rzeczy niewiele
+z tego wynika. Dopoki nie zostana opracowane i wdrozone rzetelne, ilosciowe testy
+kompetencji zarzadu, czynnik ten pozostanie niejasny. Mozna zaktada¢, ze spdtka
+odnoszaca wybitne sukcesy, ma niezwykle dobry zarzad. To ujawnilo sie juz
+w wynikach z przesztosci, znajdzie odzwierciedlenie w szacunkach na kolejnych
+pieé lat i w omawianych poprzednio prognozach dtugoterminowych. Sktonnosé do
+tego, aby za kazdym razem uwaza¢ dobry zarzad za czynnik, ktory nalezy bra¢ pod
+uwage, moze prowadzi¢ do kosztownego zawyzenia wartosci. Naszym zdaniem,
+kwestia zarzadu wazna jest tylko wtedy, gdy niedawno nastapita zmiana, ktora nie
+znalazia jeszcze odzwierciedlenia w biezacych danych.
+
+Dwa tego rodzaju spektakularne przyktady, maja zwiazek z Chrysler Motor
+Corporation. Pierwszy miat miejsce jeszcze w 1921 roku, gdy Walter Chrysler
+przejat prawie konajacqa Maxwell Motors i w ciagu kilku lat zrobit z niej duze,
+dochodowe przedsiebiorstwo, chociaz inne firmy motoryzacyjne zostaty wyparte
+z rynku. Drugi to wydarzenia z 1962 roku, gdy Chrysler spadt ze swej niegdys
+wysokiej pozycji, a jego akcje sprzedawaty sie najtaniej od wielu lat. Wtedy wodze
+przejeli nowi udziatowcy, zwiazani z Consolidation Coal. Zyski rosty od 1,24
+dolara na akcje w 1961 roku, do r6wnowartosci 17 dolar6w w 1963 roku, a cena,
+z minimum w 1962 roku na poziomie 38'/,, do r6wnowartosci niemal 200 w tym
+samym roku’
